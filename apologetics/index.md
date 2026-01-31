@@ -150,7 +150,110 @@ acquire new states, or actualize passive potency
 (Maximus the Confessor, *Ambigua*).
 
 The examples brought up almost always:
-* Show humanity changes, not God.
+
+<details>
+
+<summary>Humanity moves from communion to corruption; God remains the same</summary>
+
+Humanity’s moral and spiritual state changes over time:
+from obedience to disobedience, from communion to alienation.
+God’s will, goodness, and action do not change,
+but the **human capacity to receive divine life does**.
+
+St. Maximus the Confessor explains that God remains immutable,
+while creatures move toward or away from Him according to their disposition:
+
+> “God is always and immutably good.
+> But creatures participate in Him according to their own disposition,
+> and therefore experience Him differently.”
+— :contentReference[oaicite:0]{index=0}, *Ambigua*
+
+Thus, when Scripture narrates judgment or regret,
+it is describing a **change in the creature’s participation**,
+not a change in God’s nature or will.
+
+<details>
+
+<summary>Verses</summary>
+
+These explicitly state **God’s immutability** while human behavior changes:
+
+* **Malachi 3:6**
+
+  > “For I the Lord do not change; therefore you, O children of Jacob, are not consumed.”
+  > [https://www.bible.com/bible/111/MAL.3.6.NIV](https://www.bible.com/bible/111/MAL.3.6.NIV)
+
+* **Numbers 23:19**
+
+  > “God is not human, that he should lie, not a human being, that he should change his mind.”
+  > [https://www.bible.com/bible/111/NUM.23.19.NIV](https://www.bible.com/bible/111/NUM.23.19.NIV)
+
+* **1 Samuel 15:29**
+
+  > “He who is the Glory of Israel does not lie or change his mind; for he is not a human being.”
+  > [https://www.bible.com/bible/111/1SA.15.29.NIV](https://www.bible.com/bible/111/1SA.15.29.NIV)
+  > *(Same chapter that says God “regretted” making Saul king — internal control text)*
+
+* **Psalm 102:26–27**
+
+  > “They will perish, but you remain… you are the same, and your years will never end.”
+  > [https://www.bible.com/bible/111/PSA.102.26-27.NIV](https://www.bible.com/bible/111/PSA.102.26-27.NIV)
+
+</details>
+
+</details>
+
+<details>
+
+<summary>God’s action remains consistent; the experience changes</summary>
+
+God’s action is always directed toward life, goodness, and truth.
+However, that same action is experienced differently
+depending on whether the human person is ordered toward God or away from Him.
+
+St. Basil the Great uses the analogy of the sun to explain this principle:
+
+> “The same sun melts wax and hardens clay;
+> it is not changed, but produces different effects
+> according to the nature of what receives it.”
+— :contentReference[oaicite:1]{index=1}, *Homily on Psalm 33 (34)*
+
+God does not alternate between mercy and judgment as competing intentions;
+rather, **one unchanging divine goodness**
+is encountered as mercy or judgment
+according to the state of the receiver.
+
+---
+
+</details>
+
+<details>
+
+<summary>Judgment language reflects covenantal rupture, not divine revision</summary>
+
+When Scripture speaks of “regret,” “anger,” or “reversal,”
+it does so in **covenantal and relational terms**.
+These expressions indicate that the covenantal order has been violated by man,
+not that God has reconsidered or revised His will.
+
+St. John of Damascus makes this explicit:
+
+> “When you hear that God is angry or wrathful,
+> do not understand this as a passion;
+> rather, understand it as the effect of His justice
+> on those who have departed from good.”
+— :contentReference[oaicite:2]{index=2},
+*Exposition of the Orthodox Faith*, Book I
+
+Therefore, judgment is described as a “reversal” or “regret”
+because the **relationship has changed**,
+not because God has acquired a new intention or emotional state.
+
+No new state is actualized in God;
+the change is entirely on the side of the creature.
+
+</details>
+
 <details>
 
 <summary>Are relational, not ontological</summary>
@@ -164,9 +267,40 @@ John of Damascus explains divine language:
 No new state is actualized in God; what changes is the **mode of participation**
 of the creature.
 
----
+<details>
+
+<summary>Verses</summary>
+
+These show **unchanging divine action** experienced differently:
+
+* **Psalm 18:25–26**
+
+  > “To the faithful you show yourself faithful… but to the crooked you show yourself shrewd.”
+  > [https://www.bible.com/bible/111/PSA.18.25-26.NIV](https://www.bible.com/bible/111/PSA.18.25-26.NIV)
+
+* **Isaiah 55:8–9**
+
+  > “My thoughts are not your thoughts, neither are your ways my ways…”
+  > [https://www.bible.com/bible/111/ISA.55.8-9.NIV](https://www.bible.com/bible/111/ISA.55.8-9.NIV)
+
+* **Romans 2:5–6**
+
+  > “Because of your stubbornness and your unrepentant heart, you are storing up wrath for yourself…”
+  > [https://www.bible.com/bible/111/ROM.2.5-6.NIV](https://www.bible.com/bible/111/ROM.2.5-6.NIV)
+  > *(Wrath is accumulated by man, not generated in God)*
+
+* **Hebrews 12:29**
+
+  > “For our God is a consuming fire.”
+  > [https://www.bible.com/bible/111/HEB.12.29.NIV](https://www.bible.com/bible/111/HEB.12.29.NIV)
+  > *(Same fire that purifies or consumes, depending on the receiver — sun analogy logic)*
 
 </details>
+
+
+</details>
+
+---
 
 Analogy used by the fathers(John of Damascus, Exposition of the Orthodox Faith, Book I, ch. 11, Basil the Great, Homily on Psalm 33 (34)):<br>
 The sun:
@@ -180,11 +314,23 @@ So, the same divine goodness:
 
 This even flows down to the EO depiction of the concept of hell as the same source/light experienced in different ways based on the state of the receiver. (Isaac the Syrian, Ascetical Homilies, Homily 84, Gregory of Nazianzus, Oration 45 (On Holy Pascha))
 
-### verses 'showing' emotion
-Genesis 6:6-7
- 6The Lord regretted that he had made human beings on the earth, and his heart was deeply troubled. 7So the Lord said, “I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them.”
+<details>
 
- https://www.bible.com/bible/111/GEN.6.NIV
+<summary><b>Verses 'showing' emotion</b></summary>
+
+**Exodus 4:14**
+(Category: Relational, not ontological)
+> 'Then the Lord ’s anger burned against Moses and he said, “What about your brother, Aaron the Levite? I know he can speak well. He is already on his way to meet you, and he will be glad to see you. '
+
+[bible.com](https://www.bible.com/bible/111/EXO.4.14)
+
+**Genesis 6:6-7**
+(Category: Humanity changes, not God; relational in expression)
+> 6The Lord regretted that he had made human beings on the earth, and his heart was deeply troubled. 7So the Lord said, “I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them.”
+
+[bible.com](https://www.bible.com/bible/111/GEN.6.NIV)
+
+</details>
 
 ---
 
