@@ -9,7 +9,13 @@
 ---
 
 # sacraments
-1. baptism
+1. Baptism – entrance into the Church; death and resurrection in Christ
+1. Chrismation – reception of the Holy Spirit (given immediately after Baptism)
+1. Eucharist (Holy Communion) – participation in the Body and Blood of Christ
+1. Confession (Repentance) – reconciliation and healing through absolution
+1. Marriage (Crowning) – union of man and woman in Christ
+1. Holy Orders (Ordination) – ordination of deacon, priest, or bishop
+1. Holy Unction – anointing for healing of soul and body
 
 ---
 
@@ -184,3 +190,11 @@ Genesis 6:6-7
 
 </details>
 
+# common hypotheticals
+
+1. trolley problem
+1. button
+1. lying
+
+
+discord.gg/diabloii
