@@ -1176,6 +1176,98 @@ coming out, man. Take care.
 
 ## 2) Salvation: Faith alone vs faith + baptism/church life/commandments
 
+### summary pro
+
+*How does the Bible define faith?*
+Ryan: Fully convinced that God will do what he has promised to do.
+
+Faith alone example: Worst person on deathbed becomes convinced of Jesus and would therefore be saved:
+* Should be in Hell
+* Jesus took my punishment
+* I will rely on him alone to save me
+* **Therefore that person goes to Heaven.**
+
+There are things we ought to do but they are not requirements for salvation:
+* baptism
+
+
+*Does forgivenes of sin equal salvation? Examples in Bible Luke 7:47-50; Matthew 9:2; Theif on cross*
+
+Luke 7:47-50
+> 47Therefore, I tell you, her many sins have been forgiven—as her great love has shown. But whoever has been forgiven little loves little.”
+48Then Jesus said to her, “Your sins are forgiven.”
+49The other guests began to say among themselves, “Who is this who even forgives sins?”
+50Jesus said to the woman, “Your faith has saved you; go in peace.”
+
+> her many sins have been forgiven
+*Is this salific?* 
+
+> —as her great love has shown
+*Does this mean it was because her love was expressed or just here is evidence of her faith?*
+
+>Your faith has saved you; go in peace.
+*Is this permanent or contigent on remaining in peace?*
+
+Matthew 9:2
+> 2Some men brought to him a paralyzed man, lying on a mat. When Jesus saw their faith, he said to the man, “Take heart, son; your sins are forgiven.”
+
+John 6:48-51
+> 48I am the bread of life.49Your ancestors ate the manna in the wilderness, yet they died.50But here is the bread that comes down from heaven, which anyone may eat and not die.51I am the living bread that came down from heaven. Whoever eats this bread will live forever. This bread is my flesh, which I will give for the life of the world.”
+
+Language is clearly a metaphor, Jesus is not a literal loaf of bread. This also applies to 53 even though Jesus changes the word specifically 'to munch', this does NOT mean take a bit of his literal arm so is clearly figurative.
+
+
+*Why is this a hard teaching, what exactly is the meaning of the teaching referenced in John 6:60?*
+
+John 6:68-69
+> 68Simon Peter answered him, “Lord, to whom shall we go? You have the words of eternal life. 69We have come to believe and to know that you are the Holy One of God.”
+
+Because he has belief he has eternal life and this is prior to the last supper, eucharist etc. Therefore, belief is sufficient and eucharist is not required.
+
+
+Acts 16:30-33
+ 30He then brought them out and asked, “Sirs, what must I do to be saved?”
+31They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.” 32Then they spoke the word of the Lord to him and to all the others in his house. 33At that hour of the night the jailer took them and washed their wounds; then immediately he and all his household were baptized. 
+
+Again only says belief. Baptism followed but was not required.
+
+
+R: shifts to: "If Christ paid for all my sins. Past, present and even future ones. How could I be sent to Hell?"
+
+P: We could fall away
+R: Christ sustains us, Jude 1 he called us and keeps us
+
+John 6:35-40
+35Then Jesus declared, “I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty.36But as I told you, you have seen me and still you do not believe.37All those the Father gives me will come to me, and whoever comes to me I will never drive away.38For I have come down from heaven not to do my will but to do the will of him who sent me.39And this is the will of him who sent me, that I shall lose none of all those he has given me, but raise them up at the last day.40For my Father’s will is that everyone who looks to the Son and believes in him shall have eternal life, and I will raise them up at the last day.”
+
+R: God will never cast you out. 
+P: But you could still walk out. 
+*Is doing certain things walking out or a sign you were never in?*
+
+R: Did Jesus' death take the punishment for all the sins that you have done?
+P: agrees
+R: How much punishment is left then if Jesus paid for all of it?
+
+OTHER STUFF
+
+Romans 4:29 what does foreknowledge mean?
+
+fasting contradiction
+EO holds fast the night before. 1 Cor 11:33 Paul explicitly tells them to eat before so they don't come hungry.
+
+EO(schism true) claims fasting is required in order to be rid of certain demons? Ryan counters with 2 Thess:3, demons can't affect a Christian - nothing to do with fasting. EO(schism true) wants to go to Matthew 17:21 for context. Ryan rejects authenticity as this verse was not part of early manuscripts.
+
+### Counter
+
+There are things that can separate us from God.
+
+The thief on the cross believed AND repented.
+
+Salvation is conditional not free.
+John 6:53-58
+> 53Jesus said to them, “Very truly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you.54Whoever eats my flesh and drinks my blood has eternal life, and I will raise them up at the last day.55For my flesh is real food and my blood is real drink.56Whoever eats my flesh and drinks my blood remains in me, and I in them.57Just as the living Father sent me and I live because of the Father, so the one who feeds on me will live because of me.58This is the bread that came down from heaven. Your ancestors ate manna and died, but whoever feeds on this bread will live forever.”
+
+
 ### Pro: Presbyterian (Ryan)
 
 * **Claim:** Saved “by grace through faith, not by works.” **[1:26–1:44]**
