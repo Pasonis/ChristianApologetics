@@ -20,8 +20,9 @@
 
 ---
 
-# rejected concepts
-1. Monothelitism - Jesus had one will and two natures.
+# Heresies
+1. [Monothelitism](Monothelitism) - Jesus had one will and two natures.
+1. Origenistism - Pre-existant/eternal souls that fell out of love with God and are incarnated
 
 ## Monothelitism
 Rejected because it is believed that what is not assumed is not healed. A key patristic principle from Gregory of Nazianzus: “That which He has not assumed, He has not healed.” Assumed in this context means Christ took on the full integrity of human nature—mind, will, soul, and body—as created by God NOT that he has to engage in all or specific acts in order to sanctify them.[2]
@@ -37,17 +38,6 @@ Rejected because it is believed that what is not assumed is not healed. A key pa
 
 ---
 
-# other groups
-1. Origenist
-
----
-
-## Origenist
-Believed in pre-incarnate souls that grew tired of God's perfection and fell to Earth to be embodied and go through purification to be reuinted with God.
-
-### Referneces
-
----
 
 # Church fathers
 1. Maximus the Confessor

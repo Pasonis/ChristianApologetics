@@ -1191,7 +1191,15 @@ There are things we ought to do but they are not requirements for salvation:
 * baptism
 
 
-*Does forgivenes of sin equal salvation? Examples in Bible Luke 7:47-50; Matthew 9:2; Theif on cross*
+*Does forgivenes of sin equal salvation? Examples in Bible Luke 7:47-50; Matthew 9:2; Thief on cross*
+The thief demonstrates that saving [faith](faith.md#early-church-fathers-on-faith)in Scripture includes [repentance](https://drive.google.com/file/d/1Pyhg5EuYxpgaMY_jhI7vP8tOD53jM09d/view?pli=1), confession of sin, acknowledgment of Christ’s innocence, and a humble appeal to His mercy—not merely intellectual belief.
+
+Faith: The living, covenantal, participatory union with Christ that begins in trust but is completed in obedience, love, and perseverance - NOT mere intellect/trust
+[Repent pg 39](https://drive.google.com/file/d/1Pyhg5EuYxpgaMY_jhI7vP8tOD53jM09d/view?pli=1)
+* Changed mind - acknowledge 
+* Changed heart - feel
+* Changed direction - do
+
 
 Luke 7:47-50
 > 47Therefore, I tell you, her many sins have been forgiven—as her great love has shown. But whoever has been forgiven little loves little.”

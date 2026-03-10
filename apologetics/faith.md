@@ -1,4 +1,4 @@
-This is a very good question — because in Eastern Orthodoxy the disagreement with Protestantism is often **not about whether faith saves**, but about **what “faith” actually is**.
+In Eastern Orthodoxy the disagreement with Protestantism is often **not about whether faith saves**, but about **what “faith” actually is**.
 
 ---
 
@@ -41,46 +41,142 @@ Faith without transformation is considered incomplete or dead.
 
 # 3️⃣ Biblical Foundations Used in EO
 
+John 15:4-6; 2 Corinthians 10; Galations 5:6; Philippians 2:12-13; Hebrews 11:1; James 2:17
+
 ### A) Faith as Living and Active
 
-> **Galatians 5:6**
-> “The only thing that counts is faith working through love.”
+> **John 15:4–6** - The True Vine
+> ... 3 “You are already clean because of the word which I have spoken to you. 4 “Abide in Me, and I in you. As the branch cannot bear fruit of itself, unless it abides in the vine, neither can you, unless you abide in Me. 5 “I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing. 6 “If anyone does not abide in Me, he is cast out as a branch and is withered; and they gather them and throw them into the fire, and they are burned.
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1455). Thomas Nelson. Kindle Edition.*
+
+Footnote 15:1–6 The vine is a symbol of Israel (Is 5:1–7; Jer 2:21). In contrast to disobedient and unfruitful Israel, our Lord calls Himself the true vine, which together with the branches constitutes a new and fruitful people of God: the Church. At the Divine Liturgy, the bishop prays that the Lord will visit and confirm the vineyard, the local body of Christ, which He planted with His own right hand (Ps 79:15, 16). To abide in this vine is to abide in Christ and His Church. The figure of the vine and the branches shows (1) our union with Christ is intimate and real; (2) life flows from the vine to the branches—abiding in Christ is dynamic and vitalizing; and (3) the fruit we bear is both good works and mission (v. 16; 17:18).
+
+Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1467). Thomas Nelson. Kindle Edition. 
+
+#### TODO - church fathers on The True Vine
+* Cyril of Alexandria - Commentary on John, Book 10–11
+* Augustine of Hippo - Tractates on the Gospel of John, Tractate 81–82
+
+
+Faith is abiding — relational union.
+
+---
+> **2 Corinthians 5:10** - The Judgement seat of Christ
+> 10For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad.
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1578). Thomas Nelson. Kindle Edition.*
+
+Footnote 5:10 Following his discourse on suffering, death, and resurrection (4:16–5:8), Paul now turns to the judgment. We must all appear, not only the unbelievers, to be judged according to what we have done. For Christians, right belief gives power and motivation for right behavior. Here again, the NT unifies faith and works.
+
+Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1586). Thomas Nelson. Kindle Edition. 
+
+#### TODO - church fathers on The Judgement seat of Christ
+
+<details>
+
+<summary>Athanasius of Alexandria</summary>
+
+**On the Incarnation** § 56 
+> Here, then, Macarius, is our offering to you who love Christ, **a brief statement of the faith of Christ and of the manifestation of His Godhead to us**. This will give you a beginning, and you must go on to prove its truth by the study of the Scriptures. They were written and inspired by God; and we, who have learned from inspired teachers who read the Scriptures and became martyrs for the Godhead of Christ, make further contribution to your eagerness to learn. From the Scriptures you will learn also of His second manifestation to us, glorious and divine indeed, when He shall come not in lowliness but in His proper glory, no longer in humiliation but in majesty, no longer to suffer but to bestow on us all the fruit of His cross—the resurrection and incorruptibility. No longer will He then be judged, but rather will Himself be judge, **judging each and all according to their deeds done in the body, whether good or ill.** Then for the good is laid up the heavenly kingdom, but for those that practise evil outer darkness and the eternal fire. So also the Lord Himself says, “I say unto you, hereafter ye shall see the Son of Man seated on the right hand of power, coming on the clouds of heaven in the glory of the Father.” For that Day we have one of His own sayings to prepare us, “Get ready and watch, for ye know not the hour in which He cometh.”7 And blessed Paul says, “We must all stand before the judgment seat of Christ, **that each one may receive according as he practised in the body**, whether good or ill.”
+
+Athanasius of Alexandria. On the Incarnation (p. 93). GLH Publishing. Kindle Edition. 
+
+</details>
+
+* John Chrysostom - Homilies on 2 Corinthians, Homily 10
+* Gregory of Nyssa - On the Soul and the Resurrection
+
+---
+
+> **Galatians 5:6** - Christian Liberty
+> 1Stand fast therefore in the liberty by which Christ has made us free,a and do not be entangled again with a yoke of bondage. 2Indeed I, Paul, say to you that if you become circumcised, Christ will profit you nothing. 3And I testify again to every man who becomes circumcised that he is a debtor to keep the whole law. 4You have become estranged from Christ, you who attempt to be justified by law; you have fallen from grace. 5For we through the Spirit eagerly wait for the hope of righteousness by faith. 6For in Christ Jesus neither circumcision nor uncircumcision avails anything, but faith working through love. Love Fulfills the Law
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (pp. 1594-1595). Thomas Nelson. Kindle Edition.* 
+
+#### TODO - church fathers on Christian Liberty
+
+* Cyril of Alexandria - Commentary on Galatians
+* Augustine of Hippo - On the Spirit and the Letter (De Spiritu et Littera), ch. 26–32
 
 Orthodox emphasis:
 Faith must be energized by love.
 
 ---
 
-> **James 2:17**
-> “Faith by itself, if it does not have works, is dead.”
+> **Philippians 2:12–13** - Unity Through Humility
+
+> 12 Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling; 13for it is God who works in you both to will and to do for His good pleasure.
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1613). Thomas Nelson. Kindle Edition.*
+
+Footnote 2:12, 13 Therefore, because of Christ’s sacrifice, we are to take hold of what God offers, accepting His grace and working toward becoming mature in Christ. Note the cooperation: we work out our own salvation (v. 12) while it is God who works in us to do His will (v. 13).
+
+Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1616). Thomas Nelson. Kindle Edition. 
+
+#### TODO - church fathers on Unity Through Humility
+
+* Maximus - Christological hymn
+* John Chrysostom - Homilies on Philippians, Homily 8
+* Theodore of Mopsuestia - Commentary on Philippians
+
+Synergy: God works; we cooperate.
+
+---
+
+> **Hebrews 11:1** - By Faith We Understand
+> 1Now faith is the substance of things hoped for, the evidence of things not seen.
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1666). Thomas Nelson. Kindle Edition.*
+
+Footnote 11:1 This is not so much a definition of faith as it is a description of how faith works, especially during hard times. It encourages Jewish Christians discouraged by persecution. Things hoped for and not seen, a vision of the future, have encouraged the people of God throughout history: the invisible is often more real than the visible. In the past, mighty works of faith were done by those whose faith was unfulfilled. How much more should those persevere who have inherited the promise, knowing God under the new covenant (vv. 39, 40)?
+
+Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1672). Thomas Nelson. Kindle Edition. 
+
+#### TODO - church fathers on By Faith We Understand
+* John Chrysostom - Homilies on Hebrews, Homily 21, Homily 31
+* Cyril of Jerusalem - Catechetical Lectures, Lecture 5
+
+
+Faith is existential participation in unseen realities.
+
+---
+
+> **James 2:14-19** - Faith Without Works Is Dead
+
+> 14 What does it profit, my brethren, if someone says he has faith but does not have works? Can faith save him? 15If a brother or sister is naked and destitute of daily food, 16and one of you says to them, “Depart in peace, be warmed and filled,” but you do not give them the things which are needed for the body, what does it profit? 17Thus also faith by itself, if it does not have works, is dead. 18But someone will say, “You have faith, and I have works.” Show me your faith without yourd works, and I will show you my faith by mye works. 19You believe that there is one God. You do well. Even the demons believe—and tremble!
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 1676). Thomas Nelson. Kindle Edition.*
+
+#### TODO - church fathers on Faith Without Works Is Dead
+
+* Maximus the Confessor
+	* Questions to Thalassius 59
+	* Questions to Thalassius 21
+	* Capita de Caritate (Four Hundred Chapters on Love), 1.39–1.40
+
+* John Chrysostom
+	* Homilies on Romans (esp. Homily 7)
+
+* Cyril of Alexandria - Glaphyra on the Pentateuch, Commentary on John (Book 10–11)
+* Bede the Venerable - Commentary on James
 
 EO reading:
 Dead faith is not saving faith.
 
 ---
 
-> **Hebrews 11:1**
-> “Faith is the substance of things hoped for…”
+# 6️⃣ Early Church Fathers on Faith
+To the Fathers, the definition of faith follows from the definition of salvation. And their definition of salvation is more like:
+`salvation = healing, union, incorruption`
+This means that faith cannot mean mere intellectual trust.
+> Faith (πίστις) is the living, covenantal, participatory union with Christ that begins in trust but is completed in obedience, love, and perseverance.
 
-Faith is existential participation in unseen realities.
+Protestants tend to start with salvation or soteriology first then work backwards and arrive at something like:
+`salvation = legal declaration`
+Then faith can be reduced to mental assent.
 
----
-
-> **John 15:4–6**
-> “Abide in me…”
-
-Faith is abiding — relational union.
-
----
-
-> **Philippians 2:12–13**
-> “Work out your salvation… for God works in you.”
-
-Synergy: God works; we cooperate.
-
----
-
-# 4️⃣ What Faith Looks Like Practically (EO)
+## What Faith Looks Like Practically (EO)
 
 Faith manifests as:
 
@@ -97,7 +193,7 @@ They are expressions of living faith.
 
 ---
 
-# 5️⃣ Effects of Faith (EO Perspective)
+## Effects of Faith (EO Perspective)
 
 Faith:
 
@@ -113,9 +209,7 @@ It is the beginning of transformation.
 
 ---
 
-# 6️⃣ Early Church Fathers on Faith
-
-## 🔹 Irenaeus
+## 🔹 TODO Irenaeus
 
 Faith is obedience to the Son and participation in the restored life of Adam in Christ.
 
@@ -123,17 +217,7 @@ He speaks of salvation as recapitulation — Christ restoring humanity.
 
 ---
 
-## 🔹 Athanasius
-
-In *On the Incarnation*:
-
-Faith unites us to the One who conquers death.
-It is not framed as legal payment acceptance.
-It is union with the Incarnate Word.
-
----
-
-## 🔹 John Chrysostom
+## 🔹 TODO John Chrysostom
 
 He speaks often of:
 
@@ -150,47 +234,15 @@ He explicitly rejects the idea that mere belief without life change saves.
 Faith is participation in Christ that restores the human will.
 It is synergy — divine grace and human cooperation.
 
----
+Ambiguum 7
+> ...the most precious possession, I mean love, by which all things made by God are brought back to abide in God forever.
 
-# 7️⃣ How EO and Reformed Definitions Diverge
+*Saint Maximus Confessor. On The Cosmic Mystery of Jesus Christ (Popular Patristics Series Book 25) (p. 56). Kindle Edition.*
 
-Reformed definition:
-Faith = trusting Christ’s finished work alone for justification.
-Works follow but do not participate in justification.
+AD THALASSIUM 2 On God's Preservation and Integration of the Universe
+ 
+> The manner of birth from God within us is two-fold: the one bestows the grace of adoption, which is entirely present in potency ( ouvaµst) in those who are born of God; the other introduces, wholly by active exertion (Ken' EVEpysiav), that grace which deliberately ( yvro µtK&c;) reorients the entire free choice of the one being born of God toward the God who gives birth.1 The first bears the grace, pres ent in potency, through faith alone; but the second, beyond faith, also engenders in the knower the sublimely divine likeness of the One known, that likeness being effected precisely through knowledge. Therefore the first manner of birth is observed in some because their will (yvcbµ11), not yet fully detached from its propensity to the flesh, has yet to be wholly endowed with the Spirit by participation in the divine mysteries that are made known through active end eavor.
 
-EO definition:
-Faith = living fidelity to Christ that includes obedience and love.
-Works are not separate from faith — they are its expression.
-
-The disagreement is not whether faith saves.
-It’s whether faith can exist apart from embodied obedience.
+*Saint Maximus Confessor. On The Cosmic Mystery of Jesus Christ (Popular Patristics Series Book 25) (p. 130). Kindle Edition.*
 
 ---
-
-# 8️⃣ Important Clarification
-
-Orthodoxy does NOT teach:
-“We earn salvation by works.”
-
-Rather:
-Faith that does not become love is incomplete.
-
-The difference is ontological rather than transactional.
-
----
-
-# 9️⃣ Short Summary Definition
-
-In Eastern Orthodoxy:
-
-> Faith is living trustful fidelity to Christ that unites us to Him and must be expressed through love, repentance, and perseverance.
-
----
-
-If you’d like, we can next:
-
-* Compare EO faith with James 2 in detail
-* Or contrast EO faith vs Luther’s definition
-* Or examine whether “faith alone” can be harmonized with EO
-
-Where would you like to go deeper?
