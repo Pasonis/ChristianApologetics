@@ -246,3 +246,5 @@ AD THALASSIUM 2 On God's Preservation and Integration of the Universe
 *Saint Maximus Confessor. On The Cosmic Mystery of Jesus Christ (Popular Patristics Series Book 25) (p. 130). Kindle Edition.*
 
 ---
+
+[index](index.md)

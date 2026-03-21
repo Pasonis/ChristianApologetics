@@ -1498,6 +1498,6 @@ Orthodox and Catholic interpreters usually read it more straightforwardly:
 
 ---
 
-[index](index.md#islam-refutation)
+[index](index.md)
 
 
