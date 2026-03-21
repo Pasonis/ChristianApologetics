@@ -225,10 +225,12 @@ It **is**:
 
 **Response:** `Islamic law does not operate by English literalism but by legal categories and conditional commands. The Qur’an explicitly mandates coercive violence, subjugation, and humiliation even when not phrased in the exact wording demanded. In addition, the Qur’an contains no command to love Jews, Christians, or non-believers, nor does it teach peaceful coexistence as a universal ethic independent of submission or treaty. Armed struggle is justified on the basis of religious non-compliance, while peace is conditional—secured either through submission to Islamic authority (e.g., jizya) or through temporary treaty.`
 
----
-
 </details>
 
+
+---
+
+[index](index.md#islam-refutation)
 
 passionate action
 wisdom of solomon (RSV) chap 7 - 10

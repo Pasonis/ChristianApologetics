@@ -1,3 +1,11 @@
+23Nothing unrighteous will ever be pleasing to the righteous, But the ungodly will be filled with evil things.
+
+Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 841). Thomas Nelson. Kindle Edition. 
+
+28A righteous arbiter shall be his own friend, But the decisions of the ungodly are unreasonable.
+
+Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 841). Thomas Nelson. Kindle Edition. 
+
 # Accepted Concepts
 1. [Divine Providence](divine_providence.md)
 1. Passiblity
@@ -5,10 +13,11 @@
 1. [Trinity](trinity.md)
 1. [Theophanies](theophanies.md)
 1. energeia
+1. [soteriology](soteriology.md)
 
 ---
 
-# sacraments
+# Sacraments
 1. Baptism – entrance into the Church; death and resurrection in Christ
 1. Chrismation – reception of the Holy Spirit (given immediately after Baptism)
 1. Eucharist (Holy Communion) – participation in the Body and Blood of Christ
@@ -19,8 +28,12 @@
 
 ---
 
-# rejected concepts
-1. Monothelitism - Jesus had one will and two natures.
+# Heresies
+1. [Monothelitism](Monothelitism) - Jesus had one will and two natures.
+1. Origenistism - Pre-existant/eternal souls that fell out of love with God and are incarnated
+1. Manicheanism - Believe in a dualist contrast or conflict between opposites
+1. Marcionists?
+1. Oriental Orthodox - rejected 4th council, something to do with the two wills or nature of Christ incarnated?
 
 ## Monothelitism
 Rejected because it is believed that what is not assumed is not healed. A key patristic principle from Gregory of Nazianzus: “That which He has not assumed, He has not healed.” Assumed in this context means Christ took on the full integrity of human nature—mind, will, soul, and body—as created by God NOT that he has to engage in all or specific acts in order to sanctify them.[2]
@@ -36,17 +49,21 @@ Rejected because it is believed that what is not assumed is not healed. A key pa
 
 ---
 
-# other groups
-1. Origenist
+## Origenistism
 
----
+- Maximus the Confessor 
+	* Ambiguum 7
 
-## Origenist
-Believed in pre-incarnate souls that grew tired of God's perfection and fell to Earth to be embodied and go through purification to be reuinted with God.
+- Augustine of Hippo
+	* The City of God
+			* Book 12
+				* Chapter 20
+					"is to combat the theory of cycles?"
 
-### Referneces
+Saint Maximus Confessor. On The Cosmic Mystery of Jesus Christ (Popular Patristics Series Book 25) (p. 57). Kindle Edition. 
 
----
+# Rejected Concepts
+1. [Sola Scriptura](solascriptura.md)
 
 # Church fathers
 1. Maximus the Confessor
@@ -54,19 +71,29 @@ Believed in pre-incarnate souls that grew tired of God's perfection and fell to 
 
 ---
 
-## Maximus the Confessor
+<details>
+
+<summary><h2>Maximus the Confessor</h2></summary>
+
 Known for his sophisticated response to Origenism and compelling explanation of the dynamics of the fall. 
 Preceded by and heavily leans on Gregory of Nyssa.
 - Three universal laws in the economy of salvation
 	1. natural - The fundamental enjoyment of being
 	1. scriptural - the enjoyment of a higher well-being
 	1. grace - eternal well-being
+
+</details>
+
 ---
 
 # Islam refutation
 1. [Islamic dilemma](islamic_dilemma.md)
+1. [Religion of peace](islamic_peace.md)
 
 ---
+
+# Important themes
+1. universal gospel
 
 # common objections
 
@@ -78,7 +105,10 @@ The bible never endorses slavery. It perscribes standards of treatment for slave
 
 tldr: **No, the Bible does not endorse slavery. Regulation is not endorsement**
 
-### verses
+<details>
+
+<summary><h3>verses</h3></summary>
+
 Exodus 21:20-21
 20“Anyone who beats their male or female slave with a rod must be punished if the slave dies as a direct result, 21but they are not to be punished if the slave recovers after a day or two, since the slave is their property. - 
 
@@ -90,6 +120,8 @@ Ephesians 6:5-9
 21Were you a slave when you were called? Don’t let it trouble you—although if you can gain your freedom, do so. 22For the one who was a slave when called to faith in the Lord is the Lord’s freed person; similarly, the one who was free when called is Christ’s slave. 23You were bought at a price; do not become slaves of human beings. 
 
 ---
+
+</details>
 
 </details>
 
@@ -190,11 +222,74 @@ Genesis 6:6-7
 
 </details>
 
+
+
+<details>
+
+<summary>Unfair treatment</summary>
+
+> 3The child of a prostitute shall not enter the assembly of the Lord.
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 239). Thomas Nelson. Kindle Edition.*
+
+The best answer is: **probably not cut off from all access to God, but restricted from full public covenant status**.
+
+That is exactly why this verse bothers readers. If “assembly of the LORD” meant **absolute exclusion from every form of worship and repentance**, it would create a very severe problem, especially since the person in Deut. 23:2 did not choose his birth. The phrase is usually read more narrowly than that. ([The Torah][1])
+
+What it most likely means is one of these closely related ideas:
+
+* **full recognized membership in Israel’s public covenant body**
+* **eligibility to marry into the ordinary Israelite community**
+* **eligibility for civic / legal standing in the formal assembly**
+* possibly, in some readings, **participation in certain cultic/public assemblies**, but not “you may never seek or pray to the God of Israel” ([The Torah][1])
+
+So to your direct question, **can they participate in public worship?** The most careful answer is:
+
+**Probably not in every sense of full covenantal participation, but also probably not absolutely barred from all approach to God.** The phrase is too technical to flatten into “totally damned” or “forbidden to repent.” Scholarly and Jewish readings often take it as a status restriction more than a total ban on religious life. Rabbinic interpretation classically took “enter the assembly” largely in the sense of **marrying into the ordinary congregation of Israel**, which is narrower than a total worship ban. ([Wikipedia][2])
+
+That narrower reading helps with the moral problem you’re raising. It still remains a hard law, but it is not the same as saying:
+
+> “God refuses to hear this person,”
+> or
+> “this person may never repent, purify himself, or draw near in any way.”
+
+I do not think the text requires that stronger conclusion. ([The Torah][1])
+
+There are a few reasons for saying that.
+
+First, the phrase **“assembly of the LORD”** in Deut. 23 looks like a **technical communal-status term**, because it is used for categories that are then discussed in generational language like “to the tenth generation” and “third generation.” That sounds more like **inheritance of communal standing** than day-to-day synagogue-style attendance or private prayer. ([The Torah][1])
+
+Second, some interpreters explicitly note that the phrase may refer to a **worshiping/public assembly within the broader people**, which still implies a distinction between being outside one level of formal participation and being outside God’s reach altogether. ([3182d453b68388416980-71bc4c8fd3e50b4ee0e248e517d3026f.ssl.cf2.rackcdn.com][3])
+
+Third, later biblical developments complicate any totalizing reading. Isaiah 56 explicitly speaks of **eunuchs** and **foreigners** who keep covenant being welcomed by God in a way that reverses earlier exclusion language. That does not erase the Deuteronomic law in its original setting, but it shows that exclusion from the “assembly” was not God’s last word in redemptive history. ([Christian Study Library][4])
+
+On the fairness issue: **yes, this is one of the morally difficult laws**. I do not think there is an easy answer that makes it feel painless. The strongest way Christians usually frame it is not “the child is personally guilty,” but that in the Mosaic polity certain conditions created **legal/covenantal disabilities** that symbolized disorder in Israel’s holy commonwealth. That is still hard, but it is different from saying God is personally condemning the child for another person’s sin. ([Christian Study Library][4])
+
+That is also why your comparison with **Moab** matters. With Moab and Ammon, Deut. 23 itself gives a stated historical reason in the next verses: hostility to Israel and the Balaam episode. That is easier to explain because it is tied to a corporate history of covenant opposition. ([NetBible][5])
+
+With **mamzer / illicit birth** in v. 2, the rationale is much less explicit, which is one reason the verse feels harsher. The ancient logic seems to be about the protection of Israel’s covenant order, genealogy, and marriage structure, not about the child’s voluntary idolatry. That is precisely why many later interpreters narrowed the meaning to **marriage/community status** rather than total exclusion from God. ([Wikipedia][2])
+
+So my clean answer is:
+
+* **No**, I do not think Deut. 23:2 most likely means the person is utterly cut off from God or unable to repent.
+* **Yes**, it most likely does mean a real restriction from **full covenantal/public status** in Israel.
+* The most plausible concrete form of that restriction is **marriage and formal communal standing**, and perhaps some kinds of public cultic participation, rather than a blanket ban on all worship whatsoever. ([The Torah][1])
+
+From an Orthodox angle, this is one of those places where the Church reads the old covenant law as a **historical holiness code for Israel** that is not the final revelation of God’s heart in Christ. That does not make the verse vanish, but it does keep you from concluding that God’s final word is hereditary exclusion. The movement toward inclusion in Isaiah 56 and ultimately in Christ is important there. ([Christian Study Library][4])
+
+If you want, I can next give you a **very tight comparison of Deut. 23:2, 23:3, Ruth, and Isaiah 56** to show how the tension develops canonically.
+
+[1]: https://www.thetorah.com/article/the-prohibition-of-joining-the-assembly-of-the-lord?utm_source=chatgpt.com "The Prohibition of Joining the Assembly of the Lord"
+[2]: https://en.wikipedia.org/wiki/Mamzer?utm_source=chatgpt.com "Mamzer"
+[3]: https://3182d453b68388416980-71bc4c8fd3e50b4ee0e248e517d3026f.ssl.cf2.rackcdn.com/uploaded/e/0e10852834_1598570142_excluded-from-the-assembly-deuteronomy-231-8-transcript.pdf?utm_source=chatgpt.com "Excluded From the Assembly? (Deuteronomy 23:1-8)"
+[4]: https://www.christianstudylibrary.org/article/deuteronomy-23-mutual-responsibility-within-covenant-community?utm_source=chatgpt.com "Mutual Responsibility within the Covenant Community"
+[5]: https://netbible.org/bible/Deuteronomy%2B23?utm_source=chatgpt.com "Deuteronomy 23"
+
+
+</details>
+
 # common hypotheticals
 
 1. trolley problem
 1. button
 1. lying
-
-
-discord.gg/diabloii

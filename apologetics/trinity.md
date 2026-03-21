@@ -2,10 +2,75 @@
 
 1. hypostatic properties - properties of the person in the trinity e.g. the son is begotten
 1. essential properties - properties necessary of the essence. In the trinity this means the divine essense or divine being in which all hypostasis share in e.g. omniscience.
+1. Nature - What a thing is; the set of essential properties that make something the kind of thing it is. “Human nature” is what all humans share. “Divine nature” is what the Father, Son, and Holy Spirit fully share. Greek: physis.
+1. Person - The concrete “who,” not the abstract “what.” A person is not merely an instance of a nature in an impersonal sense, but a real, irreducible subject. In later Orthodox usage, “person” is very close to hypostasis, though “person” is often the more accessible English term. Greek: prosopon can sometimes be used, though hypostasis is usually the stronger technical term.
+1. Hypostasis - A concrete, subsisting individual reality; the “who” that exists in and possesses a nature. In Trinitarian theology, the Father, Son, and Holy Spirit are three hypostases of the one divine essence. In Christology, the one hypostasis of the Son subsists in two natures, divine and human.
+1. Essence - The underlying being or essential reality of something; what something is in the deepest sense. In Trinitarian theology, the one divine essence is fully possessed by the three divine hypostases. Greek: ousia.
+
+## simply
+Essence / Nature = what something is
+Person / Hypostasis = who someone is
 
 ---
 
-# Example Debate with Muslim
+# Bible verses
+
+
+<details>
+
+<summary>Genesis 1:1-3</summary>
+
+> 1In the beginning God made heaven and earth. 2The earth was invisible and unfinished; and darkness was over the deep. The Spirit of God was hovering over the face of the water. 3Then God said, “Let there be light”; and there was light.
+
+Footnote: 1:3 God the Father spoke to His Word and Only-begotten Son, through whom He made the light (AthanG). Since the Son, too, is Lord, He is coequal with the Father, and is His Coworker in making heaven and earth. The Holy Fathers teach that the Father made heaven and earth through the Son and in the Holy Spirit. Thus, the Holy Trinity made heaven and earth, and the Church sings, “We glorify the Father, we exalt the Son, and we worship the Holy Spirit—the indivisible Trinity who exists as One—the Light and Lights, the Life and Lives, who grants light and life to the ends of the world” (CanonAnd).
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 3). Thomas Nelson. Kindle Edition.*
+
+## Church Fathers
+* St. Athanasius the Great
+* The Great Canon of St. Andrew of Crete
+
+---
+
+</details>
+
+<details>
+
+<summary>Genesis 1:26-27</summary>
+
+> 26Then God said, “Let Us make man in Our image, according to Our likeness. Let them have dominion over the fish of the sea, over the birds of heaven, over the cattle, and over all the earth, and over every creeping thing that moves on the earth.”
+
+Footnote: 1:26–30 The Holy Trinity also made man. God the Father is speaking to God the Son (JohnChr), and He uses the personal pronouns Us and Our. These pronouns indicate three distinct Persons: the Father, the Son, and the Holy Spirit, as noted in 1:1–3. The word image is in the singular, and shows the three distinct Persons of the Holy Trinity are one in nature and undivided. For it does not say, “Our images” (HilryP). Therefore, the Holy Trinity is one undivided nature in three distinct Persons. Man is not one in nature with the Holy Trinity. But He was made in the image and likeness of the Holy Trinity; and he was made male and female. Therefore, the dignity of each man and each woman is this image and likeness.
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 3). Thomas Nelson. Kindle Edition.*
+
+## Church Fathers
+* Hilary of Poitiers, On the Trinity (De Trinitate), Book IV, chapter 18
+* John Chrysostom, and the wording “God the Father is speaking to God the Son” matches a line in Homily 33 on the Gospel of John
+
+---
+
+</details>
+
+<details>
+
+<summary>Genesis 5:3</summary>
+
+> 3Now Adam lived two hundred and thirty years, and begot a son according to his form and image, and named him Seth.
+
+Footnote: 5:3 Seth was begotten from Adam and Eve. This threefold relationship illustrates, to a certain extent, the Holy Trinity. Adam had no human father. He was begotten by no one. Thus, he was unbegotten. Seth was begotten from Adam. Eve was neither unbegotten nor begotten. Instead she proceeded from Adam (2:21). Therefore, Eve and Seth were related to the unbegotten Adam, but each in a unique manner—Eve proceeded from Adam, but Seth was begotten from him. Each person had his or her own distinct and unique properties—unbegotten, begotten, and proceeding—but all three possessed the same human nature. Similarly, the manner in which these three existed images the Holy Trinity. God the Father is Unbegotten; God the Son is Begotten from the Father; and God the Holy Spirit proceeds from the Father. These distinct and unique properties—unbegotten, begotten, and proceeding—distinguish each of the individual Persons of the Holy Trinity from each other; yet, They are one in nature (JohnDm).
+
+*Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World. Thomas Nelson. Kindle Edition.*
+
+## Church Fathers
+* St. John of Damascus, An Exact Exposition of the Orthodox Faith (also called Exposition of the Orthodox Faith), Book I
+
+</details>
+
+<details>
+
+# debates
+<summary>Example Debate with Muslim</summary>
 
 ## Source
 
@@ -349,6 +414,13 @@ Libayno’s repeated insistence on an unqualified statement
 * Reframe context after the fact
 
 The correct response is always **qualification or refusal**.
+
+</details>
+
+
+# References
+[Chatgpt:Eastern Orthodox:Trinity and Metaphysics](https://chatgpt.com/g/g-p-67f3ae87e9808191b16fa05677bbe2bb-eastern-orthodox/c/69b3e0f8-571c-8333-8b41-f1e292ecbd90)
+
 
 ---
 
