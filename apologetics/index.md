@@ -93,7 +93,111 @@ Preceded by and heavily leans on Gregory of Nyssa.
 ---
 
 # Important themes
-1. universal gospel
+
+<details>
+
+<summary>1. universal gospel</summary>
+
+**TODO: REVIEW THIS**
+
+**Orthodox Christianity does not teach multiple gospels or multiple ways of salvation across history. It teaches one saving economy in Christ, progressively revealed: promised in Eden, preached beforehand to Abraham, typified under Moses, announced by the prophets, and fulfilled in the Incarnation, Cross, Resurrection, and the Church.** That is the logic of Galatians 3, Romans 4, Hebrews 4, Luke 24, and 1 Peter 1. ([Bible Gateway][1])
+
+The **gospel is one**, centered on Christ, and it was **promised and preached beforehand** in the Old Testament. The Law was not a separate way of salvation; it was added for a time, served a preparatory role, and pointed toward the same promised Seed. That is exactly how Paul argues in Galatians and Romans. ([Bible Gateway][1])
+
+<details>
+
+<summary>Verses</summary>
+
+1Now the Lord said to Abram, “Get out of your country, from your kindred and from your father’s house, to a land I will show you. 2I will make you a great nation; I will bless you and make your name great; and you shall be a blessing. 3I will bless those who bless you, and curse those who curse you; and in you all the tribes of the earth shall be blessed.” 4Then Abram departed as the Lord said to him, and Lot went with him. Now Abram was seventy-five years old when he departed from Haran. 5So Abram took Sarai his wife and Lot his brother’s son and all their possessions and every soul they acquired in Haran, and they departed for the land of Canaan. Thus they came to the land of Canaan. 6Abram passed through the land to the place of Shechem, as far as the oak of Moreh. And the Canaanites were then in the land. 7Then the Lord appeared to Abram and said, “To your seed I will give this land.” And there Abram built an altar to the Lord, who appeared to him. Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 17). Thomas Nelson. Kindle Edition. 12:1–7 “The Holy Spirit spoke through the prophets” (Creed). He spoke through the prophet Moses, who wrote this Scripture. Thus, St. Paul said, “And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel to Abraham beforehand, saying, ‘In you all the nations shall be blessed’” (Gal 3:8). Thus the Holy Spirit preached the gospel beforehand to Abraham. The Holy Spirit inspired Moses to write in v. 1 that the Lord said to Abram this scripture. Who is this Lord? He is God the Father, as St. Paul indicated in Gal 3:8: “God would justify the Gentiles by faith.” Thus, the Father preached the gospel beforehand to Abraham. In v. 7, the Holy Spirit inspired Moses to write that the Lord appeared to Abraham and spoke to him. Who is this Lord who appeared? The Holy Spirit identified Him in 15:1 as the Word of the Lord whom Abraham saw in a vision, and He identified Him as the Angel of the Lord in 16:7, 9, 10, 11, and 13. This Word is the Son of God (AthanG) and the Angel is also the Son of God, for He was no created angel (HilryP). “He is called Angel because He alone reveals the Father” (AthanG). Thus, the Son also preached the gospel beforehand to Abraham, for the Father always speaks through His Word. Therefore, where one Person of the Trinity is present and working, the other two Persons are also present in one and the same working for the salvation of man. The Father works through the Son and in the Spirit. Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's World (p. 64). Thomas Nelson. Kindle Edition.
+
+
+For the **Hilary** citation, the source is very likely **On the Trinity, Book IV**. There Hilary explicitly argues from the Hagar/Ishmael passages that the one called “the Angel of God” is also “Lord” and “God,” and he says: **“He is called the Angel because He is the Angel of great counsel … He Who is the Angel of God is also God the Son of God.”** ([New Advent][3])
+
+For the **Athanasius** citation, the most likely source is **Discourse III Against the Arians**, where Athanasius says Jacob joined in prayer no created angel, but **“God’s Word, whom therefore he called Angel, because it is He alone who reveals the Father.”** That is almost certainly the line behind the OSB note you quoted. ([Catholic Culture][4])
+
+A second Athanasius passage that fits the OSB’s broader logic is **De Synodis 41 / section 52 in some editions**, where he says the prophets say **“The Word of the Lord came to me,”** and that in Him the Father is beheld and revealed; he even says anyone who claims **Abraham saw not the Son** but the unbegotten Father is anathema. ([New Advent][5])
+
+So, if you want the most likely reconstruction of the OSB note’s patristic basis, it is this:
+
+1. **Hilary, On the Trinity, Book IV** for the “Angel of the Lord / God / Son” argument from Genesis 16–17. ([New Advent][3])
+2. **Athanasius, Discourse III Against the Arians** for the exact line “called Angel because He alone reveals the Father.” ([Catholic Culture][4])
+3. Possibly also **Athanasius, De Synodis** for the larger claim that the prophets saw and received the **Word** and that Abraham saw the **Son**. ([New Advent][5])
+
+On the biblical side, the strongest passages for the “one gospel promised beforehand” idea are these.
+
+**Direct New Testament statements**
+
+Paul explicitly says that Scripture **“preached the gospel beforehand to Abraham”** in the promise “In you shall all the nations be blessed.” That is the clearest single text for your point. ([Bible Gateway][1])
+
+Romans 4 says Abraham was counted righteous by faith **before circumcision**, making him the father of all who believe, Jew and Gentile alike. That means Abraham was not saved by a different legal system. ([Bible Gateway][6])
+
+Galatians 3 says the Law was **“added because of transgressions until the Seed … had come.”** So the Law is not a rival gospel; it is temporary and subordinate to the promise. ([Bible Gateway][7])
+
+Hebrews 4:2 says **“good news came to us just as to them.”** That is another major text against the idea of two fundamentally different saving messages. ([Bible Gateway][8])
+
+1 Peter 1:10–12 says the prophets were speaking of **this salvation**, and that the **Spirit of Christ** was in them, foretelling Christ’s sufferings and subsequent glory. ([Bible Gateway][9])
+
+Jesus Himself says Abraham **“rejoiced to see My day; he saw it and was glad.”** ([Bible Gateway][10])
+
+After the resurrection, Jesus interprets **Moses and all the Prophets** as speaking of Him. ([Bible Gateway][11])
+
+Peter says, **“To Him all the prophets bear witness that everyone who believes in Him receives forgiveness of sins through His name.”** ([Bible Gateway][12])
+
+**Old Testament passages that carry this theme**
+
+Genesis 3:15 is the first promise of the victorious Seed. It is not the full gospel in explicit form, but it is the first evangelical promise.
+
+Genesis 12:3, 18:18, 22:18, 26:4, and 28:14 are crucial because they repeat that **all nations** will be blessed through Abraham and his seed. Paul in Galatians does not invent that reading; he gives the apostolic interpretation of those promises. ([Bible Gateway][1])
+
+Genesis 15:1 is important in the exact way your OSB note suggests: **“the word of the LORD came to Abram in a vision.”** Athanasius leans on that sort of wording to identify the one seen by the patriarchs as the divine Word. ([Bible Gateway][13])
+
+Genesis 15:6 is central because Abraham **believed** and it was counted to him as righteousness; Paul builds heavily on that in Romans 4 and Galatians 3. ([Bible Gateway][6])
+
+Genesis 49:10 is often read messianically: the ruler to whom the peoples gather.
+
+Deuteronomy 18:15 speaks of the prophet like Moses.
+
+Jeremiah 31:31–34 promises the new covenant.
+
+Isaiah 7:14, 9:6, 11, 42, 49:6, 52:13–53:12, and 55 are among the clearest messianic and salvation-universal texts, especially Isaiah 49:6, where the Servant is made a light to the nations.
+
+Habakkuk 2:4 is also important because Paul uses **“the righteous shall live by faith”** as a key continuity text.
+
+Psalm 22 and Psalm 110 are major christological psalms used in the New Testament.
+
+</details>
+
+So the pattern is:
+
+* **Promise first**
+* **Law later**
+* **Christ as fulfillment**
+* **Faith as the mode of participation throughout**
+
+That is why Paul can say Abraham had the gospel beforehand, why Hebrews can say the good news came to Israel in the wilderness too, and why Peter can say the prophets were ministering the same salvation now revealed in Christ. ([Bible Gateway][1])
+
+References
+
+[1]: https://www.biblegateway.com/passage/?search=Gal+3%3A8%2CGen+12%3A3%2CGen+22%3A18%2CGen+28%3A14%2CGen+18%3A18%2CGen+26%3A4%2CHeb+4%3A2%2CRom+3%3A28-30%2CGal+3%3A22%2CGal+3%3A16%2CActs+15%3A15-18%2CJohn+7%3A38%2CGen+49%3A10%2CRev+11%3A15%2C2+Tim+3%3A15-17%2CRom+9%3A30%2CRom+9%3A17%2CIsa+65%3A9%2CGal+4%3A30%2CActs+2%3A35%2CJohn+7%3A42%2CIsa+6%3A13%2CPs+72%3A7%2CActs+2%3A25-26%2CJohn+19%3A37&version=ESV&utm_source=chatgpt.com "Galatians 3:8 English Standard Version"
+[2]: https://elib.my/m/files/get_file/3196.pdf "1570_FM"
+[3]: https://www.newadvent.org/fathers/330204.htm "CHURCH FATHERS: On the Trinity, Book IV (Hilary of Poitiers)"
+[4]: https://www.catholicculture.org/culture/library/fathers/view.cfm?recnum=3085 "Fathers of the Church | Catholic Culture"
+[5]: https://www.newadvent.org/fathers/2817.htm "CHURCH FATHERS: De Synodis (Athanasius)"
+[6]: https://www.biblegateway.com/passage/?search=Romans+4&version=NIV&utm_source=chatgpt.com "Romans 4 NIV - Abraham Justified by Faith - What then"
+[7]: https://www.biblegateway.com/passage/?search=Galatians+3%3A19-29&version=NIV&utm_source=chatgpt.com "Galatians 3:19-29 NIV - Why, then, was the law given at all? It"
+[8]: https://www.biblegateway.com/passage/?search=Hebrews+4%3A2&version=NIV&utm_source=chatgpt.com "Hebrews 4:2 NIV - For we also have had the good news"
+[9]: https://www.biblegateway.com/passage/?search=1+Peter+1%3A10-12&version=ERV&utm_source=chatgpt.com "1 Peter 1:10-12 ERV - The prophets studied carefully and"
+[10]: https://www.biblegateway.com/passage/?search=John+8%3A56-59&version=KJV&utm_source=chatgpt.com "John 8:56-59 KJV - Your father Abraham rejoiced to see my"
+[11]: https://www.biblegateway.com/passage/?search=Luke+24%3A27&version=NIV&utm_source=chatgpt.com "Luke 24:27 NIV - And beginning with Moses and all the"
+[12]: https://www.biblegateway.com/passage/?search=Acts+10%3A43&version=ESV&utm_source=chatgpt.com "Acts 10:43 ESV - To him all the prophets bear witness"
+[13]: https://www.biblegateway.com/passage/?resource=orthodox-study-bible&search=Genesis+15&tab=study&version=VULGATE%3BASV%3BNIV&utm_source=chatgpt.com "Genesis 15 VULGATE;ASV;NIV"
+
+
+<details>
+
+---
+
+
 
 # common objections
 

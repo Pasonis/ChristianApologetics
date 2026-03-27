@@ -1,11 +1,34 @@
 # Monarchial Trinitarianism
 
-1. hypostatic properties - properties of the person in the trinity e.g. the son is begotten
-1. essential properties - properties necessary of the essence. In the trinity this means the divine essense or divine being in which all hypostasis share in e.g. omniscience.
-1. Nature - What a thing is; the set of essential properties that make something the kind of thing it is. “Human nature” is what all humans share. “Divine nature” is what the Father, Son, and Holy Spirit fully share. Greek: physis.
-1. Person - The concrete “who,” not the abstract “what.” A person is not merely an instance of a nature in an impersonal sense, but a real, irreducible subject. In later Orthodox usage, “person” is very close to hypostasis, though “person” is often the more accessible English term. Greek: prosopon can sometimes be used, though hypostasis is usually the stronger technical term.
-1. Hypostasis - A concrete, subsisting individual reality; the “who” that exists in and possesses a nature. In Trinitarian theology, the Father, Son, and Holy Spirit are three hypostases of the one divine essence. In Christology, the one hypostasis of the Son subsists in two natures, divine and human.
-1. Essence - The underlying being or essential reality of something; what something is in the deepest sense. In Trinitarian theology, the one divine essence is fully possessed by the three divine hypostases. Greek: ousia.
+1. hypostatic properties - are the personal properties that distinguish one divine hypostasis from another and are not shared communicably by the others.
+	Examples:
+	* Father: unbegotten, sole personal cause
+	* Son: begotten of the Father
+	* Spirit: proceeds from the Father
+	
+	These are not “accidents.” They are eternal personal modes of existence.
+
+1. essential properties - are properties belonging to the one divine nature and therefore fully possessed by each divine hypostasis.
+	Examples:
+	* omniscience
+	* omnipotence
+	* eternity
+	* goodness
+	* immortality
+	* divinity itself
+
+1. Nature (physis) -  what a thing is; the essential content or kind of being common to all instances of that nature.
+	For Trinity:
+	* divine nature = what the Father, Son, and Holy Spirit fully and indivisibly possess.
+	For humanity:
+	* human nature = what all humans share
+
+1. Person - the concrete “who,” the subsisting particular who possesses a nature.
+	Other forumlations:
+	* the underlying reality of a rational nature
+	* an individual substance of a rational nature
+1. Hypostasis - is a concrete subsisting reality, the irreducible “who” that exists as a particular of a nature. In the Trinity there are three divine hypostases possessing the one divine essence.
+1. Essence (ousia) - is what something is at the level of its fundamental being. In Trinitarian theology the Father, Son, and Spirit are consubstantial: they possess one and the same divine essence.
 
 ## simply
 Essence / Nature = what something is
@@ -13,8 +36,49 @@ Person / Hypostasis = who someone is
 
 ---
 
-# Bible verses
+# concepts
 
+<details>
+
+<summary>Identity</summary>
+
+Definitions
+
+1. Sortal - is a kind term that supplies criteria for counting and identifying things as this kind of thing, such as “man,” “horse,” or “person.”
+
+	This matters because “same F but different G” uses sortals.
+
+	Example:
+	* same nature
+	* different hypostasis
+
+Types
+
+1. Material
+	* This is the grounding for substances (nature, essence)
+		* E.g.: The Feather, Son and Holy spirit are materially identical in that they share the same divine nature
+	* Does not apply to things which not substances such as personhood
+
+1. Absolute
+	Numerical identity: A is B, the very same thing.
+	By Leibniz’s Law, if A = B, whatever is true of A is true of B in the same respect.
+
+	In Trinitarian theology:
+	* The Father is not strictly identical to the Son as hypostasis.
+	* The Son is not strictly identical to the Spirit as hypostasis.
+	* But the Father, Son, and Spirit are one in essence and fully possess the same divine nature.
+
+1. Relative
+	* Identity between sortals
+	* F-hs-s share the G and not P
+	* Something can be the same x but not the same y
+		* The Spirit is the same God as the Son with respect to the one divine essence, but is not the same hypostasis and does not bear the same hypostatic relation of origin.
+
+</details>
+
+---
+
+# Bible verses
 
 <details>
 
@@ -421,6 +485,42 @@ The correct response is always **qualification or refusal**.
 # References
 [Chatgpt:Eastern Orthodox:Trinity and Metaphysics](https://chatgpt.com/g/g-p-67f3ae87e9808191b16fa05677bbe2bb-eastern-orthodox/c/69b3e0f8-571c-8333-8b41-f1e292ecbd90)
 
+
+f = Father
+ₚ = subscript indicating the personal sortal
+s = Son
+∧ = and
+h = Holy Spirit
+P = is a person
+`_G` = subscript indicating the divine/God sortal 
+G = is God
+≠ₚ = non-identity relative
+=`_G` = identity relative to the God sortal
+
+`f ≠ₚ s ∧ f ≠ₚ h ∧ s ≠ₚ h ∧ P(f) ∧ P(s) ∧ P(h) ∧ f =_G s ∧ f =_G h ∧ s =_G h ∧ G(f) ∧ G(s) ∧ G(h)`
+
+`f ≠ ₚ s ∧ f ≠ ₚ h ∧ s ≠ₚ h ∧`
+The Father is not the same person as the Son and
+The Father is not the same person as the Holy Spirit and
+The Son is not the same person as the Holy Spirit and
+Meaning: They are three distinct persons under the personal sortal.
+`P(f) ∧ P(s) ∧ P(h) ∧`
+The Father is a person and
+The Son is a person and
+The Holy Spirit is a person and
+Meaning: Each satisfies the predicate P, that is, each is a person
+`f = _G s ∧ f = _G h ∧ s = _G h ∧`
+The Father is the same God as the Son and
+The Father is the same God as the Holy Spirit and
+The Son is the same God as the Holy Spirit and 
+Meaning: each is the same God as the others, where the identity relation is qualified by the God sortal
+`G(f) ∧ G(s) ∧ G(h)`
+The Father is God and
+The Son is God and
+The Holy Spirit is God
+Meaning: each satisfies the predicate G; each is God
+
+The Father, Son, and Holy Spirit are three distinct persons. Each is a person. Each is God. And each is the same God as the others
 
 ---
 
