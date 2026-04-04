@@ -6,6 +6,14 @@
 
 **Palamas is not splitting God into essence plus extra divine things. He is denying that God’s eternal life and operations can be reduced to the essence alone, because then God would either lack them or acquire them, or treated as created effects.**
 
+# simplified process
+
+grace → illumination → wonder → awakened desire for God → repentance, prayer, and pursuit of God → purification → receptivity to deeper deifying grace
+
+Or more plainly:
+
+God first illumines a person, this awakens wonder and desire for Him, and that desire must be acted upon in repentance, prayer, and purification, which then makes the person receptive to deeper grace.
+
 # definitions
 
 **Knowing**
