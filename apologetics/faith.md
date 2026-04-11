@@ -41,7 +41,7 @@ Faith without transformation is considered incomplete or dead.
 
 # 3️⃣ Biblical Foundations Used in EO
 
-John 15:4-6; 2 Corinthians 10; Galations 5:6; Philippians 2:12-13; Hebrews 11:1; James 2:17
+John 15:4-6; 2 Corinthians 10; Galations 5:6; Philippians 2:12-13; Hebrews 11:1; James 2:17; Romans 6:3-11
 
 ### A) Faith as Living and Active
 
@@ -163,6 +163,27 @@ Faith is existential participation in unseen realities.
 
 EO reading:
 Dead faith is not saving faith.
+
+---
+
+<details>
+
+<summary><h2>Romans 6:3-11 Dead to Sin, Alive to God</h2></summary>
+
+> 3Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death? 4Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life. 5For if we have been united together in the likeness of His death, certainly we also shall be in the likeness of His resurrection, 6knowing this, that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves of sin. 7For he who has died has been freed from sin. 8Now if we died with Christ, we believe that we shall also live with Him, 9knowing that Christ, having been raised from the dead, dies no more. Death no longer has dominion over Him.10For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. 11Likewise you also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord.
+
+<details>
+
+<summary><h3>Footnotes</h3></summary>
+
+6:3, 4 Freedom from sin is grounded in the sacrament of holy baptism. Ignorance of what happens when we are baptized is a great enemy. Through this ignorance, many are defeated in their battle against sin. What Christ accomplished on the Cross—an actual death to sin—baptism accomplishes in us: an actual death to sin and our liberation from its power. Because our baptism into Christ gives us power over sin, it is an exact likeness of His death. Baptism does not merely “stand for” this truth, but is itself our death to sin. 6:3–11 This passage is read on Great and Holy Saturday, the Saturday before Pascha (Easter). 6:5 United together with Christ refers to being planted and growing together in Him, clearly implying the expectation of fruit. In the likeness of His death means baptism causes a real unity with Christ’s death. We also shall be in the likeness of His resurrection is literally translated, “we shall be of the resurrection,” referring both to the new life of baptism in this world and to eternal life in the age to come. 6:6 Knowing this refers to our understanding that baptism is a reality, not merely an outward symbol. Old man does not refer to human nature as such, but to the power of sin in fallen man that once held sway over us. The body of sin is not the human body, but all iniquity. “Just as he calls the whole sum of wickedness ‘old man,’ again the wickedness which is made of the different parts of iniquity he calls ‘the body’” (JohnChr). Thus, it is sin itself that is crucified with Him, and not some kind of “sinful nature,” for sin is what we do, not what we are. 6:7 A physical body, once it is dead, makes no response to its environment. So we who died with Christ in baptism must not respond to the promptings of sin, for we are freed from sin. 6:8 When bondage to sin has died, it must be replaced with something else. For those who are baptized, the replacement is Christ’s resurrected life. We shall also live with Him means both a righteous life on earth after baptism and eternal life in the Kingdom to come. 6:10 Christ was never under the control of death or sin, yet He chose voluntarily to die to sin for our sake. In Christ, we too can voluntarily die to sin through baptism. As Christ’s death is once for all, so also for us there is never a second baptism. Constant repentance renews our baptism as we grow in our relationship with God. 6:11 A shift in emphasis comes here, from what Christ has done for us (vv. 1–10) to our response to Him (vv. 11–14). Reckon is an action verb, relating to faith: we lay hold of our union with Christ and thereby lay hold of every virtue.
+
+
+</details>
+
+
+</details>
+
 
 ---
 

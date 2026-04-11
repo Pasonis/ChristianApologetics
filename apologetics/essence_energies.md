@@ -87,7 +87,6 @@ So the Palamite position is:
 * they are not extra hypostases
 * they are not detachable components
 
-
 # Very simple formulation
 
 * **Essence**: what God is in Himself; inaccessible, incommunicable
