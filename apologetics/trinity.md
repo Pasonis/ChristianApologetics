@@ -487,15 +487,15 @@ The correct response is always **qualification or refusal**.
 
 
 f = Father
-ₚ = subscript indicating the personal sortal
+ₚ = subscript indicating the person sortal
 s = Son
 ∧ = and
 h = Holy Spirit
 P = is a person
 `_G` = subscript indicating the divine/God sortal 
 G = is God
-≠ₚ = non-identity relative
-=`_G` = identity relative to the God sortal
+≠ₚ = non-identity relative to the person sortal
+`=_G` = identity relative to the God sortal
 
 `f ≠ₚ s ∧ f ≠ₚ h ∧ s ≠ₚ h ∧ P(f) ∧ P(s) ∧ P(h) ∧ f =_G s ∧ f =_G h ∧ s =_G h ∧ G(f) ∧ G(s) ∧ G(h)`
 
@@ -519,6 +519,9 @@ The Father is God and
 The Son is God and
 The Holy Spirit is God
 Meaning: each satisfies the predicate G; each is God
+
+
+P and G are predicates corresponding to the sortals person and God. The Father, Son, and Holy Spirit each satisfy the predicate Person and are pairwise distinct under personal identity, so there are three Persons. The Father, Son, and Holy Spirit each satisfy the predicate God and are the same under divine identity, so there is one God.
 
 The Father, Son, and Holy Spirit are three distinct persons. Each is a person. Each is God. And each is the same God as the others
 
