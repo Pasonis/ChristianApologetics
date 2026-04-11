@@ -54,6 +54,9 @@
 * Theodoret of Cyrus
 	* The Questions on the Octateuch Volume 2 On Leviticus, Numbers, Deuteronomy, Joshua, Judges, and Ruth
 
+* Gregory Palamas 
+	* [The Triads | PAULIST PRESS](https://www.agape-biblia.org/orthodoxy/Gregory_Palamas_The_Triads_Classics_of_Western_Spirituality.pdf)
+
 # recommended
 - St. John Climacus
 	* [The Ladder of Divine Ascent: on spiritual disciplines](https://a.co/d/0f3INuKo)
