@@ -270,3 +270,13 @@ This is neither the divine essence nor the energy as such. It is the creature’
 [1]: https://orthowisdom.substack.com/p/saint-maximus-the-confessor-on-eed?utm_source=chatgpt.com "Saint Maximus the Confessor ON EED and apophatic theology ..."
 [2]: https://www.academia.edu/86924815/Synergy_in_christ_according_to_saint_maximus_the_confessor?utm_source=chatgpt.com "Synergy in christ according to saint maximus the confessor"
 [3]: https://www.agape-biblia.org/orthodoxy/Gregory_Palamas_The_Triads_Classics_of_Western_Spirituality.pdf?utm_source=chatgpt.com "Meyendorff_Gregory Palamas Triads"
+
+
+# reading outline
+
+Meyendorff_Gregory Palamas Triads
+What Are the Divine Energies?
+Synergy in christ according to saint maximus the confessor
+Saint Maximus the Confessor ON EED and apophatic theology ...
+The Doctrine of Grace in the Orthodox Church
+PALAMAS TRANSFORMED. PALAMITE INTERPRETATIONS OF THE DISTINCTION BETWEEN GOD’S ‘ESSENCE’ AND ‘ENERGIES’ IN LATE BYZANTIUM John A. D EMETRACOPOULOS
