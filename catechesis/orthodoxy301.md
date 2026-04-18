@@ -1,5 +1,39 @@
 # week 1
 
+<details>
+
+<summary>Questions</summary>
+
+<details>
+
+<summary>Fasting before communion</summary>
+
+**Relevant excerpts:**
+
+Based on Holy Communion Slides from Orthodoxy 201 Part 2 slides 5-7 and 13.
+
+> “In the 1st place we must address that fasting is one of the ways we prepare ourselves to receive Holy Communion.”
+
+> “The second place we must emphatically state that there is no prescribed fasting for Holy Communion.”
+
+> “The custom that prevailed since antiquity, which continues to be in effect to this day, is to abstain from eating and drinking on Sunday morning, and on any other morning on which one intends to receive Holy Communion. There is no other communion fasting.”
+
+> “No holy Canon prescribes that a faithful must fast before Holy Communion… the Holy Canons do not impose fasting prior to Holy Communion, neither do they prohibit it.”
+
+> “Of course, the Church prescribes that in order to receive Holy Communion we should abstain from eating or drinking anything on the morning on which we intend to receive.”
+
+> “Technically, the fast is from midnight on. There is no other Communion fasting.”
+
+**Question:**  
+I may be misunderstanding this, but the slides seem to say both that we fast before Communion and that there is “no prescribed fasting for Holy Communion,” except perhaps for the morning fast. Is the intended distinction that there is no universal multi-day canonical Communion fast, while the morning fast is still the normal minimum practice, subject to pastoral guidance?
+
+</details>
+
+**Question:**  
+The reading says, “Only grave sins should keep us away from the Eucharistic Supper.” What is the Orthodox distinction between grave or mortal sins and other sins, and where is that distinction taught most clearly?
+
+</details>
+
 ## Holy Communion Slides from Orthodoxy 201 Part 1
 
 # slide 2 ONE IS HOLY, ONE IS LORD
@@ -258,6 +292,88 @@ whom be honor, and might, and glory, for ever and ever. Amen."
 
 - St. Cyril of Jerusalem, Mystagogical Catecheses, Lecture IV: ON THE TEN POINTS OF FAITH
 
+---
+
+### slide 4
+<details>
+<summary><b>Prayers Before Holy Communion</b></summary>
+
+> I believe and confess, Lord, that You are truly the Christ, the Son of the living God, who came into the world to save sinners, of whom I am the first. I also believe that this is truly Your pure Body and that this is truly Your precious Blood. Therefore, I pray to You, have mercy on me and forgive my transgressions, voluntary and involuntary, in word and deed, in knowledge or in ignorance. And make me worthy, without condemnation, to partake of Your pure sacrament for the remission of sins and for eternal life. Amen.
+>
+> As I am about to receive holy communion, O Maker, I pray You not burn me partaking, since You are fire consuming the unworthy, but rather purge me of any defilement.
+>
+> Receive me, today, O Son of God, as a partaker of Your mystical Supper. I will not reveal Your mystery to Your enemies, nor will I give You a kiss, as did Judas. But like the Robber I confess to You: Remember me, O Lord, when You come in Your kingdom.
+>
+> Seeing the deifying Blood, O human, shudder, for it is a live coal that burns the unworthy. The Body of God both deifies my spirit and feeds my mind in extraordinary manner.
+>
+> You have enraptured me, O Christ, with Your longing and transformed me with love divine. I pray, completely consume with immaterial fire all my sins. And count me worthy to be filled fully with delight in You, that I may magnify both Your Comings, O good Master, exultantly.
+>
+> How shall I enter into the splendor of Your saints since I am unworthy? For if I dare to enter the wedding hall along with them, my garment will betray me, for it is not fit for the wedding; and then I shall be bound and cast out by the Angels. I pray You to wash away the stains on my soul, and save me, O benevolent Lord.
+>
+> Benevolent Master, Lord Jesus Christ, my God, let not these Holy Gifts be to my judgment because I am unworthy, but rather for the purification and sanctification of both soul and body and the pledge of the life and kingdom to come. It is good for me to cleave unto God and to place in Him the hope of my salvation.
+
+---
+
+</details>
+
+### slide 5-7
+
+<details>
+<summary><b>Preparation Before Receiving Holy Communion</b></summary>
+
+> Many people essentially identify preparation for receiving Holy Communion with fasting. Of course, the Church prescribes that in order to receive Holy Communion we should abstain from eating or drinking anything on the morning on which we intend to receive. If we cannot have this minimum preparation, then what other efforts do we make to prepare ourselves? However, there are other forms of preparation besides fasting.
+>
+> In his preparation, the worshipper confesses his sins, forgives his “enemy,” and says the special Communion prayers. This preparation for Holy Communion is both physical and spiritual. Fasting from foods, and especially from sins and evil thoughts, the giving of alms, living in chastity and love for fellow man, especially “the least,” constitute the main part of the spiritual preparation.
+>
+> We should be in a state of spiritual warfare, of struggle against sin and the occasions that lead us to sin, vigilance of soul, a prayerful life in the presence of God, deep humility, and a clean conscience. It is indispensable to be under spiritual direction, in order not to deceive ourselves. This is not a moral obligation, but a necessity, in order to receive spiritual benefit from the Divine Mysteries. We must prepare the soil of our soul to receive the seed of God’s grace, or else it will not germinate and produce.
+>
+> Although God gives us all the Holy Mysteries freely and we do not contribute anything previously to Him, but they are in every respect free gifts, He nevertheless demands from us that we become susceptible to receive the gifts and to keep them. And He does not transmit sanctification and blessing if we do not behave ourselves in this fashion. He baptizes this way, He chrismates this way, and in this way He feeds us and transmits to us the food of the dreadful Table. And He made this clear from the parable of the Sower. The Sower, it says, went out not to till the soil, but to sow it. And with this saying He shows us that we ought to provide the tilling of the ground and all its preparation.
+>
+> Preparation for receiving the Holy Mysteries is necessary. Before receiving Holy Communion there is needed struggle and ascetical labor. For if we labor for the food which perishes, how much more should we labor for the food which endures to everlasting life, which the Son of Man will give us? We have received the wedding garment at our baptism and chrismation. We should strive to keep it clean with repentance, humility, and charity, and come forth to receive with fear of God, faith, and love. This is what we should set as our aim, and seek with all our heart.
+>
+> The experience of receiving the Lord within us should overwhelm us and lead us to the fear of God, to contrition, and to tears. St. Symeon the New Theologian says that we should not commune without shedding tears. Unfortunately, many Christians approach the heavenly Banquet as they are, without the proper wedding garment. For their lack of preparation and total disregard of their host, they are cast into the outer darkness. Let us not forget that we prepare with fasting before the Liturgy so that we may feast with joy and thanksgiving at the marriage supper of the Lamb.
+>
+> Would we go to a banquet and talk with friends, listen to the music, dance, but not touch the food offered? And how would the host feel seeing that we did not touch his food? This is what we would be doing if we went to the Divine Liturgy, the Great Banquet, and did not share the spiritual Food, which is none other than the Lord Himself. The Host sacrificed Himself and makes the effects of His sacrifice available to us, but we refuse His invitation, without being fearful of His warning: “For I say to you that none of those men who were invited shall taste My supper.”
+>
+> As it is unacceptable to place heavy burdens on the faithful with severe Communion fasting and confession each time prior to receiving Holy Communion, so it is unscrupulous to encourage the faithful to come “as they are” to receive each and every time without emphasizing proper preparation, which involves purity of life, struggle, prayer, and tears. Yes, fasting as well, and confession, but the emphasis should be on the fear of God, faith, and love. In that sense those who cry, “It is not soup,” are justifiable. Many of those who do not receive are better prepared to receive than those who do.
+>
+> When we approach the Cup, the words of the Apostle should come to mind: “Whoever, therefore, eats the bread and drinks the Cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord. Let a man examine himself, and so eat of the bread and drink of the Cup. For anyone who eats and drinks without discerning the body eats and drinks judgment upon himself.” St. Symeon the New Theologian explains that “discerning” means to have an awareness and understanding of what, or rather Who, is received.
+>
+> We must therefore have an awareness of what we receive; we must be conscious of our participation in the medicine of immortality, or else it would mean, as St. Symeon again points out, that the living water has passed through us as through a channel, because it did not find in us a cistern worthy to retain it.
+>
+> “Let no one, however,” Archbishop Paul of Finland cautions us, “because of his unworthiness, fail to accept the Lord’s invitation heard in the Liturgy, or think that by receiving Communion less often he can prepare for it better and be more worthy. The sense of unworthiness is just the right mood, the only one which permits us to be sharers in God’s supreme grace offered to us as a completely free gift.”
+>
+> The last words of St. Cyril’s lecture on the Holy Eucharist are: “Sever not yourselves from the Communion; deprive not yourselves, by the pollution of sins, of these Holy and spiritual Mysteries.” Only grave sins should keep us away from the Eucharistic Supper.
+>
+> In order not to offer condemnation instead of life, the Orthodox Church excludes those who do not share Her faith and have no other impediment. This was the practice of the Church since the beginning. That is how the Church Fathers interpreted the words of the Lord: “Do not give what is holy to the dogs.” The Letter to the Hebrews states: “We have an altar from which those who serve the tent have no right to eat.”
+>
+> We should try to attend Vespers the night before, and the Orthros (Matins) service, which are for everyone and not just for the priest and the chanter, and are the best preparation for the Divine Liturgy. If we come to church past the reading of the Gospel, it would be proper to abstain from receiving Holy Communion, in order not to scandalize the faithful. Smoking before Holy Communion is worse than eating or drinking. If we cannot abstain from smoking on Sunday morning before receiving Holy Communion, then we should abstain from receiving Holy Communion until we put this vice under control. It is also appropriate to abstain from reading the newspaper, listening to the radio, and turning the TV on before going to church. Silence and quietude is the way to put ourselves in a prayerful frame of mind before going to church.
+
+---
+
+</details>
+
+<details>
+
+<summary><b>But What Kind of Communion Fast Is Prescribed by the Church?</b></summary>
+
+> Technically, the fast is from midnight on. There is no other Communion fasting. A Christian who keeps the fasting days and periods prescribed by the Church can approach the Cup without any other “special” Communion fasting.
+>
+> Preparing to receive Holy Communion by fasting one, two, or three days was unknown to the ancient Church. Besides, such a practice is against the Canons of the Church. Let us review the pertinent holy Canons of the Church.
+>
+> First, the 64th Canon of the Holy Apostles: “If any clergyman be found fasting on Sunday, or on Saturday with the exception of one only, let him be deposed from office. If, however, he is a layman, let him be excommunicated.” According to this Canon, we fast only on Holy Saturday, the “one only.” Therefore, if we fast on Saturday because we intend to receive Holy Communion on Sunday, we violate this Canon.
+>
+> In fact, the Fathers of the Sixth Œcumenical Synod wrote a Canon, the 55th, addressed to the Church of Rome, in which they quote the above-referenced Canon of the Holy Apostles and enjoin the Church of Rome from continuing their custom of fasting on the Saturdays of Great Lent.
+>
+> Finally, with their 66th Canon, the Fathers of the Sixth Œcumenical Synod prescribe that Christians ought to commune daily during Bright Week. How could Christians receive Communion daily if they had to fast at a time when fasting is prohibited by the Canons? By definition, a day in which we receive the Holy Eucharist is not a fast day: “Can you make wedding guests fast while the bridegroom is with them?” (Lk. 5:34).
+>
+> Christians often connect Holy Communion with their self-imposed Communion fast and are scandalized when they see someone eating meat on Saturday and receiving Holy Communion on Sunday. They should not be. If someone wants to abstain from meat, dairy products, and even olive oil on Saturday, and eat something very light or nothing at all the night before, that is a commendable, pious practice, but it is not normative for all Christians.
+>
+> They should not expect others to follow their rule, and even less should they try to impose it on others and criticize them for receiving the Holy Eucharist frequently. It is sad to witness that self-imposed fasting has become a major obstacle to receiving Holy Communion regularly.
+>
+> These same Christians would be shocked if they happened to be present at the Mystical Supper, when the Eucharist took place during the meal. Both Evangelists Matthew and Mark note that the Eucharist took place “as they were eating” (Mt. 26:16; Mk. 14:22). In the apostolic age and in the early life of the Church, the faithful did not keep a Eucharistic fast. Fast, as a means of preparation for the Divine Eucharist, was unknown in the newly founded Church, since the Eucharist was taking place during or immediately after the communal meal.
+
+</details>
 
 ---
 
