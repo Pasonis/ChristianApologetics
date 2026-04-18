@@ -389,8 +389,27 @@ If you want, I can next give you a **very tight comparison of Deut. 23:2, 23:3, 
 [4]: https://www.christianstudylibrary.org/article/deuteronomy-23-mutual-responsibility-within-covenant-community?utm_source=chatgpt.com "Mutual Responsibility within the Covenant Community"
 [5]: https://netbible.org/bible/Deuteronomy%2B23?utm_source=chatgpt.com "Deuteronomy 23"
 
+---
 
 </details>
+
+<details>
+
+<summary>Child Sacrfice</summary>
+
+<details>
+
+<summary>Jephthah burning his daughter</summary>
+
+Judges 11:30-40
+Chrysostom: Homily 14 on the Statues §§7–8.
+Counterbalancing patristic witness: Ambrose, On the Duties of the Clergy, Book III, ch. 12.
+
+</details>
+
+</details>
+
+---
 
 # common hypotheticals
 
