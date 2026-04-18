@@ -367,3 +367,8 @@
   * [Saint John of Damascus Collection [includes: BARLAAM AND IOASAPH, EXPOSITION OF THE ORTHODOX FAITH, ON HOLY IMAGES, ON THE TRINITY]](https://a.co/d/02CBIOFD)
 * **St. Augustine of Hippo**
   * [The Writings of St. Augustine Against the Donatists. Kindle Edition](https://a.co/d/004KRIok)
+
+
+
+https://www.scribd.com/document/410558651/Orthodox-Dogmatic-Theology-Fr-Michael-Pomazansky-pdf?utm_source=chatgpt.com
+
