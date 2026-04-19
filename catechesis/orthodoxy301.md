@@ -27,6 +27,35 @@ Based on Holy Communion Slides from Orthodoxy 201 Part 2 slides 5-7 and 13.
 **Question:**  
 I may be misunderstanding this, but the slides seem to say both that we fast before Communion and that there is “no prescribed fasting for Holy Communion,” except perhaps for the morning fast. Is the intended distinction that there is no universal multi-day canonical Communion fast, while the morning fast is still the normal minimum practice, subject to pastoral guidance?
 
+---
+
+</details>
+
+<details>
+
+<summary>Holy people</summary>
+
+**Relevant excerpts:**
+
+Holy Communion Slides from Orthodoxy 201 Part 1 slide 2 ONE IS HOLY, ONE IS LORD
+
+**Bullet 4:** 
+> Considering the same phrase, St. Nicholas Cabasilas “Not everyone is permitted to
+partake of the spotless mysteries... Because the Holy Things ought to be given only to
+the holy people. The word holy means all those who are perfect in terms of virtue, as
+well as those who struggle to reach that kind of perfection... Because nothing prevents
+them from being sanctified by partaking of the holy mysteries.”
+
+*— St. Nicholas Cabasilas, *A Commentary on the Divine Liturgy*, ch. 36, “The proclamation of the priest to the people when he elevates the holy offerings, and their reply.” [1]*
+
+**Questions**:
+
+I found this passage confusing. It begins by saying, “Not everyone is permitted to partake,” but then seems to define “holy” so broadly that it could appear to include anyone seeking God. I assume the distinction hinges on how “people” is being used in this context, and how “holy” is being qualified by the surrounding passage.
+
+1. In this passage, does “people” refer only to those who are already in the Body of Christ, namely baptized and chrismated members of the Orthodox Church?
+
+---
+
 </details>
 
 **Question:**  
@@ -35,23 +64,6 @@ The reading says, “Only grave sins should keep us away from the Eucharistic Su
 </details>
 
 ## Holy Communion Slides from Orthodoxy 201 Part 1
-
-# slide 2 ONE IS HOLY, ONE IS LORD
-
-* **Bullet 4:** 
-	> Considering the same phrase, St. Nicholas Cabasilas “Not everyone is permitted to
-	partake of the spotless mysteries... Because the Holy Things ought to be given only to
-	the holy people. The word holy means all those who are perfect in terms of virtue, as
-	well as those who struggle to reach that kind of perfection... Because nothing prevents
-	them from being sanctified by partaking of the holy mysteries.”
-
-	— St. Nicholas Cabasilas, *A Commentary on the Divine Liturgy*, ch. 36, “The proclamation of the priest to the people when he elevates the holy offerings, and their reply.” [1]
-
-	* **Questions**:
-
-		I found this passage confusing. It begins by saying, “Not everyone is permitted to partake,” but then seems to define “holy” so broadly that it could appear to include anyone seeking God. I assume the distinction hinges on how “people” is being used in this context, and how “holy” is being qualified by the surrounding passage.
-
-		1. In this passage, does “people” refer only to those who are already in the Body of Christ, namely baptized and chrismated members of the Orthodox Church?
 
 # slide 3-4 Frequent Communion
 Slides are screenshots intead of text. Below is the text:
@@ -376,6 +388,341 @@ whom be honor, and might, and glory, for ever and ever. Amen."
 </details>
 
 ---
+
+# Concerning Frequency of Holy Communion - Preface, History
+
+<details>
+<summary><b>Concerning Frequent Communion — Preface</b></summary>
+
+> When the present book was first published by St. Nikodemos the Hagiorite, there was a movement in progress to elevate the spiritual life of Christians. At the same time, there prevailed a spirit of secularization, complacency with the status quo, and an ideology which deterred Christians from their frequent participation in the divine communion of Christ.
+>
+> This matter was one of the basic subjects with which the so-called Kollyvades movement on the Holy Mountain was concerned. St. Nikodemos and St. Makarios are the most important representatives of the Philokalic movement, and are among the Fathers and Teachers of our Church. The period of Turkish oppression had brought the Church into a condition such that most fundamental objectives of the movement were the importance of the sacraments, especially divine Communion, divine and nocturnal prayer, and the renewal of monasticism as well as a return to the Fathers, the practice of frequent Communion, and the restoration of the witness and movement of Fathers, most of whom have been acknowledged as Saints. And this is what sets it apart from the activity of contemporary “modernists,” who resort to innovations not founded upon the tradition of the Saints.
+>
+> The Saints are bearers of the genuine spirit of our Orthodox tradition when it comes to matters of the Church. They are those who present us with the truth of the Church and the truth of the Faith in every era. Certainly, every era and every heretic invoke Christ, and “everyone who seeks the Lord abideth forever” (Ps. 104:3), but “the truth of the Lord abideth forever” (Ps. 116:2).
+>
+> Unfortunately, we can say that the status quo attitude still prevails, even after two centuries of the Kollyvades movement. The fruit of that struggle mainly appeared at the movement’s center, in monasteries and on the Holy Mountain, in the previous century. And only a portion of the people today can be characterized as being a part of the liturgical life of the Church in the spiritual life. Most of today’s people are far from the church and, with few exceptions, those who do go to church excuse this lapse. Most Christians who do go to Church, but do not think it necessary to commune of the body and blood of Christ.
+>
+> We live in a time of decline in ecclesiastical life. From the abandonment of the Mysteries and especially from abstention from divine Communion, we live in an ecclesiastical rather than organic growth. In fact, the health of the spiritual life is indicated by participation in the Body of Christ, in His Mysteries.
+>
+> One time in a certain homily I told the people, “If you were to ask me what we should emphasize in our pastoral work, we would reply, ‘Only when we reach the point where the Orthodox people realize that on the day of the Divine Liturgy the Christians have prepared themselves and receive Communion, will we say that we are pleased with our pastoral work.’”
+>
+> Academic theology systematically ignored, and largely still ignores, the Fathers of the Philokalic movement. As a student at the Theological School, I had not heard one of our professors at the Theological School about this matter. In the past twenty years, however, some academic interest has begun to appear, and this gives us hope. If only the academic theological world would also understand that the purpose of the School of Theology is to offer the solid food of the Saints of the Philokalic movement to the people.
+>
+> Because of the prevailing condition we have described, Saints Nikodemos and Makarios’s book, *Concerning Frequent Communion*, translated now for the first time in the English language, will afford the faithful the ability to know the genuine spirit of the Orthodox tradition and the Orthodox Faith and to be fed by the works of the Fathers of the Philokalic movement.
+>
+> We hope that the publication of such books will help in overcoming our ecclesiastical decline.
+
+---
+
+</details>
+
+<details>
+<summary><b>Concerning Frequent Communion — A Brief History of the Present Book</b></summary>
+
+> The first edition of this work had the following title: “A handbook, by an anonymous author, demonstrating that frequent communion of the immaculate Mysteries is possible at the expense of the most honorable and devout hieromonk kyr Nicholas Glykys of Ioannina. Venice, 1777.”
+>
+> It is considered certain that the author hidden beneath the work’s anonymity is St. Makarios Notaras. The biographer of St. Nikodemos, the monk Theokletos Dionysiates, who attributes the work’s authorship to Makarios, offers the following brief explanation: the source material of the work is much broader than sayings from the Gospels, Apostles, Canons (Apostolic and Synodal), and the divinely inspired Fathers. It uses popular dialect. They are all in accord and have the same conclusion, teaching that frequent reception of the divine Mysteries, with due preparation, is sacred, beneficial, holy, and lawful and canonical, because, as we said, it contains nothing other than scriptural, canonical, and patristic sayings, interpreted and explained in the vernacular without a single distortion or mistake, as everyone can see.
+>
+> Against all this, continues the biographer, “evil waxed mightily again.” When the blessed Neophytos learned of the existence of the work, he received the book into his hands, thinking it was the work of Prokopios. He sent it via Thessaloniki to the Patriarchate with much hatred and malice, speaking in this writing as many bad things against it as he could. Patriarch Sophronios II, who had in any case recently ascended the Patriarchal Throne from Smyrna, based solely on the accusations and criticisms regarding the book, characterized it and those who accepted and used it as unlawful and scandalous, meting out the severest penances upon those who dared to read this book, either directly or through another individual, and tried to repeat the condemnation of the book by means of a council. So this decision of the Patriarchate, from one destination to another, remained uncorrected.
+>
+> In another reliable source which published the patriarchal text, we are informed that the Patriarch at that time was not Prokopios from Smyrna, as the biographer writes, but Gabriel IV. This source cites a clerical and lay condemnation of the book, perhaps deriving its information from the biographer. We do not know whether the information about the condemnation of the book is correct. Perhaps the biographer was misled.
+>
+> Here we add the entire lengthy patriarchal text:
+>
+> “Gabriel, by the mercy of God, Archbishop of Constantinople and New Rome and Ecumenical Patriarch:
+>
+> “Most-reverend Superintendents of the Community, former and current 
+Abbots of our sacred and venerable Patriarchal and Stavropegic Monasteries
+ of the Most-holy Mountain of Athos, and the rest of the Fathers dwelling 
+in the monasteries, cells and sketes, our beloved children in
+the Lord: grace be with you and peace from God. To slip
+and fall into sins is terrible and damaging to the soul. But
+even more terrible, if not the most damaging, is when the
+fallen one does not want to get up and when the sinner
+does not repent or listen to advice unto his correction. The
+passions of sin are healed by the medicines of penitence
+and abstinence, but where these medicines are unable to
+have their effect, no hope of life remains. Therefore, those
+who are unrepentant are more wicked than those who are
+sinful and thus worthy of greater punishment and condemnation in the same degree as incurable diseases are worse than curable ones.
+>
+> “You, however, will not behave in this way, but will obey the Great and Holy Church of Christ and desist henceforth from the acceptance, reading, and defense of the book called *Concerning Sacred Communion*, already published and in existence and deemed [false?] by our synod as an anonymous book, stating that on account of this book many quarrels and disputes have arisen in the Church. Since in this book there are many and various false assertions, one can plainly say that it is necessary to partake of the immaculate Mysteries of Christ every day, in accordance with divine Chrysostom and the divine Apostle, and does not assert that one must first prepare many days beforehand for the reception of these immaculate Mysteries, and then approach sacred Communion. Three things, then, are contained in the letter of your beatitude: first, to reject and utterly abominate this soul-damaging and soul-destroying book and all of its misunderstandings and absurdities, and then, second, to guard the Christians in your community from a practice which has always been in effect from time immemorial in our Holy and blameless Church regarding the dogmas and sacred Mysteries to just anyone, or to any single person, on account of some custom, or by any local or local and supremely perfect council. And those things that have been approved by the church and accepted have indeed been accepted by the faithful for their use as being beneficial to the soul. But the others are rightly disapproved and rejected as harmful to Christians, even if there is something correct in them.
+>
+> “Many times there have been men who have insidiously attempted to penetrate and corrupt correct and healthy ecclesiastical conduct, making changes from outside, under the guise of sanctity, under the instigation of the devil, and under the pretense of piety and virtue. The writer of this now-appeared book, however, because his arrogance went too far and took matters into his own hands, setting himself against ancient ecclesiastical good order and arranging himself against things accepted by all the saints, hid away in an unknown place and did not even venture to appear, for fear of exposing himself and thus suffering his and his fearsome chastisement and punishment. He concealed himself in this way, safely lying in wait, and then upon the naïve and simple.
+>
+> “For these reasons, then, we decide by our patriarchal and synodical declaration: this work is rejected and worthy of rejection, as incorrect and causing scandals, and also as being contrary to ancient ecclesiastical conduct and all our church’s accepted customs concerning the reception of the divine and immaculate Mysteries. It is confessed by us that only it is done worthily. For our blameless Faith knows that those things which we cannot live without, the proper time to receive Communion, as the great Father of the Church, Chrysostom, says, is not by quantity of time, but by conscience and celebration as such; but when we have a pure conscience and God-pleasing preparation, frequent communion is very lawful and beneficial to the soul and salvific.
+>
+> “Therefore, your book was synodically declared beneficial and salvific, and only the reading of it is allowed to all pious Christians. Those, however, who reject it, and those wishing to buy it, may read it frequently, and with the fear of God, lawfully and canonically, with the guidance and satisfaction of the assigned spiritual rule of each one of the local bishops, together with local confession. However, because a suspicion has grown that some think it fitting to write against this book, openly condemning your written work, and therefore, in order to respect the excommunication, pious Christians do not want to receive the divine Mysteries from the sacred altar…”
+>
+> Later, however, the book was withdrawn, as is apparent from the epistle of Patriarch Neophytos VII, apparently at the urging of a chief censor, Makarios. This epistle, addressed “to the former Metropolitan of Corinth,” published by the biographer, reads in part:
+>
+> “Blessed sir Metropolitan of Corinth Makarios, beloved in the Spirit and concelebrant with our mediocrity, grace be with your arch-priesthood and peace from God. We have received your God-beloved and peaceful book concerning frequent sacred communion, which you examined synodically, carefully inspected, and approved as beneficial and salvific to the soul and our God-pleasing preparation. Frequent communion is very profitable to the soul concerning frequent Communion of the immaculate Mysteries and was very beneficial and soul-saving for the common benefit of Orthodox Christians when it was first published in 1777.
+>
+> “There has arisen a literary controversy concerning the authorship of the work, or rather, of the 1777 anonymous publication of the Lord’s Prayer which was published anonymously, but it is considered certain that Nikodemos revised St. Makarios’s *Concerning Frequent Communion*, the antirrhetic amendments, and the additions to the original work. Most attribute the 1777 edition to Makarios of Corinth, while scholars have also discussed the reworked 1783 edition by Nikodemos the Hagiorite in collaboration with St. Makarios.”
+>
+> The work was eventually republished after being revised.
+
+</details>
+
+---
+
+## last presentation
+
+The Bread Come Down from Heaven
+Verily, verily, I say unto you, Except ye eat the flesh of the Son of man,
+and drink his blood, ye have no life in you. Whose eateth my flesh, and
+drinketh my blood, hath eternal life, and I will raise him up at the last
+day. For my flesh is meat indeed, and my blood is drink indeed. He that
+eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
+In. 6:52-56
+
+PART TWO
+
+CONCERNING FREQUENT COMMUNION
+
+CHAPTER 1
+
+It Is Necessary for the Orthodox to Partake
+Frequently of the Divine Body and Blood of Our Lord
+
+All Orthodox Christians are commanded to receive
+Communion frequently. First, by the orders of our Lord
+and Master Jesus Christ. Second, by the Acts and Canons
+of the Holy Apostles and the sacred Councils and by the
+testimonies of the divine Fathers. Third, by the very words,
+the order, and the celebration of the Divine Liturgy. Fourth,
+by Holy Communion in and of itself.
+
+1. Our Lord Jesus Christ, before He handed down the
+Mystery of Communion, said: "And the bread that I will
+give is My flesh, which I will give for the life of the world"
+(Jn. 6:51). This means that, for the faithful, divine Communion
+is a necessary constituent of the spiritual life in Christ. This
+spiritual life in Christ is not to be extinguished or interrupted-
+as the Apostle says: "Quench not the Spirit" (1 Th. 5:19)-
+
+but must be continuous and uninterrupted, "that they which
+live should not henceforth live unto themselves, but unto
+Him which died for them, and rose again" (2 Cor. 5:15),
+according to the words of the same Apostle. That is, the
+living faithful are no longer to live a selfish and carnal life,
+but the life of Christ, Who died and resurrected for them.
+Necessarily, then, it is required that divine Communion,
+the constituent of this spiritual life, also be uninterrupted.
+And in another place the Lord says imperatively: "Verily,
+verily, I say unto you, Except ye eat the flesh of the Son of
+Man, and drink His blood, ye have no life in you" (Jn. 6:53).
+These words make apparent that divine Communion is just
+as necessary for the Christian as Holy Baptism. For He used
+the same double expression when speaking about Baptism
+and about Communion. Concerning Baptism, He said:
+"Verily, verily, I say unto thee, Except a man be born of
+water and of the Spirit, he cannot enter into the kingdom
+of God" (Jn. 3:5). Concerning divine Communion, He
+likewise said: "Verily, verily, I say unto you, Except ye eat
+the flesh of the Son of Man, and drink His blood, ye have
+no life in you" (Jn. 6:53). Therefore, just as without Baptism
+it is impossible for one to live the spiritual life and be saved,
+it is impossible for one to live without divine Communion.
+But since these two have this difference, that Baptism is to
+occur but one time, while divine Communion is to occur
+frequently and daily, it is right to conclude that there are
+two requirements respecting divine Communion: one, that
+it is to be received; and the other, that it is to be received
+frequently.
+When the Lord handed down this Mystery to His disciples,
+He did not merely make a recommendation, saying: "Whoever
+
+wants to eat My body, and whoever wants to drink My
+blood" -as He did when He said, "Whoever wants to follow
+Me,"8 and, "If you want to be perfect."69 Rather, He
+commandingly cried out: "Take, eat; this is My body" (Mt.
+26:26), and, "Drink of it, all of you, this is My blood" (Mt.
+26:27-28). That is, "You must absolutely eat My body, and
+you must unfailingly drink My blood." Again He says: "This
+do in remembrance of Me" (Lk. 22:19). That is, "I am
+delivering this Mystery to you so that you might celebrate
+it, not one, two, or three times, but every day (as the divine
+Chrysostom interprets it),70 unto the remembrance of My
+sufferings, My death, and My whole incarnate economy."
+Behold how these words of the Lord clearly present the
+two requirements respecting Communion, the one by the
+fundamental command they contain, and the other by the
+frequency signified by the words "this do;" and this clearly
+means that we are strongly commanded not only to commune,
+but also to commune often. Everyone, therefore, can now
+see that an Orthodox is not allowed to transgress these
+things, no matter his order.71 Rather, he is absolutely obligated
+and required to keep them, and to receive them as commands
+and ordinances of the Master.
+
+2. The divine Apostles, following this commanding
+directive of our Lord, at the beginning of their preaching
+
+G8 Cf. Mt. 16:24.
+
+gathered together as soon as they could with all of the
+faithful in a hidden place, for fear of the Jews. There they
+taught the Christians, praying and celebrating the Mystery,
+and they and all gathered there with them communed, as
+the sacred Luke bears witness in the Acts of the Apostles.
+There, he says that the three thousand people who believed
+in Christ on the day of Pentecost and were baptized were
+with the Apostles in order to listen to their teaching and to
+benefit from it, to pray together, and to commune of the
+immaculate Mysteries in order to be sanctified and to be
+more firmly established in the faith of Christ: "And they
+continued steadfastly in the Apostles' doctrine, and in
+Communion, and in breaking of bread, and in prayers"
+(Acts 2:42).
+And in order for later Christians to keep this mandatory
+tradition of the Lord, and in order for it not to be forgotten
+over time, that which the Apostles practiced they also wrote
+in their eighth and ninth Canons, commanding in exact
+detail, and with the threat of the penance of excommunication,
+that no one is to remain uncommuned of the divine Mysteries:
+"If anyone ... does not receive Communion when the offering
+is made, let him declare the reason; and, if it is legitimate,
+let him be excused. But if he does not declare it, let him be
+excommunicated."72
+And in the ninth Canon they say: "Any of the faithful
+who enter in and listen to the Scriptures, but do not stay
+for the prayers and Holy Communion, are to be
+
+72 Canon 8 of the Holy Apostles (Pedalion [Athens: Papademetriou, 2003],
+11; The Rudder, [Chicago: The Orthodox Christian Educational Society,
+1983], 20).
+
+excommunicated, as causing disorder in the Church."73
+Explaining this Canon, Theodore Balsamon says: "The
+ordinance of the present Canon is very severe, for it ex-
+communicates those who go to Church but do not remain
+until the end or receive Communion. And other Canons
+also designate the same thing, so that all will be prepared
+and worthy to receive Communion."74
+Following the sacred Apostles, the Council in Antioch
+first ratifies the above Canons, and then adds:
+Any who enter the Church of God and listen to the sacred
+Scriptures, but do not participate in prayer with the
+people, or who turn away from the Communion of the
+Eucharist, by reason of some disorder, are to be cast out
+of the Church until they have made confession, and
+shown fruits of repentance, and made entreaty, and then
+they will be able to be forgiven.75
+My brothers, do you now see that all Christians are subject
+to mandatory excommunication and must receive Communion
+frequently? And that they are required to do so at every
+Divine Liturgy, in order that they not be excommunicated
+by the sacred Apostles and by the Holy Council?
+
+3. If we look carefully at the sacred Divine Liturgy, we
+will see that, from beginning to end, it has as its goal and
+reference the Communion of the gathered faithful Christians.
+For the prayers which the priest reads silently, those which
+he says aloud, and, simply, all of the sacred words, rituals,
+
+T3 Pedalion, 11; The Rudder, 21.
+7 PG 137, 53B.
+75 Canon 2 (Pedalion, 407; The Rudder, 535).
+
+and directions of the Divine Liturgy show this.
+Concerning the silent prayers, in the Second Prayer of
+the Faithful it is written: "Grant them (the faithful, that is)
+always to worship Thee with fear and love, and without
+guilt and condemnation to partake of the Holy Mysteries."
+In the prayer recited after the completion of the Mysteries76
+it is written: "That to those who shall partake thereof they
+may be unto vigilance of soul, unto forgiveness of sins." The
+prayer before Communion says: "And vouchsafe, by Thy
+mighty hand, to give to us Thine immaculate body and Thy
+precious blood, and through us, to all Thy people."
+Concerning those things which are said aloud, the priest,
+as if the Lord is speaking, cries out to the people, "Take,
+eat; this is My body," and, "Drink of it, all of you, this is My
+blood." Holding the sacred chalice containing the life-giving
+body and blood, the priest exits from the sanctuary and
+holds it up for all the people to see. He then calls them to
+divine Communion, shouting aloud: "With the fear of God,
+with faith, and with love, draw near." That is, come forth
+in order to receive, with the fear of God, with faith and love,
+the divine Mysteries.
+After Communion, the priest and the people thank God
+that they have been deemed worthy of this great grace. The
+people offer thanksgiving: "Let our mouths be filled with
+Thy praise, O Lord ... for Thou hast deemed us worthy to
+partake of Thy holy, immortal, and immaculate Mysteries."
+The priest says: "Upright, having received the divine, holy,
+immaculate, and life-giving Mysteries, let us worthily give
+thanks to the Lord." Namely, "O brothers, since we have
+
+"6 Translator's note: That is, after the sanctification of the Holy Gifts.
+
+all received the holy and life-giving Mysteries with an uprigh
+conscience, let us with one voice give thanks to the Lor
+for this."
+If one considers the Cherubic Hymn which is chante
+by the people, he will see that it too is a preparation fo
+Communion. For it says that all of us, who mystically represen
+the many-eyed Cherubim, and who chant the thrice-holy
+hymn to the life-giving Trinity, are to cast out from ou
+intellect every concern and care of this life, because we ar
+going to partake of and receive into our soul the King o
+all, Who is invisibly surrounded by the orders of the heavenly
+angels.
+The Lord's Prayer, which is recited after the
+transubstantiation of the Mysteries, also indicates this. For
+by this prayer Christians ask from God the Father to give
+them the superessential bread, which is primarily Holy
+Communion, as we said earlier, in the first part of this book.
+Even the names by which the Divine Liturgy is especially
+called, that is, "Communion" and "Synaxis" [that is,
+"Gathering"], refer in some way to frequent Communion.
+For "Communion" and "Synaxis" denote that, through the
+reception of the body and blood of Christ, all the faithful
+are gathered together in communion and are united with
+Christ, and they become one body and one spirit with Him."
+
+77 Cf. Eph. 4:4. [Translator's note: That the faithful who partake of the
+deified body of Christ in the Eucharist are transformed into that very
+immortal and incorruptible body, thus truly becoming one body with
+Him, see Justin Martyr, Apologia 1.66, PG 6, 428C-429A (ANF [01], 185),
+Gregory of Nyssa, Oratio Catechetica 37, PG 45, 93A-93B (NPNF [V2-05],
+504-505), and Cyril of Alexandria, In Joannis Evangelium 4.2, PG 73,
+577B-580A.]
+
+So, based on all of these sacred rituals of the Divine
+Liturgy, I ask you, my brothers, to tell me in the fear of
+God and in the good conscience of your soul, is it not obvious
+that Christians who attend the Liturgy are required to
+commune frequently? Are they not obligated to do this in
+order to show that it is a communion, a gathering, and a
+supper, and so that they may not be shown to be transgressors
+of those very things which they believe and confess during
+the Liturgy? If, however, they do not receive Communion
+as they have confessed during the Liturgy, I fear, I truly
+fear, that they might be found to be transgressors. But also,
+regarding the priest's call to them to come forward, and
+the other sacred words, acts, and rituals which take place
+during the Divine Liturgy-I no longer know if they are
+even in their correct places. For every single person withdraws,
+so that not even a single Christian is found to approach the
+Holy Mysteries, to obey such an invitation from the priest-
+or, to state it better, from God. But rather, the priest, having
+done nothing, turns back with the Holy Things, without
+anyone having accepted his invitation to come forward and
+receive Communion.
+For this reason, the divine Chrysostom, following the
+sacred Canons of the Holy Apostles and of the sacred Council
+which we previously mentioned, and certainly considering
+how all of the sacred rituals of the Divine Liturgy look to
+the Communion of the faithful, judges those people who
+go to the Liturgy and do not commune to be unworthy
+even of entering into the Church:
+I observe many partaking of Christ's body lightly and
+haphazardly, and rather from custom and form than
+from consideration and understanding. "When," says
+
+
 
 # resources
 * [Holy Communion Slides from Orthodoxy 201 Part 1](https://drive.google.com/file/d/1PODIPNNx55kB52B2NiWd20NBqq6xDuTb/view)
