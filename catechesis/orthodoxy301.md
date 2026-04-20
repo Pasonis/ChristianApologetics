@@ -1,4 +1,4 @@
-# week 1
+# Qeustions week 1
 
 <details>
 
@@ -61,14 +61,20 @@ I found this passage confusing. It begins by saying, “Not everyone is permitte
 **Question:**  
 The reading says, “Only grave sins should keep us away from the Eucharistic Supper.” What is the Orthodox distinction between grave or mortal sins and other sins, and where is that distinction taught most clearly?
 
+
+**Question:**
+Are the silent prayers the ones that the priest says softly/quietly in the Divine Liturgy?
+
 </details>
 
 ## Holy Communion Slides from Orthodoxy 201 Part 1
 
-# slide 3-4 Frequent Communion
-Slides are screenshots intead of text. Below is the text:
+<details>
+<summary><h3>Slides 3-4 Frequent Communion</h3></summary>
 
-Personal preparedness
+<details>
+<summary><b>Personal preparedness</b></summary>
+
 The decline in frequent Communion came about gradually. Following the
 peace of Constantine, the awesome sacredness of Communion was increasingly
 emphasized over and against the personal worthiness of the communicant, a
@@ -184,7 +190,10 @@ flow into dead and amputated limbs."438
 
 ---
 
-Who Then Can Receive Holy Communion?
+</details>
+
+<details>
+<summary><b>Who Then Can Receive Holy Communion?</b></summary>
 
 Saint Justin the Martyr (ca. 150) gives the following concise response: "T
 food we call eucharist, and no one may share it unless he believes that
@@ -277,14 +286,18 @@ In John D. Zizioulas: Lectures in Christian Dogmatics, Douglas H. Knight, ed. (L
 
 — Alkiviadis C. Calivas, *ΙΕΡΟΤΕΛΕΣΤΙΚΟΝ: A Handbook on Orthodox Liturgical Practice: History, Meanings, Challenges*, Part Three: “The Divine Liturgy,” pp. 342–345. [2]
 
+</details>
+
+</details>
+
 ---
 
 ## Holy Communion Slides from Orthodoxy 201 Part 2
 
 ![divineLiturgy_storyboard.png](images/divineLiturgy_storyboard.png)
 
-### slide 2
-text from image:
+<details>
+<summary><h3>Slide 2</h3></summary>
 
 "Let us then partake with full assurance of the Body and Blood of
 Christ: for in the figure of Bread is given to you His Body, and in the
@@ -306,9 +319,10 @@ whom be honor, and might, and glory, for ever and ever. Amen."
 
 ---
 
-### slide 4
+</details>
+
 <details>
-<summary><b>Prayers Before Holy Communion</b></summary>
+<summary><h3>Slide 4: Prayers Before Holy Communion</h3></summary>
 
 > I believe and confess, Lord, that You are truly the Christ, the Son of the living God, who came into the world to save sinners, of whom I am the first. I also believe that this is truly Your pure Body and that this is truly Your precious Blood. Therefore, I pray to You, have mercy on me and forgive my transgressions, voluntary and involuntary, in word and deed, in knowledge or in ignorance. And make me worthy, without condemnation, to partake of Your pure sacrament for the remission of sins and for eternal life. Amen.
 >
@@ -328,10 +342,11 @@ whom be honor, and might, and glory, for ever and ever. Amen."
 
 </details>
 
-### slide 5-7
+<details>
+<summary><h3>Slides 5-7</h3></summary>
 
 <details>
-<summary><b>Preparation Before Receiving Holy Communion</b></summary>
+<summary><b>:Preparation Before Receiving Holy Communion</b></summary>
 
 > Many people essentially identify preparation for receiving Holy Communion with fasting. Of course, the Church prescribes that in order to receive Holy Communion we should abstain from eating or drinking anything on the morning on which we intend to receive. If we cannot have this minimum preparation, then what other efforts do we make to prepare ourselves? However, there are other forms of preparation besides fasting.
 >
@@ -387,9 +402,11 @@ whom be honor, and might, and glory, for ever and ever. Amen."
 
 </details>
 
+</details>
+
 ---
 
-# Concerning Frequency of Holy Communion - Preface, History
+## Concerning Frequency of Holy Communion - Preface, History
 
 <details>
 <summary><b>Concerning Frequent Communion — Preface</b></summary>
@@ -466,270 +483,484 @@ sinful and thus worthy of greater punishment and condemnation in the same degree
 
 ---
 
-## last presentation
+## Frequent Communion Ch 1
 
-The Bread Come Down from Heaven
-Verily, verily, I say unto you, Except ye eat the flesh of the Son of man,
-and drink his blood, ye have no life in you. Whose eateth my flesh, and
-drinketh my blood, hath eternal life, and I will raise him up at the last
-day. For my flesh is meat indeed, and my blood is drink indeed. He that
-eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
-In. 6:52-56
+<details>
+<summary><b>Concerning Frequent Communion — Part Two, Chapter 1</b></summary>
 
-PART TWO
+**The Bread Come Down from Heaven**
 
-CONCERNING FREQUENT COMMUNION
+> Verily, verily, I say unto you, Except ye eat the flesh of the Son of man,
+> and drink his blood, ye have no life in you. Whoso eateth my flesh, and
+> drinketh my blood, hath eternal life, and I will raise him up at the last
+> day. For my flesh is meat indeed, and my blood is drink indeed. He that
+> eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
+>
+> — Jn. 6:52–56
 
-CHAPTER 1
+**It Is Necessary for the Orthodox to Partake Frequently of the Divine Body and Blood of Our Lord**
 
-It Is Necessary for the Orthodox to Partake
-Frequently of the Divine Body and Blood of Our Lord
+> All Orthodox Christians are commanded to receive Communion frequently.
+> First, by the orders of our Lord and Master Jesus Christ. Second, by the
+> Acts and Canons of the Holy Apostles and the sacred Councils and by the
+> testimonies of the divine Fathers. Third, by the very words, the order,
+> and the celebration of the Divine Liturgy. Fourth, by Holy Communion in
+> and of itself.
 
-All Orthodox Christians are commanded to receive
-Communion frequently. First, by the orders of our Lord
-and Master Jesus Christ. Second, by the Acts and Canons
-of the Holy Apostles and the sacred Councils and by the
-testimonies of the divine Fathers. Third, by the very words,
-the order, and the celebration of the Divine Liturgy. Fourth,
-by Holy Communion in and of itself.
+<details>
+<summary><b>1. The command of Christ</b></summary>
 
-1. Our Lord Jesus Christ, before He handed down the
-Mystery of Communion, said: "And the bread that I will
-give is My flesh, which I will give for the life of the world"
-(Jn. 6:51). This means that, for the faithful, divine Communion
-is a necessary constituent of the spiritual life in Christ. This
-spiritual life in Christ is not to be extinguished or interrupted-
-as the Apostle says: "Quench not the Spirit" (1 Th. 5:19)-
+> Our Lord Jesus Christ, before He handed down the Mystery of Communion,
+> said: “And the bread that I will give is My flesh, which I will give for
+> the life of the world” (Jn. 6:51). This means that, for the faithful,
+> divine Communion is a necessary constituent of the spiritual life in
+> Christ. This spiritual life in Christ is not to be extinguished or
+> interrupted — as the Apostle says: “Quench not the Spirit”
+> (1 Th. 5:19) — but must be continuous and uninterrupted, “that they which
+> live should not henceforth live unto themselves, but unto Him which died
+> for them, and rose again” (2 Cor. 5:15), according to the words of the
+> same Apostle. That is, the living faithful are no longer to live a selfish
+> and carnal life, but the life of Christ, Who died and resurrected for
+> them. Necessarily, then, it is required that divine Communion, the
+> constituent of this spiritual life, also be uninterrupted.
 
-but must be continuous and uninterrupted, "that they which
-live should not henceforth live unto themselves, but unto
-Him which died for them, and rose again" (2 Cor. 5:15),
-according to the words of the same Apostle. That is, the
-living faithful are no longer to live a selfish and carnal life,
-but the life of Christ, Who died and resurrected for them.
-Necessarily, then, it is required that divine Communion,
-the constituent of this spiritual life, also be uninterrupted.
-And in another place the Lord says imperatively: "Verily,
-verily, I say unto you, Except ye eat the flesh of the Son of
-Man, and drink His blood, ye have no life in you" (Jn. 6:53).
-These words make apparent that divine Communion is just
-as necessary for the Christian as Holy Baptism. For He used
-the same double expression when speaking about Baptism
-and about Communion. Concerning Baptism, He said:
-"Verily, verily, I say unto thee, Except a man be born of
-water and of the Spirit, he cannot enter into the kingdom
-of God" (Jn. 3:5). Concerning divine Communion, He
-likewise said: "Verily, verily, I say unto you, Except ye eat
-the flesh of the Son of Man, and drink His blood, ye have
-no life in you" (Jn. 6:53). Therefore, just as without Baptism
-it is impossible for one to live the spiritual life and be saved,
-it is impossible for one to live without divine Communion.
-But since these two have this difference, that Baptism is to
-occur but one time, while divine Communion is to occur
-frequently and daily, it is right to conclude that there are
-two requirements respecting divine Communion: one, that
-it is to be received; and the other, that it is to be received
-frequently.
-When the Lord handed down this Mystery to His disciples,
-He did not merely make a recommendation, saying: "Whoever
+> And in another place the Lord says imperatively: “Verily, verily, I say
+> unto you, Except ye eat the flesh of the Son of Man, and drink His blood,
+> ye have no life in you” (Jn. 6:53). These words make apparent that divine
+> Communion is just as necessary for the Christian as Holy Baptism. For He
+> used the same double expression when speaking about Baptism and about
+> Communion. Concerning Baptism, He said: “Verily, verily, I say unto thee,
+> Except a man be born of water and of the Spirit, he cannot enter into the
+> kingdom of God” (Jn. 3:5). Concerning divine Communion, He likewise said:
+> “Verily, verily, I say unto you, Except ye eat the flesh of the Son of
+> Man, and drink His blood, ye have no life in you” (Jn. 6:53). Therefore,
+> just as without Baptism it is impossible for one to live the spiritual
+> life and be saved, it is impossible for one to live without divine
+> Communion.
 
-wants to eat My body, and whoever wants to drink My
-blood" -as He did when He said, "Whoever wants to follow
-Me,"8 and, "If you want to be perfect."69 Rather, He
-commandingly cried out: "Take, eat; this is My body" (Mt.
-26:26), and, "Drink of it, all of you, this is My blood" (Mt.
-26:27-28). That is, "You must absolutely eat My body, and
-you must unfailingly drink My blood." Again He says: "This
-do in remembrance of Me" (Lk. 22:19). That is, "I am
-delivering this Mystery to you so that you might celebrate
-it, not one, two, or three times, but every day (as the divine
-Chrysostom interprets it),70 unto the remembrance of My
-sufferings, My death, and My whole incarnate economy."
-Behold how these words of the Lord clearly present the
-two requirements respecting Communion, the one by the
-fundamental command they contain, and the other by the
-frequency signified by the words "this do;" and this clearly
-means that we are strongly commanded not only to commune,
-but also to commune often. Everyone, therefore, can now
-see that an Orthodox is not allowed to transgress these
-things, no matter his order.71 Rather, he is absolutely obligated
-and required to keep them, and to receive them as commands
-and ordinances of the Master.
+> But since these two have this difference, that Baptism is to occur but one
+> time, while divine Communion is to occur frequently and daily, it is right
+> to conclude that there are two requirements respecting divine Communion:
+> one, that it is to be received; and the other, that it is to be received
+> frequently.
 
-2. The divine Apostles, following this commanding
-directive of our Lord, at the beginning of their preaching
+> When the Lord handed down this Mystery to His disciples, He did not merely
+> make a recommendation, saying: “Whoever wants to eat My body, and whoever
+> wants to drink My blood” — as He did when He said, “Whoever wants to
+> follow Me,” and, “If you want to be perfect.” Rather, He commandingly
+> cried out: “Take, eat; this is My body” (Mt. 26:26), and, “Drink of it,
+> all of you, this is My blood” (Mt. 26:27–28). That is, “You must
+> absolutely eat My body, and you must unfailingly drink My blood.” Again
+> He says: “This do in remembrance of Me” (Lk. 22:19). That is, “I am
+> delivering this Mystery to you so that you might celebrate it, not one,
+> two, or three times, but every day (as the divine Chrysostom interprets
+> it), unto the remembrance of My sufferings, My death, and My whole
+> incarnate economy.”
 
-G8 Cf. Mt. 16:24.
+> Behold how these words of the Lord clearly present the two requirements
+> respecting Communion, the one by the fundamental command they contain, and
+> the other by the frequency signified by the words “this do;” and this
+> clearly means that we are strongly commanded not only to commune, but also
+> to commune often. Everyone, therefore, can now see that an Orthodox is not
+> allowed to transgress these things, no matter his order. Rather, he is
+> absolutely obligated and required to keep them, and to receive them as
+> commands and ordinances of the Master.
 
-gathered together as soon as they could with all of the
-faithful in a hidden place, for fear of the Jews. There they
-taught the Christians, praying and celebrating the Mystery,
-and they and all gathered there with them communed, as
-the sacred Luke bears witness in the Acts of the Apostles.
-There, he says that the three thousand people who believed
-in Christ on the day of Pentecost and were baptized were
-with the Apostles in order to listen to their teaching and to
-benefit from it, to pray together, and to commune of the
-immaculate Mysteries in order to be sanctified and to be
-more firmly established in the faith of Christ: "And they
-continued steadfastly in the Apostles' doctrine, and in
-Communion, and in breaking of bread, and in prayers"
-(Acts 2:42).
-And in order for later Christians to keep this mandatory
-tradition of the Lord, and in order for it not to be forgotten
-over time, that which the Apostles practiced they also wrote
-in their eighth and ninth Canons, commanding in exact
-detail, and with the threat of the penance of excommunication,
-that no one is to remain uncommuned of the divine Mysteries:
-"If anyone ... does not receive Communion when the offering
-is made, let him declare the reason; and, if it is legitimate,
-let him be excused. But if he does not declare it, let him be
-excommunicated."72
-And in the ninth Canon they say: "Any of the faithful
-who enter in and listen to the Scriptures, but do not stay
-for the prayers and Holy Communion, are to be
+</details>
 
-72 Canon 8 of the Holy Apostles (Pedalion [Athens: Papademetriou, 2003],
-11; The Rudder, [Chicago: The Orthodox Christian Educational Society,
-1983], 20).
+<details>
+<summary><b>2. The witness of the Apostles and Canons</b></summary>
 
-excommunicated, as causing disorder in the Church."73
-Explaining this Canon, Theodore Balsamon says: "The
-ordinance of the present Canon is very severe, for it ex-
-communicates those who go to Church but do not remain
-until the end or receive Communion. And other Canons
-also designate the same thing, so that all will be prepared
-and worthy to receive Communion."74
-Following the sacred Apostles, the Council in Antioch
-first ratifies the above Canons, and then adds:
-Any who enter the Church of God and listen to the sacred
-Scriptures, but do not participate in prayer with the
-people, or who turn away from the Communion of the
-Eucharist, by reason of some disorder, are to be cast out
-of the Church until they have made confession, and
-shown fruits of repentance, and made entreaty, and then
-they will be able to be forgiven.75
-My brothers, do you now see that all Christians are subject
-to mandatory excommunication and must receive Communion
-frequently? And that they are required to do so at every
-Divine Liturgy, in order that they not be excommunicated
-by the sacred Apostles and by the Holy Council?
+> The divine Apostles, following this commanding directive of our Lord, at
+> the beginning of their preaching gathered together as soon as they could
+> with all of the faithful in a hidden place, for fear of the Jews. There
+> they taught the Christians, praying and celebrating the Mystery, and they
+> and all gathered there with them communed, as the sacred Luke bears
+> witness in the Acts of the Apostles. There, he says that the three
+> thousand people who believed in Christ on the day of Pentecost and were
+> baptized were with the Apostles in order to listen to their teaching and
+> to benefit from it, to pray together, and to commune of the immaculate
+> Mysteries in order to be sanctified and to be more firmly established in
+> the faith of Christ: “And they continued steadfastly in the Apostles’
+> doctrine, and in Communion, and in breaking of bread, and in prayers”
+> (Acts 2:42).
 
-3. If we look carefully at the sacred Divine Liturgy, we
-will see that, from beginning to end, it has as its goal and
-reference the Communion of the gathered faithful Christians.
-For the prayers which the priest reads silently, those which
-he says aloud, and, simply, all of the sacred words, rituals,
+> And in order for later Christians to keep this mandatory tradition of the
+> Lord, and in order for it not to be forgotten over time, that which the
+> Apostles practiced they also wrote in their eighth and ninth Canons,
+> commanding in exact detail, and with the threat of the penance of
+> excommunication, that no one is to remain uncommuned of the divine
+> Mysteries: “If anyone ... does not receive Communion when the offering is
+> made, let him declare the reason; and, if it is legitimate, let him be
+> excused. But if he does not declare it, let him be excommunicated.”
 
-T3 Pedalion, 11; The Rudder, 21.
-7 PG 137, 53B.
-75 Canon 2 (Pedalion, 407; The Rudder, 535).
+> And in the ninth Canon they say: “Any of the faithful who enter in and
+> listen to the Scriptures, but do not stay for the prayers and Holy
+> Communion, are to be excommunicated, as causing disorder in the Church.”
 
-and directions of the Divine Liturgy show this.
-Concerning the silent prayers, in the Second Prayer of
-the Faithful it is written: "Grant them (the faithful, that is)
-always to worship Thee with fear and love, and without
-guilt and condemnation to partake of the Holy Mysteries."
-In the prayer recited after the completion of the Mysteries76
-it is written: "That to those who shall partake thereof they
-may be unto vigilance of soul, unto forgiveness of sins." The
-prayer before Communion says: "And vouchsafe, by Thy
-mighty hand, to give to us Thine immaculate body and Thy
-precious blood, and through us, to all Thy people."
-Concerning those things which are said aloud, the priest,
-as if the Lord is speaking, cries out to the people, "Take,
-eat; this is My body," and, "Drink of it, all of you, this is My
-blood." Holding the sacred chalice containing the life-giving
-body and blood, the priest exits from the sanctuary and
-holds it up for all the people to see. He then calls them to
-divine Communion, shouting aloud: "With the fear of God,
-with faith, and with love, draw near." That is, come forth
-in order to receive, with the fear of God, with faith and love,
-the divine Mysteries.
-After Communion, the priest and the people thank God
-that they have been deemed worthy of this great grace. The
-people offer thanksgiving: "Let our mouths be filled with
-Thy praise, O Lord ... for Thou hast deemed us worthy to
-partake of Thy holy, immortal, and immaculate Mysteries."
-The priest says: "Upright, having received the divine, holy,
-immaculate, and life-giving Mysteries, let us worthily give
-thanks to the Lord." Namely, "O brothers, since we have
+> Explaining this Canon, Theodore Balsamon says: “The ordinance of the
+> present Canon is very severe, for it excommunicates those who go to Church
+> but do not remain until the end or receive Communion. And other Canons
+> also designate the same thing, so that all will be prepared and worthy to
+> receive Communion.”
 
-"6 Translator's note: That is, after the sanctification of the Holy Gifts.
+> Following the sacred Apostles, the Council in Antioch first ratifies the
+> above Canons, and then adds:
 
-all received the holy and life-giving Mysteries with an uprigh
-conscience, let us with one voice give thanks to the Lor
-for this."
-If one considers the Cherubic Hymn which is chante
-by the people, he will see that it too is a preparation fo
-Communion. For it says that all of us, who mystically represen
-the many-eyed Cherubim, and who chant the thrice-holy
-hymn to the life-giving Trinity, are to cast out from ou
-intellect every concern and care of this life, because we ar
-going to partake of and receive into our soul the King o
-all, Who is invisibly surrounded by the orders of the heavenly
-angels.
-The Lord's Prayer, which is recited after the
-transubstantiation of the Mysteries, also indicates this. For
-by this prayer Christians ask from God the Father to give
-them the superessential bread, which is primarily Holy
-Communion, as we said earlier, in the first part of this book.
-Even the names by which the Divine Liturgy is especially
-called, that is, "Communion" and "Synaxis" [that is,
-"Gathering"], refer in some way to frequent Communion.
-For "Communion" and "Synaxis" denote that, through the
-reception of the body and blood of Christ, all the faithful
-are gathered together in communion and are united with
-Christ, and they become one body and one spirit with Him."
+> Any who enter the Church of God and listen to the sacred Scriptures, but
+> do not participate in prayer with the people, or who turn away from the
+> Communion of the Eucharist, by reason of some disorder, are to be cast out
+> of the Church until they have made confession, and shown fruits of
+> repentance, and made entreaty, and then they will be able to be forgiven.
 
-77 Cf. Eph. 4:4. [Translator's note: That the faithful who partake of the
-deified body of Christ in the Eucharist are transformed into that very
-immortal and incorruptible body, thus truly becoming one body with
-Him, see Justin Martyr, Apologia 1.66, PG 6, 428C-429A (ANF [01], 185),
-Gregory of Nyssa, Oratio Catechetica 37, PG 45, 93A-93B (NPNF [V2-05],
-504-505), and Cyril of Alexandria, In Joannis Evangelium 4.2, PG 73,
-577B-580A.]
+> My brothers, do you now see that all Christians are subject to mandatory
+> excommunication and must receive Communion frequently? And that they are
+> required to do so at every Divine Liturgy, in order that they not be
+> excommunicated by the sacred Apostles and by the Holy Council?
 
-So, based on all of these sacred rituals of the Divine
-Liturgy, I ask you, my brothers, to tell me in the fear of
-God and in the good conscience of your soul, is it not obvious
-that Christians who attend the Liturgy are required to
-commune frequently? Are they not obligated to do this in
-order to show that it is a communion, a gathering, and a
-supper, and so that they may not be shown to be transgressors
-of those very things which they believe and confess during
-the Liturgy? If, however, they do not receive Communion
-as they have confessed during the Liturgy, I fear, I truly
-fear, that they might be found to be transgressors. But also,
-regarding the priest's call to them to come forward, and
-the other sacred words, acts, and rituals which take place
-during the Divine Liturgy-I no longer know if they are
-even in their correct places. For every single person withdraws,
-so that not even a single Christian is found to approach the
-Holy Mysteries, to obey such an invitation from the priest-
-or, to state it better, from God. But rather, the priest, having
-done nothing, turns back with the Holy Things, without
-anyone having accepted his invitation to come forward and
-receive Communion.
-For this reason, the divine Chrysostom, following the
-sacred Canons of the Holy Apostles and of the sacred Council
-which we previously mentioned, and certainly considering
-how all of the sacred rituals of the Divine Liturgy look to
-the Communion of the faithful, judges those people who
-go to the Liturgy and do not commune to be unworthy
-even of entering into the Church:
-I observe many partaking of Christ's body lightly and
-haphazardly, and rather from custom and form than
-from consideration and understanding. "When," says
+</details>
 
+<details>
+<summary><b>3. The witness of the Divine Liturgy</b></summary>
 
+> If we look carefully at the sacred Divine Liturgy, we will see that, from
+> beginning to end, it has as its goal and reference the Communion of the
+> gathered faithful Christians. For the prayers which the priest reads
+> silently, those which he says aloud, and, simply, all of the sacred words,
+> rituals, and directions of the Divine Liturgy show this.
+
+> Concerning the silent prayers, in the Second Prayer of the Faithful it is
+> written: “Grant them (the faithful, that is) always to worship Thee with
+> fear and love, and without guilt and condemnation to partake of the Holy
+> Mysteries.” In the prayer recited after the completion of the Mysteries it
+> is written: “That to those who shall partake thereof they may be unto
+> vigilance of soul, unto forgiveness of sins.” The prayer before Communion
+> says: “And vouchsafe, by Thy mighty hand, to give to us Thine immaculate
+> body and Thy precious blood, and through us, to all Thy people.”
+
+> Concerning those things which are said aloud, the priest, as if the Lord
+> is speaking, cries out to the people, “Take, eat; this is My body,” and,
+> “Drink of it, all of you, this is My blood.” Holding the sacred chalice
+> containing the life-giving body and blood, the priest exits from the
+> sanctuary and holds it up for all the people to see. He then calls them to
+> divine Communion, shouting aloud: “With the fear of God, with faith, and
+> with love, draw near.” That is, come forth in order to receive, with the
+> fear of God, with faith and love, the divine Mysteries.
+
+> After Communion, the priest and the people thank God that they have been
+> deemed worthy of this great grace. The people offer thanksgiving: “Let our
+> mouths be filled with Thy praise, O Lord ... for Thou hast deemed us
+> worthy to partake of Thy holy, immortal, and immaculate Mysteries.” The
+> priest says: “Upright, having received the divine, holy, immaculate, and
+> life-giving Mysteries, let us worthily give thanks to the Lord.” Namely,
+> “O brothers, since we have all received the holy and life-giving Mysteries
+> with an upright conscience, let us with one voice give thanks to the Lord
+> for this.”
+
+> If one considers the Cherubic Hymn which is chanted by the people, he will
+> see that it too is a preparation for Communion. For it says that all of
+> us, who mystically represent the many-eyed Cherubim, and who chant the
+> thrice-holy hymn to the life-giving Trinity, are to cast out from our
+> intellect every concern and care of this life, because we are going to
+> partake of and receive into our soul the King of all, Who is invisibly
+> surrounded by the orders of the heavenly angels.
+
+> The Lord’s Prayer, which is recited after the transubstantiation of the
+> Mysteries, also indicates this. For by this prayer Christians ask from God
+> the Father to give them the superessential bread, which is primarily Holy
+> Communion, as was said earlier in the first part of this book.
+
+> Even the names by which the Divine Liturgy is especially called, that is,
+> “Communion” and “Synaxis” [that is, “Gathering”], refer in some way to
+> frequent Communion. For “Communion” and “Synaxis” denote that, through the
+> reception of the body and blood of Christ, all the faithful are gathered
+> together in communion and are united with Christ, and they become one body
+> and one spirit with Him.
+
+> So, based on all of these sacred rituals of the Divine Liturgy, I ask you,
+> my brothers, to tell me in the fear of God and in the good conscience of
+> your soul, is it not obvious that Christians who attend the Liturgy are
+> required to commune frequently? Are they not obligated to do this in order
+> to show that it is a communion, a gathering, and a supper, and so that
+> they may not be shown to be transgressors of those very things which they
+> believe and confess during the Liturgy?
+
+> If, however, they do not receive Communion as they have confessed during
+> the Liturgy, I fear, I truly fear, that they might be found to be
+> transgressors. But also, regarding the priest’s call to them to come
+> forward, and the other sacred words, acts, and rituals which take place
+> during the Divine Liturgy — I no longer know if they are even in their
+> correct places. For every single person withdraws, so that not even a
+> single Christian is found to approach the Holy Mysteries, to obey such an
+> invitation from the priest — or, to state it better, from God. But rather,
+> the priest, having done nothing, turns back with the Holy Things, without
+> anyone having accepted his invitation to come forward and receive
+> Communion.
+
+</details>
+
+<details>
+<summary><b>St. John Chrysostom on remaining without communing</b></summary>
+
+> For this reason, the divine Chrysostom, following the sacred Canons of the
+> Holy Apostles and of the sacred Council which were previously mentioned,
+> and certainly considering how all of the sacred rituals of the Divine
+> Liturgy look to the Communion of the faithful, judges those people who go
+> to the Liturgy and do not commune to be unworthy even of entering into the
+> Church:
+
+> “I observe many partaking of Christ’s body lightly and haphazardly, and
+> rather from custom and form than from consideration and understanding.
+> ‘When,’ says someone, ‘the season of Holy Lent sets in,’ whatever kind of
+> person he may be, he partakes of the Mysteries, or, when the day of
+> Theophany comes. And yet it is not Epiphany nor is it Lent that makes
+> someone worthy of approaching, but it is sincerity and purity of soul.
+> With this, approach at all times; without it, never. ‘For as often,’ the
+> Apostle says, ‘as ye do this, ye proclaim the Lord’s death’ (1 Cor. 11:26),
+> that is to say, ‘you make a remembrance of the salvation that has been
+> wrought for you, and of the benefits which I have bestowed.’”
+
+> “Consider those who partook of the sacrifice under the Old Covenant, what
+> great abstinence did they not practice! How did they not conduct
+> themselves! What did they not perform! They were always purifying
+> themselves. And do you, when you draw nigh to the Sacrifice, at which the
+> very angels tremble, do you measure the matter by the revolutions of the
+> seasons? And how will you present yourself before the judgment-seat of
+> Christ, you who presume upon His body with polluted hands and lips?”
+
+> “Observe the vast inconsistency of the thing. At the other times you do
+> not come, no — not that you are often clean. But at Pascha, however
+> flagrant an act you may have committed, you come. O the force of custom
+> and of prejudice! In vain is the daily Sacrifice. In vain do we stand
+> before the altar: there is no one to partake. These things I am saying,
+> not to induce you simply to partake, but that you should render yourselves
+> worthy to partake.”
+
+> “Are you not worthy of the Sacrifice, or of receiving it? If so, then
+> neither are you of the prayers. You hear the herald (the deacon, that is),
+> standing, and saying: ‘As many as are in penitence, all pray.’ As many as
+> do not partake, are in penitence. If you are one of those that are in
+> penitence, you ought not to partake; for he that does not partake is one
+> of those that are in penitence. Why then when he says: ‘Depart, you that
+> are not qualified to pray,’ do you have the audacity to stand still? But
+> no, you are not of that number, you are of the number of those who are
+> able to partake, and yet you are indifferent about it and regard the
+> matter as nothing.”
+
+> “Look, I entreat. A royal Table is set before you, angels minister at that
+> Table, the King Himself is there, and do you stand gaping? Are your
+> garments defiled, and yet you make no account of it? Or are they clean?
+> Then fall down and partake.”
+
+> “Tell me, suppose someone was invited to a feast, and was to wash his
+> hands, and sit down, and be all ready at the table, and after all that,
+> refuse to partake. Is he not insulting the man who invited him? Were it
+> not better for such a person never to have come at all?”
+
+> “Now it is in just the same way that you have come here. You have sung the
+> hymn with the rest: you have declared yourself to be of the number of them
+> that are worthy by not departing with them that are unworthy. Why stay,
+> and yet not partake of the Table? ‘I am unworthy,’ you will say. Then you
+> are also unworthy of that communion you have had in the prayers.”
+
+> “That I may not then be the means of increasing your condemnation, I
+> entreat you not to forbear coming, but to render yourselves worthy both of
+> being present and of approaching. Tell me, were any king to give command
+> and say: ‘If any man does this, let him partake of my table,’ would you
+> not do all you could to be admitted? He has invited us to heaven, to the
+> Table of the great and wonderful King, and do we shrink and hesitate,
+> instead of hastening and running to it? And what then is our hope of
+> salvation? We cannot lay the blame on our weakness; we cannot lay it on
+> our nature. It is indolence and nothing else that renders us unworthy.”
+
+> Do you hear, my brother, what this great teacher of the Church says? That
+> those who are not prepared to receive Communion (though they do not have
+> an impediment) are not even worthy to attend the Divine Liturgy.
+
+</details>
+
+<details>
+<summary><b>Not attending at all is not the answer</b></summary>
+
+> But how do you respond? You say: “If this is how things are, then I just
+> won’t go to Liturgy at all.”
+
+> No, my brother, no. You are not even allowed to do this, for you will be
+> excommunicated, as the Holy and Sixth (Quinisext) Ecumenical Council
+> decrees: “If anyone ... being in town does not go to Church on three
+> consecutive Sundays — that is, three weeks — if he is a cleric let him be
+> deposed, but if he is a layman, let him be cut off from Communion.”
+
+> This is also decreed by the eleventh Canon of the Holy and sacred Local
+> Council in Sardica.
+
+> So then, beloved, you are subject to the penance of excommunication if you
+> do not do both things, namely, attend the Liturgy, and prepare yourself,
+> as much as possible, to receive Communion if you do not have an
+> impediment. You cannot transgress either the one or the other.
+
+> By doing this, you are observing all of the sacred rituals of the Divine
+> Liturgy, as was said previously, and you do not transgress the order which
+> the Church received from our very Lord, from the Apostles, from the
+> Councils, and from the Saints. And this is the order: for the Holy Bread
+> to be divided at every Divine Liturgy, and for the faithful (that is, the
+> faithful who do not have an impediment) to partake of it.
+
+</details>
+
+<details>
+<summary><b>Witness of later Fathers</b></summary>
+
+> This is what Symeon of Thessaloniki says: “The Divine Liturgy is a rite
+> during which the all-holy body and blood of Christ itself is consecrated
+> and then given to all of the faithful in Communion, and Communion is the
+> sole purpose of the Divine Liturgy.”
+
+> The sacred Bishop of Dyrrachios, Nicholas Cabasilas, writes: “The work of
+> the Holy Rite of the sacred Mysteries is the change of the divine Gifts
+> into the divine body and blood; and its purpose is for the faithful to be
+> sanctified through them.”
+
+> The wise Job says in the work *On the Mysteries* that “the entire Divine
+> Liturgy signifies and points to the Communion of the Mysteries, for this
+> is its aim, purpose, and work, namely, for the faithful to receive the
+> life-giving and dread Mysteries.”
+
+> Gabriel of Philadelphia, in the work entitled *On the Mysteries*, says
+> that the Divine Liturgy takes place for three reasons. First, unto the
+> glory and praise of our God and Savior, and unto the remembrance of His
+> death and resurrection, just as He said: “This do in remembrance of Me”
+> (Lk. 22:19). Second, for the repose and sanctification of the souls of
+> pious Orthodox Christians who have fallen asleep. And, third, for the
+> living.
+
+> Wherefore, when the Divine Liturgy is celebrated unto the glory, praise,
+> and remembrance of the death and resurrection of our Lord, our brothers
+> who have fallen asleep in the faith receive, as much as possible, rest and
+> sanctification from God. But concerning the living faithful who do not
+> receive the divine Mysteries during the Liturgy, I am in wonder and don’t
+> know how they can be sanctified at all. The sacred Cabasilas says that
+> they are not sanctified. Listen:
+
+> “If then those living souls are ready and prepared for the Mystery, and if
+> the Lord Who sanctifies and perfects wishes to sanctify, and desires to
+> continue to give Himself, what can prevent such a communion? Certainly
+> nothing. Then someone will say, if one among the living has the
+> aforementioned good qualities in his soul, but does not approach the
+> Mysteries, will he nevertheless receive the sanctification which they
+> give? Not in all cases, but only if someone cannot physically approach, as
+> it is for the souls of the dead .... If, however, someone is able to
+> approach the Table, but does not, it is impossible for him to receive the
+> sanctification which the Mysteries bring; not just because he did not
+> approach, but because, being able, he did not.”
+
+</details>
+
+<details>
+<summary><b>4. Communion as necessary nourishment of the soul</b></summary>
+
+> Not only does everything which has been said up until now obligate every
+> Christian that does not have an impediment to receive Communion
+> frequently, but even divine Communion in and of itself, if we think about
+> it, beckons each person to partake of it frequently simply because it is a
+> constituent of the life of the soul.
+
+> The scholastic theologians call Communion constitutive, because “the
+> constitutive” is that without which it is impossible for something that
+> happens to happen. For example, breath is constitutive to the life of man,
+> for, without it, man cannot live. And food is necessary for the
+> constitution of the body. Now, just as frequent breathing is necessary for
+> life and food is necessary for the constitution of the nature of the body,
+> in like manner is frequent Communion necessary for the life of the soul
+> and for the constitution of its essence; or, rather, it is incomparably
+> more necessary.
+
+> Now let Basil the Great, that foundation of the right dogmas of the
+> Church, come onto the scene and speak to us. He says: “The receiving of
+> the body and blood of Christ is necessary for eternal life.” And, again,
+> he says: “He who has been reborn through Baptism must now be nourished by
+> partaking of the divine Mysteries .... Therefore, we are now nourished
+> with the food of eternal life, which the Son of the living God handed down
+> to us.”
+
+> And again, when asked a question by a patrician woman named Caesarea, he
+> replied to her in an epistle saying: “It is good and beneficial to
+> commune every day, and to partake of the holy body and blood of Christ,
+> Who clearly says: ‘Whoso eateth My flesh, and drinketh My blood, hath
+> eternal life’ (Jn. 6:54). For who doubts that to frequently participate in
+> life is nothing other than to have manifold life?”
+
+> The monk Job the Confessor says: “It is just and right for the Christian
+> to be sanctified frequently and many times by receiving divine Communion,
+> and he should run to it more often, and desire to commune more than he
+> desires to breathe. For this reason, each person has permission to receive
+> Communion frequently, and, if it is possible, those who are worthy are not
+> prohibited to commune every day.”
+
+> Patriarch Gennadios of Constantinople most wisely depicts how necessary
+> Holy Communion is for the Christian, saying that the Mystery produces in
+> those who partake of it progress in the life according to Christ; that the
+> body of Christ nourishes and refreshes the soul just as bread nourishes
+> the body; and that through this food spiritual gifts are renewed and
+> increased within us.
+
+> He explains that just as bodily food is necessary to sustain bodily life,
+> so Holy Communion is necessary to sustain and renew spiritual life. What
+> was lost through bodily food in Paradise is restored through bodily food
+> in the Eucharist. Thus the food that once concealed poison is answered by
+> the food that now conceals “a treasury of innumerable blessings.”
+
+> “And, though then God prevented us from eating the food, now He gives us
+> the food and urges us towards it. And the evil demon taught us regarding
+> that food, but, concerning this food, not only is the Son of God the
+> Counselor, but He Himself serves it. Moreover, that food was stolen by us,
+> but we are openly called to receive this food. Further, in that food was
+> hidden the poison of transgression, but in this food is hidden a treasury
+> of innumerable blessings.”
+
+</details>
+
+<details>
+<summary><b>Final exhortation</b></summary>
+
+> So, my brothers, since we have demonstrated from these testimonies that
+> frequent Communion is necessary for those Christians (who do not have an
+> impediment), we also, then, have a great need to commune frequently, so
+> that we can have life, which is Jesus Christ, in ourselves, and so that we
+> do not die a spiritual death. For as many as are not frequently nourished
+> by that spiritual food will most surely die. Even if it appears that they
+> are physically alive, they are spiritually dead, because they have
+> distanced themselves from the spiritual and true life brought about by
+> Holy Communion.
+
+> When an infant is first born, it cries and eagerly looks for food and
+> milk. If it does not nurse, it does not have an appetite, and this is a
+> sign that it is sick and is in danger of death. We also must eagerly want
+> to be nursed by the spiritual food of Holy Communion, in order to be given
+> life. Otherwise we are in danger of dying spiritually.
+
+> For this reason, the divine Chrysostom says:
+
+> “Let us not then be negligent, having been deemed worthy of such love and
+> honor (to receive Christ’s body and blood, that is). Do you not see with
+> how much eagerness infants lay hold of the breast? With what earnest
+> desire they fix their lips upon the nipple? With such eagerness and desire
+> let us also approach this Table and the nipple of the spiritual Cup. Or,
+> rather, with much greater eagerness, let us like nursing infants draw out
+> the grace of the Spirit, and let only one thing be our sorrow — not to
+> partake of this Food.”
+
+</details>
+
+---
+
+</details>
 
 # resources
 * [Holy Communion Slides from Orthodoxy 201 Part 1](https://drive.google.com/file/d/1PODIPNNx55kB52B2NiWd20NBqq6xDuTb/view)
 * [Holy Communion Slides from Orthodoxy 201 Part 2](https://drive.google.com/file/d/1mO7UfIZF8KkfE5eNIXeAz8VFwso6KZgV/view)
-https://drive.google.com/file/d/1NIkcp9Un1bSHQfsD2lYKqlGhGKcur35P/view
-https://drive.google.com/file/d/1UIPyw7mE3cZwBhhfvtYUHOkeLqC4dlx9/view
-
+* [Concerning Frequency of Holy Communion - Preface, History](https://drive.google.com/file/d/1NIkcp9Un1bSHQfsD2lYKqlGhGKcur35P/view)
+* [Frequent Communion Ch 1](https://drive.google.com/file/d/1UIPyw7mE3cZwBhhfvtYUHOkeLqC4dlx9/view)
 
 # Citations
 [1]: https://ortodoxakyrkan.com/wp-content/uploads/2020/10/a-commentary-on-the-divine-liturgy-st.-nicholas-cabasilas.pdf "A Commentary on the Divine Liturgy by St. Nicholas Cabasilas"
