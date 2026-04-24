@@ -272,16 +272,34 @@ This is neither the divine essence nor the energy as such. It is the creature’
 [3]: https://www.agape-biblia.org/orthodoxy/Gregory_Palamas_The_Triads_Classics_of_Western_Spirituality.pdf?utm_source=chatgpt.com "Meyendorff_Gregory Palamas Triads"
 
 https://legiochristi.com/static/lit/The_Mystical_Theology_of_the_Eastern_Church.pdf
+
 # reading outline
 
 Meyendorff_Gregory Palamas Triads
 What Are the Divine Energies?
 Synergy in christ according to saint maximus the confessor
 Saint Maximus the Confessor ON EED and apophatic theology ...
-The Doctrine of Grace in the Orthodox Church
+The Doctrine of Grace in the Orthodox Church <----- you are here
 PALAMAS TRANSFORMED. PALAMITE INTERPRETATIONS OF THE DISTINCTION BETWEEN GOD’S ‘ESSENCE’ AND ‘ENERGIES’ IN LATE BYZANTIUM John A. D EMETRACOPOULOS
 The_Mystical_Theology_of_the_Eastern_Church_VladimirLossky
 
 ---
 
 [index](index.md)
+
+
+
+
+
+Meyendorff_Gregory Palamas Triads
+What Are the Divine Energies?
+Synergy in christ according to saint maximus the confessor
+Saint Maximus the Confessor ON EED and apophatic theology ...
+The Doctrine of Grace in the Orthodox Church <----- you are here
+	There were several satements that read as ambiguous or wrong to me (based on my present understanding) regarding our true nature vs our fallen nature and what was and was not assumed by the incarnate Christ. Recommended reading:
+		* Gregory Nazianzen, Letter 101 to Cledonius **do this**
+		* John of Damascus, Exposition of the Orthodox Faith, Book III
+		* Maximus, On the Cosmic Mystery of Jesus Christ: The translators’ introduction, Ambiguum 7, Ambiguum 42, Questions to Thalassius 21, Questions to Thalassius 61, Questions to Thalassius 2 and 6
+
+PALAMAS TRANSFORMED. PALAMITE INTERPRETATIONS OF THE DISTINCTION BETWEEN GOD’S ‘ESSENCE’ AND ‘ENERGIES’ IN LATE BYZANTIUM John A. D EMETRACOPOULOS
+The_Mystical_Theology_of_the_Eastern_Church_VladimirLossky

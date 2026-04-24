@@ -29,11 +29,16 @@ Thomas Nelson. The Orthodox Study Bible: Ancient Christianity Speaks to Today's 
 ---
 
 # Heresies
-1. [Monothelitism](Monothelitism) - Jesus had one will and two natures.
-1. Origenistism - Pre-existant/eternal souls that fell out of love with God and are incarnated
-1. Manicheanism - Believe in a dualist contrast or conflict between opposites
-1. Marcionists?
-1. Oriental Orthodox - rejected 4th council, something to do with the two wills or nature of Christ incarnated?
+1. [Monothelitism](#Monothelitism) - Christ had two natures but only one will.
+1. **Origenism** – Souls pre-existed and fell from communion with God into embodied existence.
+1. **Manichaeism** – A radical dualism in which good and evil are opposing cosmic principles.
+1. **Marcionism** – Rejected the Old Testament God and separated Him from the Father revealed by Christ.
+1. **Anti-Chalcedonianism / Oriental Orthodox Christology** – Rejected Chalcedon’s formula of Christ being one Person in two natures.
+1. **Pelagianism** – Man can attain righteousness by free will without the necessity of divine grace.
+1. **Nestorianism** – Divides Christ so strongly that He becomes effectively two persons rather than one divine Person incarnate.
+1. **Apollinarism** - argues that Jesus had a human body and sensitive soul, but not a human rational mind. ( It was deemed heretical by the First Council of Constantinople in 381)
+
+<details>
 
 ## Monothelitism
 Rejected because it is believed that what is not assumed is not healed. A key patristic principle from Gregory of Nazianzus: “That which He has not assumed, He has not healed.” Assumed in this context means Christ took on the full integrity of human nature—mind, will, soul, and body—as created by God NOT that he has to engage in all or specific acts in order to sanctify them.[2]
@@ -61,6 +66,31 @@ Rejected because it is believed that what is not assumed is not healed. A key pa
 					"is to combat the theory of cycles?"
 
 Saint Maximus Confessor. On The Cosmic Mystery of Jesus Christ (Popular Patristics Series Book 25) (p. 57). Kindle Edition. 
+
+---
+
+<details>
+<summary><h2><a id="Apollinarism">Apollinarism</a></h2></summary>
+
+Apollinarism or Apollinarianism is a Christological position proposed by Apollinaris of Laodicea that argues that Jesus had a human body and sensitive soul, but not a human rational mind, the Divine Logos taking the place of the latter.[1] It was deemed heretical by the First Council of Constantinople in 381 and virtually died out within the following decades.
+
+[Wiki](https://en.wikipedia.org/wiki/Apollinarism)
+
+Common vernacular:
+* Lordly Man
+
+Rebuttals
+
+> For we do not part the human being from the Godhead; no, we affirm and teach one and the same God and Son, at first not man but alone and pre-eternal,5 unmixed with body and all that belongs to the body, but finally human being too, assumed for our salvation, the same passible in flesh, impassible in Godhead, bounded in body, boundless in spirit, earthly and heavenly, visible and known spiritually, finite and infinite: so that by the same, whole man and God, the whole human being fallen under sin might be fashioned anew.
+
+*St Gregory of Nazianzus. On God and Christ: The Five Theological Orations and Two Letters to Cledonius (Popular Patristics Series Book 23) (p. 159). Kindle Edition.*
+
+<details>
+
+
+</details>
+
+---
 
 # Rejected Concepts
 1. [Sola Scriptura](solascriptura.md)
