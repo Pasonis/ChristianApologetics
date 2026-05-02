@@ -1,6 +1,6 @@
 # index
 
-* [Orthodoxy 301](orthodoxy301.md)
+* [Orthodoxy 301](orthodoxy301/orthodoxy301.md)
 
 
 Join Zoom Meeting: https://us06web.zoom.us/j/82729906523pwd=1KapGv2dEQ7nCCvOTp4v4B248FC8Qa.1

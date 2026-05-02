@@ -1,4 +1,4 @@
-# Qeustions week 1
+# Questions week 1
 
 <details>
 
@@ -65,6 +65,19 @@ The reading says, “Only grave sins should keep us away from the Eucharistic Su
 **Question:**
 Are the silent prayers the ones that the priest says softly/quietly in the Divine Liturgy?
 
+**Question:**
+What is the expected preparation before taking Holy Communion?
+
+**Question:**
+> "...and in this way He feeds us and transmits to us the food of the dreadful Table"
+
+What is the `dreadful table`?
+
+**Question:**
+> ...and the rest of the Fathers dwelling in the monasteries, cells and sketes...
+
+What are the `sketes`?
+
 </details>
 
 ## Holy Communion Slides from Orthodoxy 201 Part 1
@@ -102,10 +115,10 @@ a hollow custom. Adults and even children - in language and imagery proper
 to their age - should be taught to value Communion as an extraordinary
 event, an act of faith, and a wondrous gift that is given freely by God and
 
-not something one earns. The basic preparation for Communion is the daily
+not something one earns. **The basic preparation for Communion is the daily
 struggle to bring one's will freely into conformity with the divine will and to
 love in a way that enables us to identify with Christ and with the sufferings of
-the least among us.
+the least among us.**
 Not for adoration but for consumption
 The elevation of the Amnos should not be interpreted as a form of eucharistic
 adoration. The Orthodox Church does not practice eucharistic adoration, at
@@ -147,10 +160,8 @@ devotional practice.
 
 ---
 
-day" (John 6:53-54).
-
-flesh and drinks my blood has eternal life, and I will raise him up at the last
-the invitation to Communion is simultaneously a warning. The "holy things"
+flesh and drinks my blood has eternal life, and I will raise him up at the last day" (John 6:53-54).
+The invitation to Communion is simultaneously a warning. The "holy things"
 are for the "holy ones - tois ayiots." The unworthy are advised to stay away. "Let
 not everyone come to receive," writes Cabasilas in his Commentary (4: 36), "but
 only those who are worthy, for holy things are for the holy only." Or as the plea
@@ -195,35 +206,35 @@ flow into dead and amputated limbs."438
 <details>
 <summary><b>Who Then Can Receive Holy Communion?</b></summary>
 
-Saint Justin the Martyr (ca. 150) gives the following concise response: "T
+Saint Justin the Martyr (ca. 150) gives the following concise response: "The
 food we call eucharist, and no one may share it unless he believes that
 teaching is true, and has been cleansed in the bath of forgiveness for sin a
-of rebirth, and lives as Christ taught."" According to this ancient maxim,
-partake of the Holy Mysteries one must be baptized, espouse the faith of t
-Church, and walk in the newness of life (Rom 6:4). Or, as Cabasilas, puts
+of rebirth, and lives as Christ taught."" According to this ancient maxim, to
+partake of the Holy Mysteries one must be baptized, espouse the faith of the
+Church, and walk in the newness of life (Rom 6:4). Or, as Cabasilas, puts it
 "Christians, if they have not committed [mortal] sins as would cut them
-from Christ and bring death, are in no way prevented, when partaking of t
-Holy Mysteries, from receiving sanctification, not in name alone, but in fa
+from Christ and bring death, are in no way prevented, when partaking of the
+Holy Mysteries, from receiving sanctification, not in name alone, but in fact
 since they continue to be living members united to the Head."440
-Cabasilas' words, in part, are based on 1 John 5:16-17. The Apostle, Evangel
-and Theologian John distinguishes between two kinds of sin, those whi
-do not lead to death and those which do (mortal sins). The former, ev
-when repugnant, are forgiven. The deadly mortal sins, however, are beyor
-forgiveness, not because God is incapable of forgiving them, but because t
-transgressors are in a continual and willful state of denial and disobedienc
-they deliberately reject the truth, love, and grace of God; they blasphem
+Cabasilas' words, in part, are based on 1 John 5:16-17. The Apostle, Evangelist
+and Theologian John distinguishes between two kinds of sin, those which
+do not lead to death and those which do (mortal sins). The former, even
+when repugnant, are forgiven. The deadly mortal sins, however, are beyond
+forgiveness, not because God is incapable of forgiving them, but because the
+transgressors are in a continual and willful state of denial and disobedience
+they deliberately reject the truth, love, and grace of God; they blaspheme
 against the Holy Spirit (Matt. 12:31-33).
 One is Holy, one is Lord, Jesus Christ ...
-The invitation to Communion requires a proper response. Byzantine an
-ecclesial etiquette demands it. In light of our human weaknesses, frailtie
+The invitation to Communion requires a proper response. Byzantine and
+ecclesial etiquette demands it. In light of our human weaknesses, frailties
 and failings there could be only one, simple, direct, and appropriate response
-"One alone is holy." Indeed, as Cabasilas tells it, "No one has holiness of himself
-It is not the consequence of human virtue but comes to all from [God] an
-through him."41 The response includes a Christological formula which affirm
-the divinity of Christ: "One is Holy, one is Lord, Jesus Christ, to the glory of Go
+"One alone is holy." Indeed, as Cabasilas tells it, "No one has holiness of himself.
+It is not the consequence of human virtue but comes to all from [God] and
+through him."41 The response includes a Christological formula which affirms
+the divinity of Christ: "One is Holy, one is Lord, Jesus Christ, to the glory of God
 the Father. Amen."442
-We believe and confess in the Creed that the Church is holy, even though she i
-not yet perfect. The holiness of the Church, however, is not derived from, no
+We believe and confess in the Creed that the Church is holy, even though she is
+not yet perfect. The holiness of the Church, however, is not derived from, nor
 is it dependent upon, the moral and pious life of its members, but from it being
 the mystical Body of Christ. The Church is holy because its Lord is holy. The
 Church is holy because it is the event of truth and the fact of the incarnation of
@@ -963,11 +974,25 @@ sinful and thus worthy of greater punishment and condemnation in the same degree
 * [Frequent Communion Ch 1](https://drive.google.com/file/d/1UIPyw7mE3cZwBhhfvtYUHOkeLqC4dlx9/view)
 
 # Citations
+
 [1]: https://ortodoxakyrkan.com/wp-content/uploads/2020/10/a-commentary-on-the-divine-liturgy-st.-nicholas-cabasilas.pdf "A Commentary on the Divine Liturgy by St. Nicholas Cabasilas"
 [2]: https://www.amazon.com/%CE%99%CE%95%CE%A1%CE%9F%CE%A4%CE%95%CE%9B%CE%95%CE%A3%CE%A4%CE%99%CE%9A%CE%9F%CE%9D-Handbook-Orthodox-Liturgical-Practice/dp/1935317962/ref=sr_1_1?crid=19K2TCH3TH1RK&dib=eyJ2IjoiMSJ9.QiBabnxe4Ieylnl_myZrfWF4LV1JSio2yGjS2a70zmw0Nz3f9NzzOVKFS1UbEn7Pl0aDNcYqrlCZvy5IxAqfwhWp6_JDyy9u1g3Y-SZDfccNs0vkZvKRUFuPGWm5COgUaj_D_wiIzcbS2uLRXiitBw._2g1pxiRednTLM0WH8QHoyLVUFe_VsOoZAsIl7zUsb4&dib_tag=se&keywords=Alkiviadis+C.+Calivas&qid=1776338903&s=digital-text&sprefix=alkiviadis+c.+calivas%2Cdigital-text%2C124&sr=1-1 "Alkiviadis C. Calivas, ΙΕΡΟΤΕΛΕΣΤΙΚΟΝ: A Handbook on Orthodox Liturgical Practice: History, Meanings, Challenges."
 [3]: https://www.newadvent.org/fathers/310104.htm "St. Cyril of Jerusalem, Mystagogical Catecheses, IV web"
 [4]: https://holytrinity-oca.org/wp-content/uploads/2020/05/The-Catechetical-Lectures-of-St-Cyril.pdf "St. Cyril of Jerusalem, Mystagogical Catecheses, IV book"
 
+
+# Follow up
+
+pre communion prayers
+break up the pre communion prayers across the week as there are many - don't try to do them all Sunday morning - same for the post
+post communion prayers
+
+willingly constantly commit and don't seek forgiveness for
+
+ch 2-3 of next week arent for discussion, just background
+
+Man of God and St Thaddeus?
+
 ---
 
-[index](classes.md)
+[index](../orthodoy301.md)

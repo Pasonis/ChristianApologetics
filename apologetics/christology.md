@@ -88,3 +88,7 @@ I would read them in this order:
 [2]: https://www.newadvent.org/fathers/3103a.htm?utm_source=chatgpt.com "CHURCH FATHERS: Letters, Division I (Gregory Nazianzen)"
 [3]: https://www.ccel.org/ccel/schaff/npnf207.iv.ii.iii.html?utm_source=chatgpt.com "NPNF2-07. Cyril of Jerusalem, Gregory Nazianzen"
 [4]: https://www.ccel.org/ccel/s/schaff/npnf209/cache/npnf209.pdf?utm_source=chatgpt.com "NPNF2-09. Hilary of Poitiers, John of Damascus"
+
+---
+
+[index](index.md#accepted-concepts)
