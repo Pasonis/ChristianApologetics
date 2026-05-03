@@ -41,12 +41,27 @@ There is no neutral “self at the center” in Orthodox anthropology.
 
 *CHAPTER 2: Benefits of Frequent Communion pg 112*
 
-
-
 > However, when labors and virtues are done according to the will of God, then are they acceptable to Him and beneficial. The will of God is that we do whatever our Lord commands
 
 *CHAPTER 2: Benefits of Frequent Communion pg 113*
 
+
+> This is exactly how these blessed people argue. But one should not break and cut off the words of the divine Scripture, separating them from their context, and then use them in a twisted manner for his own purpose. For the divine Chrysostom also says, We must not just examine the saying in and of itself, but we must consider everything that follows it; for whom, by whom, and to whom it was said; and why, when, and how it was said.
+
+*OBJECTIONS - CLARIFICATIONS pg 137*
+
+> "There have they feared with fear where no fear is" (Ps. 52:6). For fear should attend transgression of the commandments, but not compliant submission and obedience. And neither is their piety true, but rather fake and hypocritical, because true piety reverences the words and commandments of the Lord and does not violate them.
+
+*OBJECTIONS - CLARIFICATIONS pg 144*
+
+> And I, having examined myself, see that I am not worthy." And so we reply to you: When then will you be worthy? When will you present yourself to Christ? For, if you are always going to be scared away by your mistakes, consider that, being human, you will never cease from making them
+
+*OBJECTIONS - CLARIFICATIONS pg 144 - 145*
+
+
+> This is what is terrible, that you determine the worthiness of your approach, not by the purity of your mind, but by intervals of time.
+
+*OBJECTIONS - CLARIFICATIONS pg 154*
 
 </details>
 
@@ -1728,16 +1743,16 @@ faithful. All is done for the sake of Communion."129
 <details>
 <summary>OBJECTIONS - CLARIFICATIONS pg 135</summary>
 
-Job the Sinner, in the work On the Mysteries, says: "Th
-aim, purpose, and work (of the Divine Liturgy) is to partak
+Job the Sinner, in the work On the Mysteries, says: "The
+aim, purpose, and work (of the Divine Liturgy) is to partake
 of the life-giving, dread, and sanctified Mysteries. Wherefore
 they are first given within the sanctuary to those who ar
 ordained, and then they are given to the prepared faithful
 who are without .* 150
-It necessarily follows, then, that priests who liturgiz
+It necessarily follows, then, that priests who liturgize
 must be the first to be prepared to commune, for they are
-the ones who make the offering. And then the people mus
-be prepared, according to the Hieromartyr Clement: "Le
+the ones who make the offering. And then the people must
+be prepared, according to the Hieromartyr Clement: "Let
 the bishop commune first, then the presbyters, and the
 deacons, and the subdeacons, and the readers, and the
 chanters, and the ascetics, and the deaconesses, and the
@@ -2533,7 +2548,7 @@ has been baptized and reborn through Holy Baptism has
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 155</summary>
+<summary>OBJECTIONS - CLARIFICATIONS pg 156 pt 1</summary>
 
 promised to live an angelic life is obvious. For the Christian,
 just as he is commanded to do, pushes himself to fulfill the
@@ -2555,6 +2570,1357 @@ becomes like a light bird, and flies freely to the heavens,
 living with the angels."157
 
 </details>
+
+
+<details>
+<summary>Overview</summary>
+
+<details>
+<summary>Objection 1: Frequent communion is for priests only</summary>
+
+> Some say priests must commune frequently because they serve the Mysteries, but laypeople are not under the same obligation.
+
+* When it comes to Communion the priests are no different than the laity and receive the same offering and same communion.
+
+* Neither priest nor layperson receives a different Christ or a different Communion. The priest differs in his liturgical office and responsibility to celebrate, but not in the nature of what he receives, nor in the basic Christian need to receive the Mysteries frequently and worthily.
+
+* A priest who turns away a prepared, repentant layperson solely because the person communes frequently is acting against the purpose of the Mysteries and against the patristic argument of the book. But this does not mean a priest may never restrain someone from Communion for genuine pastoral or canonical reasons, such as open grave sin, lack of repentance, or a rule of penance.
+
+</details>
+
+<details>
+<summary>Objection 2: Only commune every 40 days per the church fathers</summary>
+
+Objection 2 claims that Christians should commune only every forty days, citing certain Fathers as proof. The authors reject this conclusion. When the citations are read in context, they do not establish a rule that Communion should occur only every forty days, nor that a forty-day fast is required before each Communion. Rather, the forty-day references are principally about the Church’s appointed Lenten fast and Paschal preparation, not the ordinary frequency of receiving the Mysteries.
+
+No canon establishes a universal forty-day interval for Communion. Therefore, isolated quotations from the Fathers must not be lifted from context and used against the wider canonical and liturgical tradition. To mix true patristic words with a false conclusion is a misuse of truth; the authors compare this kind of distortion to the devil’s way of using Scripture deceptively.
+
+* No canon requires a forty-day interval between Communions.
+
+* No canon requires a forty-day fast before each Communion.
+
+* Patristic quotations must be read in context, especially when they concern Lent rather than Eucharistic frequency.
+
+* The Fathers cannot be used as isolated prooftexts against the Church’s fuller canonical and liturgical tradition.
+
+* To cite true words while drawing a false conclusion is a serious distortion, not faithful appeal to the Fathers.
+
+</details>
+
+<details>
+<summary>Objection 3: Perception of personal unworthiness</summary>
+
+Objection 3 says that Christians should commune infrequently because they are unworthy, citing St. Paul’s warning against eating and drinking unworthily. The authors reject this as a misuse of St. Paul. They do not deny that no one is worthy by himself; rather, they argue that unworthiness should move a Christian to repentance, confession where needed, preparation, and obedience — not to prolonged avoidance of the Mysteries.
+
+Communion is given to the “holy people,” but “holy” does not mean only those who have already attained perfection. As St. Nicholas Cabasilas explains, the holy are also those who are striving toward holiness, even if they have not yet obtained it. Therefore, a baptized and chrismated Orthodox Christian who is repentant, striving, and not under a grave canonical or pastoral impediment should not refuse Communion merely because of a general feeling of personal unworthiness. To do so can turn humility into disobedience, because Christ gives the Mysteries precisely for healing, purification, strengthening, and life.
+
+* No one is worthy of Communion by personal merit.
+
+* We are made able to receive through Christ’s grace, repentance, preparation, and obedience.
+
+* St. Paul’s warning condemns careless, irreverent, hypocritical, or unrepentant reception — not frequent reception itself.
+
+* “Holy people” means those set apart in Christ and striving toward holiness, not only the already perfected.
+
+* A baptized and chrismated Orthodox Christian who is repentant and not under penance should not abstain merely because of a vague feeling of unworthiness.
+
+* Grave sin, open unrepentance, or pastoral/canonical discipline can require abstaining from Communion until repentance and reconciliation.
+
+</details>
+
+<details>
+<summary>Objection 4: Hermits as normative vs exceptions that prove the rule</summary>
+
+Objection 4 says that because some saints attained sanctification with little or no ordinary access to Communion, frequent Communion must not be required. 
+
+The authors answer that this treats exceptional circumstances as though they were the normal rule. Saints who lacked Communion because of deserts, persecution, imprisonment, or isolation were deprived unwillingly; they were not neglecting the Mysteries. In some cases, God supplied their need miraculously, even through angels. But such miracles prove the greatness and necessity of Communion rather than making it optional. Therefore, Christians who have access to the Church and are properly prepared should not imitate exceptional deprivation, but should obey Christ’s command and receive frequently and worthily.
+
+* Christ commands us to partake, and says, “Unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.”
+
+* Extraordinary saints in extraordinary circumstances are not the standard rule for ordinary Christians.
+
+* When saints were unable to receive normally, God sometimes provided extraordinary help, including angelic visitation or miraculous Communion.
+
+* Those miracles prove the value and necessity of Communion, not its dispensability.
+
+* A person who is able to commune but refuses through negligence cannot appeal to saints who were deprived of Communion unwillingly.
+
+* The normal rule remains: those who are baptized, repentant, prepared, and not under penance should approach the Mysteries frequently.
+
+</details>
+
+<details>
+<summary>Objection 5: Sacred communion requires a sacred/perfect life</summary>
+
+Objection 5 says that Holy Communion is so fearful and exalted that only those living a holy, angelic, and nearly perfect life should commune frequently. 
+
+The authors reject this as a misunderstanding of holiness and preparation. Communion is indeed fearful and holy, but it is not reserved only for the already perfect. It is also given for the healing, purification, strengthening, and sanctification of those who repent and strive toward holiness. The authors argue from the Old Testament offerings that both the more perfect and those cleansed through repentance may approach God’s gifts. The issue is not whether someone communes frequently or infrequently, but whether he approaches with repentance, purity of intention, reverence, and proper preparation. The fearful holiness of Communion requires careful preparation, not rare reception as a rule. The prepared and repentant Christian should commune frequently, because Communion is itself the means by which he is healed, purified, and made holy.
+
+* Holy Communion is fearful because it is truly Christ’s Body and Blood.
+
+* That fear should lead to reverence, repentance, confession where needed, fasting/prayer according to the Church, and careful preparation.
+
+* It should not become an excuse for indefinite abstention.
+
+* “Holy” does not mean only already perfected or angelic persons.
+
+* Communion is for those who belong to Christ and are striving toward holiness.
+
+* Both the spiritually advanced and the repentant who have been cleansed may partake.
+
+* Worthy reception is measured by repentance, reverence, faith, and purity of intention — not by receiving rarely.
+
+</details>
+
+</details>
+
+</details>
+
+# Frequent Communion Objections 6 - 13
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 156 pt2</summary>
+OBJECTION 6
+
+Some apply to divine Communion this saying from
+Proverbs: "If thou hast found honey, eat so much as is
+sufficient for thee, lest thou be filled therewith, and vomit
+it" (Pr. 25:16).
+
+---
+
+156 On John 75.5, PG 59, 409; NPNF (V1-14), 276.
+"? Translator's note: This quote is actually from Bishop Severianos of
+Gabala (De Mundi Creatione 4.2, PG 56, 459). See footnote 133 above.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 157</summary>
+
+To these sophistries we are ashamed even to reply. For
+when we speak about honey as food, it is not with reference
+to the divine Mysteries, but to the delights proceeding from
+noetic spiritual vision and perfection, according to Gregory
+of Sinai and other Fathers. But if they take "honey" to mean
+the divine Gifts, then I hear the same writer of the Proverbs
+saying to me: "My son, eat thou honey, because it is good;
+and the honeycomb, which is sweet to thy taste. Thus shalt
+thou perceive wisdom in thy soul. For if thou find it, thine
+end shall be good, and hope shall not fail thee" (Pr. 24:13-14).158
+In any case, they must explain to us what they understand
+by "sufficient," for we have no other way to measure the
+frequency of Communion except by the sacred Canons of
+the Apostles, and the whole Church of Christ. That is, to
+commune either four times a week (and if possible even
+every day), as Basil159 and the divine Chrysostom160 discuss,
+or at least every Saturday and Sunday and the other Feast
+Days, as when the Apostle commands married couples to
+abstain from one another on these days so that they may
+commune in the divine Mysteries, saying: "Defraud ye not
+one the other, except it be with consent for a time, that ye
+
+---
+
+158 Translator's note: And St. Nikodemos interprets Proverbs 9:1-5 as a
+call to frequent Communion and as a clear prophecy of the Christian
+Sacrifice: "Wisdom hath builded her house, she hath hewn out her seven
+pillars. She hath slaughtered her sacrifices; she hath mingled her wine;
+she hath also furnished her table. She hath sent forth her servants, calling
+with a loud proclamation to the feast, saying .... Come, eat of my bread,
+and drink of the wine which I have mingled" (Pr. 9:1-5) (See Heortodromion,
+vol. 2, 130-137, and Pedalion, 5-6; The Rudder, 6).
+15" Cf. Epistola 93, PG 32, 484B; NPNF (V2-08), 179.
+10 Cf. Adversus Judaeos 3.4, PG 48, 867.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 158</summary>
+
+may give yourselves to fasting and prayer" (1 Cor. 7:5).161
+As Timothy of Alexandria states: "They are to abstain
+from coming together on Saturday and Sunday, on account
+of the spiritual sacrifice which is offered to God on those
+
+---
+
+16 Translator's note: Interpreting this passage of St. Paul, St. Nikodemos
+writes:
+The married couple is to especially abstain from marital relations
+when they intend to receive the divine Mysteries. Then, they must
+abstain for at least three days prior to receiving Communion. I say
+this concerning the times outside of the fast periods when they happen
+to commune, because during the days of fasting when they commune,
+they also [in addition to food] abstain from relations on account of
+the fast. (Hermeneia eis tas 14 Epistolas tou Apostolou Paulou |Explanation
+of the Fourteen Epistles of the Apostle Paul], vol. 1 [Thessaloniki: Orthodoxos
+Kypsele, 1989], 461)
+Also see St. Nikodemos' commentary on Canon 13 of the Sixth Ecumenical
+Council (Pedalion, 230; The Rudder, 306-307). And St. Symeon of Thessaloniki
+writes:
+The fourteenth and fifteenth question ask similar things: whether
+an ordained man should know his wife the day he celebrates the
+Liturgy, and if he should know her after celebrating the Liturgy.
+Such things, my brother, are works of negligence and of bad judgment,
+for Paul says: "He who is engaged in ascetic struggle exercises self-
+control in all things" (1 Cor. 9:25). If they who were deemed worthy
+to see Mt. Sinai smoking and to hear the sound of the trumpet were
+given a command not to come near a women for three days (cf. Ex.
+19:15), and if the priest Ahimelech asked David if he had been with
+a woman the previous night when David asked to eat the bread of
+the Presence, and only when David confessed that he had not [been
+with a woman for three days] did Ahimelech dare give him that bread
+to eat, which was a type [of the Heavenly Bread] (cf. 1 Kg. [1 Sam.]
+21:1-6), who, then, would dare be so bold as to approach the Altar
+after coming together with his wife? Especially if even on the night
+before the Sacrifice when, if one happens to have a nocturnal fantasy,
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 159</summary>
+
+days."1"That is, on these days the Divine Liturgy is celebrated
+so that they may receive Communion.
+And, concerning Feasts, the divine Gregory Palamas of
+Thessaloniki says:
+One day of the week ... is called the Lord's day (Sunday),
+because it is consecrated to the Lord, Who on that day
+arose from the dead, disclosing and giving prior assurance
+of the general resurrection, when every earthly activity
+will come to an end. And you must not engage in any
+worldly activity that is not essential; and you must allow
+those who are under your authority and those who live
+with you to rest, so that together you may all glorify Him
+Who redeemed us through His death and Who arose
+from the dead and resurrected our human nature with
+Himself. You should bring to mind the age to come and
+meditate upon all the commandments and statutes of
+the Lord, and you should examine yourself to see whether
+you have transgressed or overlooked any of them, and
+
+---
+
+one must be reverent and draw back, as we have been taught ?...
+Therefore, let those who are in sacred orders keep themselves pure
+prior to liturgizing, and also the day of the Liturgy, for they are
+sanctified by Communion, and God must not have communion with
+the flesh .... If someone must exercise self-control in order to see the
+glory of God and in order to pray, how much more necessary is it,
+then, that one exercise self-control when he intends on liturgizing
+and partaking of the most-dread Mysteries? (Responsa ad Gabrielem
+Pentapolitanum, Questions 14 and 15, PG 155, 864D-868A
+" Canon 13 (Pedalion, 672; The Rudder, 897). [Translator's note: St.
+Nikodemos actually references here, by mistake, Canon 4 of Dionysios
+of Alexandria. Note, however, that Canon 3 of Dionysios of Alexandria
+(Pedalion, 549; The Rudder, 720) addresses the same subject, as does
+Canon 5 of Timothy of Alexandria (Pedalion, 668; The Rudder, 892).]
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 160</summary>
+
+you should correct yourself in all ways. On this day you
+should go to the temple of God and attend the services
+held there, and with sincere faith and a clean conscience
+you should receive the holy body and blood of Christ.
+You should make a beginning of a more perfect life and
+renew and prepare yourself for the reception of the
+eternal blessings to come .... In this way you will sanctify
+the sabbath, observing it by doing no evil deeds. To the
+Lord's day you should join the days dedicated to the
+great feasts, doing the same things and abstaining from
+the same things.163
+
+OBJECTION 7
+
+Some, on account of their fearlessness toward God, call
+frequent Communion a heresy. They say that, just as those
+who are baptized outside of the tradition of the Church
+are heretics, likewise are those people who commune
+frequently heretics.
+
+We are bewildered by such audacious words and, in
+truth, do not know what to say. We say only this: that,
+according to such an opinion, it follows that all of the Saints
+are heretics, and not only those who encouraged the faithful
+to receive divine Communion, but also those who accepted
+their words. And so are all of the priests who daily celebrate
+
+---
+
+13 A New Testament Decalogue 4, GrPhilokalia, 951-952; trans. The Philokalia,
+vol. 4, 326.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 161</summary>
+
+and partake of Communion (what blasphemy they say!),
+and indeed St. Apollo, who was greatly renowned for his
+holiness and had five thousand disciples in his care. The
+divine Jerome, who sought him out, writes concerning him:
+After we had prayed, washed our feet, and stood at table,
+they treated us spiritually and bodily, that is, we partook
+of the divine Mysteries with them, as they do every day.
+Then, after the meal, while we rested, they went out
+into the desert to pray on their knees until the morrow,
+until the time for service came. And after the ninth hour
+and vespers, they communed. After Communion, some
+sat and ate, while the more fervent went to practice
+stillness, living only by the strength of divine Communion.
+He of blessed memory told us many things profitable to
+the soul, primarily that we should commune in the divine
+Mysteries daily, and that we should receive strangers as
+if they were angels of God, as did Abraham, Lot, and
+others, for "upon these two commandments hang the
+whole Law and the Prophets" (Mt. 22:40).
+Since, then, all the members of the choir of the divine
+Fathers are confessed as Saints and genuine servants of
+Christ, it follows that those who speak in opposition to them
+are also opposed to the Apostles, the Ecumenical and Local
+Holy Councils, and the Saints. And they are not only opposed
+to these, but also to the Lord Himself, Who says: "Whoso
+eateth My flesh, and drinketh My blood, hath eternal life"
+(Jn. 6:54). And again: "This do in remembrance of Me"
+(Lk. 22:19), that is, every day and always, according to the
+interpretation of the divine Chrysostom, as we said previously.
+St. Timothy of Alexandria even allows demoniacs to
+receive Communion every Sunday, if they do not blaspheme
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 162</summary>
+
+the divine Gifts: "If one of the faithful is possessed by a
+demon, but does not deny the Mystery or blaspheme it in
+any way, let him receive Communion. Not, however, every
+day, for it is sufficient for him to receive only on Sunday."164
+So, the divine Fathers allow not only those who are
+healthy, but also those who are demoniacs, to partake
+frequently of the divine Mysteries, while those blessed people
+who object to what we have said do not even allow those
+who are of a sound mind to commune, but rather seek to
+appear more lawful than the law.
+
+OBJECTION 8
+
+Some object saying: "Being human beings, are Christians
+not disturbed by gluttony, vainglory, laughter, idle talk,
+and other like passions? How, then, can they frequently
+commune?"
+
+St. Anastasios of Antioch responds to these people saying:
+There are many people who, on account of their
+infrequent Communion, fall into sins. There are others
+who commune more frequently, and therefore greatly
+protect themselves from many evils, fearing the judgment
+of Holy Communion. Therefore, if we fall into some
+small, pardonable sins on account of our being human,
+either with our tongue, or our ears, or our eyes, and we
+fall as victims of deceit into vainglory, or sorrow, or anger,
+
+---
+
+161 Canon 3 (Pedalion, 667; The Rudder, 891).
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 163</summary>
+
+or some other like sin, let us condemn ourselves and
+confess to God. Thus let us partake of the Holy Mysteries,
+believing that the reception of the divine Mysteries is
+unto the remission of sins and purification. But if we
+also commit grave sins which are evil, carnal and impure,
+and we have rancor towards our brother, until we worthily
+repent of these sins, let us not boldly approach the divine
+Mysteries.
+But because we are human beings, bearing flesh and
+weaknesses, and pollute ourselves with many sins, God
+has given us various sacrifices unto the remission of our
+sins. If we offer these sacrifices to Him, they purify us
+in order that we may approach the Mysteries. Merciful
+almsgiving is a sacrifice which cleanses man from sins.
+There is also another sacrifice which is unto salvation
+and the remission of sins, concerning which the Prophet
+David says, "A sacrifice unto God is a broken spirit; a
+heart that is broken and humbled God will not despise"
+(Ps. 50:17).
+If we offer these sacrifices to God, and if we have some
+faults on account of being human, we will be able to
+approach Holy Communion with fear, trembling, and
+compunction, just as the woman with the issue of blood
+drew near to Christ, weeping and trembling.165 There is
+sin which is unto death, there is sin which calls for the
+repentance we have described, and there is sin which
+requires bandaging [with a penance]. However, true
+repentance is able to heal all things. The person who
+approaches to partake of the Mysteries with fear, trembling,
+
+---
+
+165 Cf. Mk. 5:25-34; Lk. 8:43-48.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 164</summary>
+
+confession, and compunction receives forgiveness, while
+the person who communes without fear and with disdain
+receives punishment. Those who receive Communion
+disdainfully and unworthily not only do not receive
+forgiveness for their sins, but also are leapt at even more
+by the devil. But when Christians receive Communion
+with fear, not only are they sanctified, and do they receive
+forgiveness for their sins, but also is the devil driven far
+away from them.166
+Even with all of these indisputable testimonies of the
+holy teachers of the Church, some still do not cease to
+dissent, but continue to raise objections.
+
+---
+
+1 Cf. Quaestiones 7, PG 89, 385C-389D. [Translator's note: Commenting
+on the words of the Divine Liturgy: "The Holy Things for the holy," St.
+Nicholas Cabasilas also says:
+Those whom the priest calls holy are not only those who have attained
+perfection, but those also who are striving for it without having yet
+obtained it. Nothing prevents them from being sanctified by partaking
+of the Holy Mysteries, and from this point of view being saints ....
+The faithful are called saints because of the Holy Thing of which
+they partake, because of Him Whose body and blood they receive.
+Members of His body, flesh of His flesh and bone of His bone, as
+long as we remain united to Him and preserve our connection with
+Him, we live by holiness, drawing to ourselves, through the Holy
+Mysteries, the sanctity which comes from that Head and that Heart.
+But if we should cut ourselves off, if we should separate ourselves
+from the unity of this most holy body, we partake of the Holy Mysteries
+in vain, for life cannot flow into dead and amputated limbs. And
+what can cut off the members from this holy body? "It is your sins
+which have separated Me from you" (Is. 59:2), says God. Does all sin
+then bring death to man? No indeed, but mortal sin only; that is why
+it is called mortal. For according to St. John there are sins which are
+not mortal (cf. 1 Jn. 5:16-17). That is why Christians, if they have
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 165</summary>
+
+OBJECTION 9
+
+"At that time, the majority of Christians received
+Communion, while the minority did not. It is for this
+reason that the divine Fathers placed the minority under
+the rule of a Canon, so that the majority might not be
+scandalized. Today, however, since the majority of Christians
+do not receive Communion, barring a few, neither should
+these few commune, so that there may not be disorder in
+the Church and so that the majority may not be scandalized."
+
+The people who say these things should, before contending
+that they are so, first know what exactly scandal and disorder
+mean. Scandal is that which distances a man from God and
+brings him near to the devil, according to Basil the Great:
+"Committing sin alienates us from the Lord and associates
+us with the devil."167 And again he says: "Everything opposed
+to the will of the Lord is a scandal."168 To say it more clearly,
+a scandal is any stumbling block placed in the road in order
+to trip up the person walking on it. The Prophet asks God
+to deliver him from these: "Keep me, O Lord, from the
+hand of the sinner; rescue me from unjust men who have
+devised to undermine my steps. The proud (or the demons)
+
+---
+
+not committed such sins as would cut them off from Christ and bring
+death, are in no way prevented, when partaking of the Holy Mysteries,
+from receiving sanctification, not in name alone, but in fact, since
+they continue to be living members united to the Head. (Sacrae
+Liturgiae Interpretatio 36, PG 150, 448D-449B; trans. A Commentary on
+the Divine Liturgy, 88-89)]
+1? Moralia 22.1, PG 31, 741B; Saint Basil: Ascetical Works, 103.
+1 Ibid., 33.2, PG 31, 752A; Saint Basil: Ascetical Works, 111.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 166</summary>
+
+have hid a snare for me, and with cords have they spread
+a snare for my feet; stumbling blocks (scandals) near the
+paths have they set for me" (Ps. 139:4-5).
+Seeing as the minority in this same way scandalized the
+majority at that time, drawing them into negligence and
+transgression of the commandment of God, and now the
+majority scandalizes the minority, thus pulling them into
+violation of the commandment, what should be done? Just
+as at that time the minority cut off their own wills and
+followed the majority in doing the will of God, so now the
+majority must cut off their wills and follow the minority in
+doing the will of God. The opposite should not happen;
+namely, the minority should not forsake the command of
+God just because they are few, and follow the majority into
+transgression of the commandment. For if this is how matters
+ought to proceed, the Prophet Elias, the Apostles, and so
+many other Fathers-as many, that is, as struggled on behalf
+of the truth-should have hid the truth and followed the
+majority, for they were in the minority. For this reason Basil
+the Great says: "Regarding the things which are according
+to the will of the Lord, even though some may be scandalized,
+one must demonstrate courageous boldness."169
+But if some say that they are unable to see others
+communing frequently without being scandalized, let them
+understand for themselves that this is the result of either
+envy or hatred of their brother.
+So, we cannot disdain the commandments of God in
+order that men not be scandalized, as Chrysostom says:
+Only up to this point should we think about not scandalizing
+
+---
+
+16 Ibid., 33.5, PG 31, 753B; Saint Basil: Ascetical Works, 113 ..
+
+</details>
+
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 167</summary>
+
+men: that we do not give and afford them a handle against
+us. But if, though we give no such opportunity to them,
+they choose to criticize us thoughtlessly and without
+discrimination, let us laugh and weep because of their
+foolishness. Try to do "good things in the sight of the
+Lord and in the sight of men" (2 Cor. 8:21). If, though
+you do good things, he still derides, have no more concern
+over it .... And Christ spoke thus about those who are
+scandalized: "Let them alone: they be blind leaders of
+the blind" (Mt. 15:14) .... For if the scandal is caused by
+us, then woe unto us; but, if it is not caused by us, it is
+not so. And again: Woe unto you through whom "the
+name of God is blasphemed" (Rom. 2:24). What then?
+If I do something that is good, but another blasphemes,
+that is nothing to me, but (a sin) only to him. For through
+him was God blasphemed .... When that which is pleasing
+to God is hindered by another's being scandalized, we
+should be concerned about this: that we not be forced
+because of him to offend God.
+Tell me, if, while we are discoursing and putting
+drunkards to shame, someone is scandalized, should I
+stop speaking ?... It is always good to know the right
+mean. Many reviled because a certain beautiful virgin
+remained as she was (and did not marry, but became a
+nun), and they criticized those who catechized her (the
+priests who made her a nun). What then? Was it their
+duty to desist for that (and not tonsure her a nun)? By
+no means. For, on the contrary, they were doing nothing
+wrong, but rather, a very virtuous deed pleasing to God ....
+On all occasions it behooves us to follow the laws of God,
+to take great pains that we give no occasion for scandal,
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 168</summary>
+
+so that we may be innocent and be deemed worthy of
+enjoying God's philanthropy.170
+So much concerning scandal. Concerning disorder, this
+is when something occurs out of order. Since, as we said
+earlier, it is the order and law of the Church for those
+Christians who are present at the Divine Liturgy to receive
+Communion (that is, as many as are not prohibited because
+they are under a rule), it follows then that as many as do
+not receive Communion are clearly causing disorder,
+transgressing the laws of the Church. On this account the
+Prophet Habakkuk says: "The sun was exalted, and the
+moon stood still in her course (order)" (Hab. 3:11). That is
+to say, the Sun of Righteousness,171 Christ our God, was
+raised onto the Cross; and the moon, that is, the Church,
+stayed in her course and in order; which means that the
+Church held fast to the will and command of God, from
+which she had fallen.172 Therefore, those who do what is
+outside of the commandment of God are the ones who cause
+scandals and disorder, and not those who struggle as much
+as they can to keep the Master's commandments.
+
+---
+
+17º On Acts 46.3, PG 60, 324-325; NPNF (V1-11), 281-282.
+"" Mal. 4:2.
+"72 Translator's note: For a more detailed commentary on this passage
+of the Fourth Ode (Hab. 3:2-19), see St. Nikodemos' work, Kepos Chariton
+[Garden of Graces], which interprets the Nine Odes ([Thessaloniki:
+Regopoulos, 1992], 112-114).
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 169</summary>
+
+OBJECTION 10
+
+Still others bring up the Tome of Union and say that
+there is a Canon written in the Horologion17 which designates
+that Christians should receive Communion three times a
+year.
+
+Regarding this Canon these blessed people bring forth,
+even though it is a fabrication and false addition - or even
+if it be correct- I ask them, please, to tell me: is it just and
+right that this Canon should have more authority than the
+so great a number of trumpets of the Holy Spirit that have
+been cited thus far? The imperial laws write that any law
+written by an emperor that is found to be contrary to the
+sacred Canons and divine Fathers is rendered void. The
+divine Chrysostom says that a custom or habit contrary to
+the divine laws is to be terminated. Again he says: "Habit
+is a difficult thing, and it is hard to break and hard to avoid ....
+Therefore, the more you understand the power of a habit,
+the more should you endeavor to be rid of a bad habit and
+change yourself over to a good one."174
+How, then, do they seek to support their soul-destroying
+habit? Since they seek to hide the truth with this Canon,
+we will briefly show its true meaning, so that the truth may
+be clearly revealed and no one deceived any longer.
+The Canon came about for the following reason: Leo
+the Wise, because he married for a fourth time, was
+
+---
+
+17s Translator's note: The Horologion or Book of the Hours is the service
+book of the Orthodox Church used in the daily cycle of services.
+13 Ad Illuminandos Catecheses 1.5, PG 49, 230; St. John Chrysostom: Baptismal
+Instructions (New York: Paulist Press, ACW, 1963), 145.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 170</summary>
+
+excommunicated by the then-Patriarch Nicholas. The
+emperor deposed Nicholas from the throne because the
+patriarch did not want to allow him a fourth marriage, and
+put on the throne in his stead Euthymios, who then loosed
+the Emperor from his excommunication. Owing to these
+events, the hierarchs and the people were divided into two
+factions, some siding with Patriarch Nicholas, and others
+with Euthymios.
+After Emperor Leo died, his brother Alexander reigned
+in his stead, and he deposed Euthymios from the patriarchal
+throne and restored it to Nicholas. When Alexander too
+died, his nephew, Constantine Porphyrogennetos, the son
+of Leo the Wise, reigned. His father-in-law, Romanos, had
+the title of Basilopator (father of the emperor). Constantine
+and Romanos convened a Council in the year 922 A.D. This
+Council not only prohibited fourth marriages, but also drew
+up the following Canon against third marriages, which says:
+Regarding anyone who is forty years old, and is not
+ashamed of his age or does not heed the modest life
+required of Christians, but is provoked to marry for a
+third time only because of the desires of the flesh, we
+decree that he is not to partake of Holy Communion for
+five years. This is to be observed in all strictness, and no
+one has permission to lessen the years of excommunication.
+After the five years have passed and he is deemed worthy
+to commune, he is not allowed to approach Communion
+at any other time except during the saving Resurrection
+of Christ our God, purifying himself beforehand as much
+as possible by the fast of Holy Lent. But whoever is thirty
+years old and has children from his previous marriage,
+and then wishes to take a third wife, is not allowed to
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 171</summary>
+
+partake of Holy Communion for four years. After the
+four years pass and he is permitted to partake of the
+Mysteries, he is allowed to receive only three times a
+year: during the Feasts of the saving Resurrection of
+Christ our God, the Dormition of our immaculate Lady
+the Theotokos, and the Birth of Christ, for there is a fast
+preceding each of these Feasts, and from fasting one
+receives benefit and cleansing.175
+This Act of the Council was named the Tome of Union
+because it united the hierarchs and the rest of the people
+who had been divided on account of the fourth marriage
+of Leo.
+I do not know what blessed person, either on account
+of illiteracy or out of desire to block Christians from eternal
+life, maimed this Canon and placed it in its mutilated
+condition into the Horologion. And then, our blessed Spiritual
+Fathers, finding it, spread it throughout the world, placing
+the penance of a third marriage upon all Christians, whether
+married for a second time, or just once, or virgin, and upon
+those of all ages.
+I am not amazed so much by the Spiritual Fathers, but
+by the good hierarchs and shepherds who did not immediately
+sound the horn with the God-inspired trumpets of truth,
+in order to castigate the evil sower of that weed and uproot
+from the Church that dead plant. For they have the authority
+by the grace of the Holy Spirit to sustain that which is good
+and to correct whatever is in need of correction.
+Perhaps the hierarchs make the excuse that, since they
+are under the yoke of the Ottomans and caught up in many
+
+---
+
+17F In the Acts of the Council, vol. 2, 975.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 172</summary>
+
+concerns, they entrust these things to the teachers and
+preachers. These blessed hierarchs, one not wanting to lose
+his quietude, and another making other excuses-all of
+them together abdicate their responsibility and throw the
+burden one upon the other. So they bury the word of God
+and the truth as if in a tomb. And by their silence they show
+that they acquiesce to all the things which are happening,
+as the divine Meletios the Confessor says:
+
+> "He who possesses knowledge of the truth,
+> And, in whatever way, deliberately hides it,
+> Not openly preaching it or speaking it with boldness,
+> And does not uphold the divine and august Canons,
+> Or the laws presided over by the Fathers,
+> Is justly punished no less than the transgressors of these.
+> He who is silent about the truth hides Christ in a tomb,
+> As one Father has said, and another, again, says.
+> He who is silent about the faith is in grave danger
+> Of eternal punishment and of the pit of perdition.
+> It is not just, lawful, or right for the faithful to be silent
+> When the laws of God are being violated,
+> And the evil seek to support their deception.
+> When someone is in danger of being separated from God,
+> Said one of the great Fathers,
+> And when evils are attributed to God,
+> What faithful Christian can be silent? Who can be at peace?
+> For silence means consent and betrayal,
+> As was clearly shown by the Lord's Forerunner
+> And the brave Maccabees together with him,
+> Who, on account of the smallest commandment, were in danger
+> unto death,
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 173</summary>
+
+> And did not even betray the smallest part of the Law.
+> War is many times known to be praiseworthy,
+> And battle appears better than soul-destroying peace.
+> For it is better to stand against those who do not believe correctly,
+> Than it is to follow them and be of one mind with them,
+> Thus being united with them and separated from God."176
+
+And the divine Chrysostom says, "If it is not good for a
+man to be silent when he is wronged, how will one who
+remains silent and indifferent when the divine laws are
+insulted not be worthy of punishment?"177
+
+OBJECTION 11
+
+Many object and say that for someone to receive
+Communion is not a dogma of the faith, which must be
+kept obligatorily.
+
+Even if frequent Communion is not a dogma of the faith,
+it is nevertheless found to be a commandment of the Master
+included in His other sayings, especially when He says:
+"This do in remembrance of Me" (Lk. 22:19). That is, "Do
+this frequently and every day, as long as the present age
+lasts." And for this reason, being that it is a commandment
+of the Master, it must necessarily be kept as we said previously,
+in the first part of this book.
+As many as raise this objection show by this that they
+
+---
+
+17 Alphabetalphabetos, Hypothesis 10 (Thessaloniki: 1923).
+17 De Sancta Babyla, Contra Julianum et Gentiles 9, PG 50, 547.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 174</summary>
+
+want to strip the dogmas, leaving them bereft of every
+ecclesiastical formulation and legislation. We, however, ask
+them, how then can dogmas be supported? Did not the
+divine Chrysostom previously tell us that our Christian
+manner of life requires correct dogmas, and that dogmas
+require a pure life? And that a pure manner of life is born
+of and attained through the divine commandments, the
+sacred laws of the Church, and the venerable traditions and
+formulations of the divine Fathers? If, then, we violate the
+divine Canons, the Master's commandments, and the rest,
+our pure manner of life will be destroyed. When a pure
+manner of life is destroyed, we also lose correct dogmas,
+and will be left barren and without light.
+There is not sufficient time to enumerate the thousands
+of Saints who suffered and died for the ecclesiastical laws
+and Canons. There are, on the other hand, some who are
+so audacious that they not only do not suffer for the truth,
+but also actually oppose the truth. And they boldly refute
+the Master's commands by prohibiting from divine Communion
+those who approach, for no reason at all and without them
+having committed any offense. This is something very bold,
+for not even did our Lord turn away Judas from Communion,
+though He knew that he was an abominable vessel of
+wickedness. Christ daily receives all who would partake of
+Communion. The worthy He purifies, illumines, and
+sanctifies. The unworthy He first turns over to their convicting
+conscience, and then, if they amend their ways, receives
+them with compassion. If they remain uncorrected, He
+gives them over to various illnesses, as the Apostle says, for
+since many in his time were receiving Communion unworthily,
+they were becoming ill on this account, and many were
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 175</summary>
+
+dying.178
+Those blessed people who raise this objection prohibit
+the Orthodox from divine Communion without even knowing
+the spiritual condition of the communicants, and only to
+sustain their bad habit and evil custom, which has prevailed
+unto the detriment of their souls.
+But let us ask Basil the Great to speak to us the truth:
+Question 11: Whether it is right or safe to refuse to obey
+any of the commands of God, or to impede the one who
+has been commanded to do them, or to be tolerant of
+those who are doing the impeding, especially if the person
+impeding is genuine and close to God, or if some seemingly
+plausible reason impede the accomplishment of the
+command.
+Reply: Considering the Lord's words: "Learn of Me,
+for I am meek and lowly in heart" (Mt. 11:29), it is clear
+that we are more solidly instructed in all things when
+we recall the words of our Lord Jesus Christ Himself,
+the Only-begotten Son of the living God. Therefore:
+When John the Baptist said to Him, "I have need to be
+baptized of Thee, and comest Thou to me?" (Mt. 3:14),
+He replied, "Suffer it to be so now, for so it becometh
+us to fulfill all righteousness" (Mt. 3:15). Again, in the
+presence of the disciples, when Peter decried the sufferings
+which the Lord prophesied He must undergo in Jerusalem,
+He said with great displeasure, "Get thee behind Me,
+Satan, thou art a scandal unto Me; for thou savourest
+not the things that be of God, but those that be of men"
+(Mt. 16:23). On another occasion, when Peter, moved
+
+---
+
+178 Cf. 1 Cor. 11:30.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 176</summary>
+
+by reverence toward his Master, refused His ministration,
+the Lord again said, "If I wash thee not, thou hast no
+part with Me" (Jn. 13:8).
+And if the soul requires further assistance from examples
+taken from persons like ourselves, let us recall the words
+of the Apostle: "What mean ye to weep and to break
+mine heart? For I am ready not to be bound only, but
+also to die at Jerusalem for the Name of the Lord Jesus"
+(Acts 21:13). Who could be more admirable than John?
+Or more sincere than Peter? Or what motives could have
+been more reverential than those which they alleged? I
+know, furthermore, that neither Moses, that holy man,
+nor the Prophet Jonah remained blameless before God
+when they entertained thoughts that were contrary to
+obedience. By these examples we are taught neither to
+contradict, nor to impede, nor to tolerate those who
+impede others.
+And if the word of the Scripture teaches beyond a
+doubt that we dare not perform these particular actions
+or others like them, how much greater is our obligation
+to imitate the Saints with regard to the rest when they
+say, "We ought to obey God rather than men" (Acts 5:29)
+and, "Whether it be right in the sight of God to hearken
+unto you more than unto God, judge ye. For we cannot
+but speak the things which we have seen and heard"
+(Acts 4:19-20).179
+And again Basil says,
+No one must impede the person who is doing the will
+
+---
+
+" De Baptismo 2, Question 11, PG 31, 1621B-1624A; Saint Basil: Ascetical
+Works, 425-426.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 177</summary>
+
+of God, whether he does it because of a commandment
+of God, or for some other reason related to a commandment;
+nor ought the doer of the will of God to permit any to
+hinder him, even though they be genuine friends of God,
+but he should remain steadfast in his decision ..... The
+person who does a commandment of God without sincerity,
+and yet maintains in appearance the exactness of the
+Lord's teaching, should not be impeded, because no one
+is harmed insofar as the act itself is concerned, and
+sometimes certain people may be benefited by it; yet
+such a person should be exhorted to have a disposition
+worthy of his good action.180
+And: "We should not follow human traditions to the
+extent of violating the commandment of God .... No one
+may prefer his own will to the will of the Lord, but in
+everything we must seek and do the will of God."181
+The divine Chrysostom says:
+We must bravely stand against whatever prevents us
+from that good desire. Listen to what Christ says: "He
+that loveth father or mother more than Me is not worthy
+of Me" (Mt. 10:37). For whenever we do something that
+is according to the will of God, we must consider whatever
+prevents us as our enemy and opponent, whether father,
+or mother, or anyone else.182
+Ignatios the Godbearer says: "Every one that teaches
+anything besides what is commanded, even if he is credible,
+
+---
+
+" Moralia 19.1 and 2 PG 31, 733A and 736A; Saint Basil: Ascetical Works,
+97,99.
+"Ibid., 12.2 and 4, PG 31, 724A and 724D; Saint Basil: Ascetical Works,
+89, 90.
+18: De Virginitale 78.5, SC 125, 374.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 178</summary>
+
+even if he fasts, even if he lives celibately, even if he works
+miracles, even if he prophesies, let him be in your sight as
+a wolf in sheep's clothing, laboring for the destruction of
+the sheep."183
+And the divine Meletios the Confessor says:
+"Do not listen to monks or to presbyters,
+When they wrongly counsel you and lead you astray.
+What-only monks? And only presbyters?
+Do not even listen to bishops when they advise you
+To do and to say and to believe that which harms the soul."
+
+OBJECTION 12
+
+Some are scandalized because what they say, especially
+concerning the prohibition from frequent Communion,
+does not convince us, and they hold up the following things
+in their defense: First, that the Canons and commandments
+are under the authority of the hierarchs. Second, that we
+are not to examine what hierarchs, teachers, and Spiritual
+Fathers tell us, but only to obey simply everything they
+say. And third, they put forth the Apostolic saying: "Obey
+them that have the rule over you, and submit yourselves"
+(Heb. 13:17).
+
+To this three-part objection we personally have nothing
+to say, so that we may not cause some of the people to be
+upset and disturbed. To say nothing to these things, however,
+
+---
+
+13 To Heron the Deacon of Antioch 2, PG 5, 912A-912B; ANF (01), 113.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 179</summary>
+
+we think would be harmful to the soul. Wherefore, let us
+see what the Saints say, so that no one can complain.
+Basil the Great responds to the first part of the objection
+saying:
+For if the Lord Himself, in Whom the Father was well
+pleased, "in Whom are hid all the treasures of wisdom
+and knowledge" (Col. 2:3), Who having received all
+authority and all judgment from the Father says, "He
+gave Me a commandment, what I should say, and what
+I should speak" (Jn. 12:49); and again, "Whatsoever I
+speak therefore, even as the Father said unto Me, so I
+speak" (Jn. 12:50); and the Holy Spirit speaks not from
+Himself, but whatever things He hears from Him, those
+He speaks184-how much more is it both pious and safe
+for us to think and do this (that is, not to transgress the
+divine commandments, but to be willingly obedient to
+them)?185
+The divine Chrysostom shows from the very ordination
+of hierarchs that the hierarchs are subject to the divine
+Canons and commandments, saying:
+Since the high priest (of the Old Law) was the head of
+the people, he himself (being the head) was also to be
+under an authority, for an authority not subject to a
+higher authority is unbearable; so, by his having the sign
+of authority over his head, it was indicated that he was
+under a law. It is ordered (by the Law) that the head be
+not bare, but covered, in order to teach the head of the
+people that he too has a head (an authority) over him.
+
+---
+
+1 Cf. Jn. 16:13.
+1 De Fide PG 31, 677A-677B; Saint Basil: Ascetical Works, 57-58.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 180</summary>
+
+This is why during the ordination of a priest in the
+Church the Gospel of Christ is placed upon his head, so
+that he may learn that he is receiving the true tiara
+(authority) of the Gospel. (Here the word "priest" takes
+the place of "hierarch," being used according to the
+general sense of the priesthood, for, to quote Dionysios
+the Areopagite, only hierarchs wear "the words handed
+down by God" upon their heads.)18 It is also so that he
+may learn that, even though he is head of all, he is
+nevertheless under the laws (of the Gospel); and that,
+while he has authority over all the other laws, he himself
+is under the authority of the laws; and also that, while
+he enacts all other laws, he himself is governed by the
+law. For this reason, one of the brave ancients (the
+Hieromartyr Ignatios), who was illustrious in the priesthood
+and in martyrdom, wrote to a certain priest (that is, a
+hierarch, Polycarp) saying: "Let nothing be done without
+your consent; neither should you do anything without
+the approval of God."187 So, the fact that the hierarch
+has the Gospel on his head is a sign that he is under its
+authority.158
+Regarding the second part of the objection, that we
+should not examine what hierarchs, teachers, and Spiritual
+Fathers tell us, but be obedient in all things, Basil the Great
+responds to it saying:
+He who is in charge of preaching the word (that is,
+
+---
+
+186 Cf. De Ecclesiastica Hierarchia 5.2 and 5.3.1 and 7, PG 3, 509B, 509C
+and 513C; Pseudo-Dionysius: The Complete Works, 239-240, 242 ..
+"7 To Polycarp 4, SC 10, 174; ANF (01), 94.
+18* De Legislatore 4, PG 56, 464.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 181</summary>
+
+whether he is a teacher or a hierarch) must do and say
+everything with great deliberation and judgment, aiming
+at pleasing God, inasmuch as he must be tested and
+borne witness to by the very people who are entrusted
+to him.189
+Again he says: "The hearers that have been instructed
+in the Scriptures should test what their teachers say. Those
+things that are in agreement with the Scriptures they should
+accept, but should reject that which disagrees; and they
+should reject even more those who persist in such teachings."190
+Next he says: "Those who have little knowledge of the
+Scriptures should be able to recognize those who are holy
+and Saints by the fruits of the Spirit they exhibit. And they
+should receive the people who display these as Saints, but
+reject those that do not.""9 Elsewhere he writes: "One must
+not be easily carried away by those who feign the truth,
+without examining them, but one must investigate each
+man with the help of the test given by Scripture."192 And
+once more: "Every word or thing should be confirmed by
+the testimony of the divinely inspired Scripture, so those
+who are good may be assured, and so that those who are
+bad may be ashamed."195
+The divine Chrysostom responds to the third part of the
+objection, saying:
+Anarchy is an evil, and the occasion of many calamities,
+
+---
+
+I9 Morales 70.37, PG 31, 844D-845A; Saint Basil: Ascetical Works, 184.
+10 Ibid. 72.1, PG 31, 845D-848A; Saint Basil: Ascetical Works, 185-186.
+Ibid. 72.2, PG 31, 848B; Saint Basil: Ascetical Works, 186.
+" Ibid. 28.1, PG 31, 748A; Saint Basil: Ascetical Works, 108.
+9 Ibid. 26.1, PG 31, 744C; Saint Basil: Ascetical Works, 106.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 182</summary>
+
+and the source of disorder and confusion .... But no less
+an evil also is the disobedience to rulers .... But perhaps
+someone will say that there is also a third evil, when the
+ruler is bad. I myself also know this, and no small evil it
+is, but a far worse evil even than anarchy. For it is better
+to be led by no one than to be led by one who is evil. For
+the former indeed are oftentimes saved and oftentimes
+in peril, but the latter will be altogether in peril, being
+led into the pit of destruction. How then does Paul say:
+'Obey them that have the rule over you, and submit
+yourselves' (Heb. 13:17)?
+Having said above, "Whose faith follow, considering
+the end of their behavior" (Heb. 10:7), he then says,
+"Obey them that have the rule over you, and submit
+yourselves." "What then," you say, "when he is evil,
+should we obey?" Evil? In what sense? If indeed in regard
+to faith, flee and avoid him; not only if he is a man, but
+even if he is an angel come down from heaven. But if in
+regard to life, do not be over-curious .... For hear Christ
+saying: "The Scribes and the Pharisees sit on Moses' seat"
+(Mt. 23:2). Having previously spoken many fearful things
+concerning them, He then says: "They sit on Moses' seat:
+all therefore whatsoever they tell you observe, do; but
+do not ye after their works" (Mt. 23:2-3). They have, He
+means, the dignity of office, but are of unclean life. Attend,
+however, not to their life, but to their words.
+For as regards their characters, no one would be
+harmed thereby. How is this? Both because their characters
+are manifest to all, and also because though he were ten
+thousand times as wicked, he will never teach what is
+wicked. But as respects faith, the evil is not manifest to
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 183</summary>
+
+all, and the wicked ruler will not shrink from teaching
+it. Moreover, "Judge not that ye be not judged" (Mt. 7:1)
+concerns life, [though] not faith.
+Paul, however, has previously commended the shepherds
+(namely, has borne witness to the fact that they are sound
+in all things), and after this he says "Obey them that have
+the rule over you."194
+And elsewhere St. John again says: "'But so and so,'
+someone says, 'is a good man and a priest and lives a life
+of temperance and piety.' Do not speak to me of that
+good, temperate, pious priest! Let it be, if you wish, Peter
+or Paul or even an angel who has come down from
+heaven. Not even in such cases do I regard the dignity
+of persons. I do not recognize the law of any servant,
+but only the King's law. When we read what the King
+has written, let His servant, however high his office, be
+silent ....
+Why do you bring up the case of this man or that
+man? God will not acquit you because of the negligence
+of your fellow servants, but He will judge you according
+to the precept of His laws. "I commanded," He will say
+to you on the day of judgment, "you should have obeyed
+My command and not used this man and that man as
+an excuse, and concerned yourself with the evils of others."
+Tell me, is it safe for us to sin because the great David
+committed a grievous sin? This is all the more reason
+why we must be on our guard and emulate only the good
+works of the Saints. If we find negligence or transgression
+of the law anywhere, we must flee from it with great zeal.
+
+---
+
+19 On Hebrews 34.1, PG 63, 231-232; NPNF (V1-14), 518-519.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 184</summary>
+
+Our account is rendered not to our fellow servants but
+to the Master, and to him shall we give account for all
+we have done in our lives.195
+So this is what the Saints say. But we, my brothers, since
+the Lord has called us in peace,196 must obey the hierarchs,
+the Spiritual Fathers, and the teachers, on account of the
+dignity of the office which they have received from God.
+But if one of these is doing something irrational or prohibits
+us from doing some virtuous work, let us not cease from
+asking and beseeching him until we convince him and until
+the will of God is done, so that peace may reign among us;
+so that harmony and concord may prevail; so that there
+may be love between the Shepherds and the sheep, between
+the hierarchs and the Christian people, between the priests
+and the laity, and between the leaders and the led; and so
+that scandals, disturbances, schisms, and divisions be absent
+and far from us. For these things are what will destroy our
+souls, our homes, our churches, and every community and
+race. In brief, let us do all these things so that we may all
+be one body and one spirit, all with one hope, just as we
+were called,197 so that the God of peace may also be with us.
+
+---
+
+15 Ad Illuminandos Catecheses 1.5, PG 49, 229-230; St. John Chrysostom:
+Baptismal Instructions, 144.
+1 Cf. Col. 3:15.
+m Cf. Eph. 4:4.
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 185</summary>
+
+OBJECTION 13
+
+Some say: "Behold, we keep the commandment of the
+Lord and receive Communion two or three times a year,
+and this suffices as our apology."
+
+To such people we reply that this too is good and beneficial.
+But for someone to receive Commune more frequently is
+much better. The more one approaches light, the more he
+is illumined; the more he approaches fire, the more he is
+warmed; and the more he draws near to holiness, the more
+is he made holy. Wherefore, the more frequently someone
+approaches God through Communion, the more is he
+illumined, warmed, and made holy. My brother, if you are
+worthy to receive Communion two or three times a year,
+you are also worthy, just as the divine Chrysostom says, to
+receive more frequently, performing the same preparation.
+What prohibits us from communing? Our negligence and
+our sloth. Being conquered by these, we do not prepare
+ourselves according to our abilities.
+We also reply in another way. Such people do not practice
+the commandment of God as they think. For where did
+God (or any of the Saints) command that we should receive
+Communion two or three times a year? This idea is not to
+be found anywhere. We must therefore know that, when
+we practice a commandment, we must be careful to practice
+it according to the commandment. What I mean is that we
+must heed the place, time, purpose, manner, and all the
+circumstances under which we practice the commandment.
+This way the good will be perfect in everything and well-
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 186</summary>
+
+pleasing to God.198
+The same applies to divine Communion. For someone
+to commune frequently is necessary, profitable to the soul,
+according to the commandment of God, perfectly good,
+and virtuous. But for someone to receive Communion only
+three times a year is neither according to a commandment
+nor perfectly good, for that which is not done in a good
+way is not good.
+For this reason, just as the rest of the commandments
+of God demand to be performed at the time proper to each,
+according to the Ecclesiast: "There is a time for everything"
+(Ec. 3:17), so also does the commandment of divine
+Communion. We must afford the proper time to its
+performance, which is the moment when the priest cries
+out, "With the fear of God, with faith, and with love, draw
+near." Is this heard only three times a year? Alas and woe!
+And since the physical body needs to eat two or three times
+a day to live, does the poor soul then, in order to live the
+
+---
+
+" Translator's note: See St. Basil the Great's reply to the question,
+"Whether the work enjoined by the commandment is acceptable to God
+if the manner of performing it is not in conformity with the commandment
+of God" (De Baptismo 2, Question 8, PG 31, 1600A-1612A; Saint Basil:
+Ascetical Works, 407 ff). And St. Maximos the Confessor says: "In everything
+that we do God searches out our purpose to see whether we do it for
+Him or for some other motive" (Second Century on Love 36, GrPhilokalia,
+304; The Philokalia, vol. 2, 71). Elsewhere, the divine Maximos says: "The
+demons do not hate self-restraint, fasting, almsgiving, hospitality, the
+singing of psalms ... or any of the other things which characterize a life
+lived according to God, so long as the aim and purpose of a person trying
+to live such a life are tilted in their direction" (Fifth Century on Various
+Texts of Theology 70, GrPhilokalia, 402; Third Century of Various Texts, The
+Philokalia, vol. 2, 227-228).
+
+</details>
+
+<details>
+<summary>OBJECTIONS - CLARIFICATIONS pg 187</summary>
+
+spiritual life, only need to eat its life-giving food three times
+a year, or even just once a year? Is not this a great absurdity?
+Otherwise, I fear - I fear that perhaps we do not profit from
+doing the commandments. For we adulterate them and
+corrupt them, and we are not doers of the law, but creators
+of anti-laws. While fasting on many occasions and thinking
+that we were fulfilling the commandment of God, we were
+actually sinning, as the divine Chrysostom says:
+Do not tell me that they are fasting; but show me that it
+is God's will that they fast. If it is not God's will, then
+their fasting is more unlawful than any drunkenness.
+For we must not only look at what they do, but also seek
+out the reason that they do it. What is done in accordance
+with God's will, even if it seems bad, is the best of all
+things. What is done contrary to God's will, even if it
+seems very good, is the worst and most unlawful of all
+things .... For it is God's will, and not the nature of things,
+that makes the same actions good or bad.199
+
+---
+
+199 Adversus Judaeos 4.1, PG 48, 873.
+
+</details>
+
+<details>
+<summary>Overview</summary>
+
+<details>
+<summary>Objection 6:</summary>
+
+</details>
+
+<details>
+<summary>Objection 7:</summary>
+
+</details>
+
+<details>
+<summary>Objection 8:</summary>
+
+</details>
+
+<details>
+<summary>Objection 9:</summary>
+
+</details>
+
+<details>
+<summary>Objection 10:</summary>
+
+</details>
+
+<details>
+<summary>Objection 11:</summary>
+
+</details>
+
+<details>
+<summary>Objection 12:</summary>
+
+</details>
+
+<details>
+<summary>Objection 13:</summary>
+
+</details>
+
 
 </details>
 
