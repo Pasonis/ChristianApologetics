@@ -32,6 +32,26 @@ There is no neutral “self at the center” in Orthodox anthropology.
 
 * gods by grace  - CHAPTER 3: Harm of Infrequent Communion pg 127
 
+<details>
+<summary>demoniacs</summary>
+
+* "If one of the faithful is possessed by a demon, but does not deny the Mystery or blaspheme it in any way, let him receive Communion. - OBJECTIONS - CLARIFICATIONS pg 162
+
+> “The Lord is faithful, who will establish you and guard you from the evil one.”
+— 2 Thessalonians 3:3
+
+The key is that those passages usually refer to ultimate spiritual ownership, conquest, or separation from God, not necessarily immunity from every form of demonic attack or bodily affliction.
+
+</details>
+
+* Tome of Union
+
+* Horologion
+
+* I thought Canons were binding and on equal footing with all other authorties?
+
+: is it just and right that this Canon should have more authority than the so great a number of trumpets of the Holy Spirit that have been cited thus far? The imperial laws write that any law written by an emperor that is found to be contrary to the sacred Canons and divine Fathers is rendered void. The divine Chrysostom says that a custom or habit contrary to the divine laws is to be terminated
+
 </details>
 
 <details>
@@ -62,6 +82,10 @@ There is no neutral “self at the center” in Orthodox anthropology.
 > This is what is terrible, that you determine the worthiness of your approach, not by the purity of your mind, but by intervals of time.
 
 *OBJECTIONS - CLARIFICATIONS pg 154*
+
+> However, true repentance is able to heal all things.
+
+*OBJECTIONS - CLARIFICATIONS pg 163*
 
 </details>
 
@@ -3401,28 +3425,35 @@ the spiritual condition of the communicants, and only to
 sustain their bad habit and evil custom, which has prevailed
 unto the detriment of their souls.
 But let us ask Basil the Great to speak to us the truth:
-Question 11: Whether it is right or safe to refuse to obey
-any of the commands of God, or to impede the one who
-has been commanded to do them, or to be tolerant of
-those who are doing the impeding, especially if the person
-impeding is genuine and close to God, or if some seemingly
-plausible reason impede the accomplishment of the
-command.
-Reply: Considering the Lord's words: "Learn of Me,
-for I am meek and lowly in heart" (Mt. 11:29), it is clear
-that we are more solidly instructed in all things when
-we recall the words of our Lord Jesus Christ Himself,
-the Only-begotten Son of the living God. Therefore:
-When John the Baptist said to Him, "I have need to be
-baptized of Thee, and comest Thou to me?" (Mt. 3:14),
-He replied, "Suffer it to be so now, for so it becometh
-us to fulfill all righteousness" (Mt. 3:15). Again, in the
-presence of the disciples, when Peter decried the sufferings
-which the Lord prophesied He must undergo in Jerusalem,
-He said with great displeasure, "Get thee behind Me,
-Satan, thou art a scandal unto Me; for thou savourest
-not the things that be of God, but those that be of men"
-(Mt. 16:23). On another occasion, when Peter, moved
+
+Question 11:
+
+> Whether it is right or safe to refuse to obey
+> any of the commands of God, or to impede the one who
+> has been commanded to do them, or to be tolerant of
+> those who are doing the impeding, especially if the person
+> impeding is genuine and close to God, or if some seemingly
+> plausible reason impede the accomplishment of the
+> command.
+
+
+Reply:
+
+> Considering the Lord's words: "Learn of Me,
+> for I am meek and lowly in heart" (Mt. 11:29), it is clear
+> that we are more solidly instructed in all things when
+> we recall the words of our Lord Jesus Christ Himself,
+> the Only-begotten Son of the living God. Therefore:
+> When John the Baptist said to Him, "I have need to be
+> baptized of Thee, and comest Thou to me?" (Mt. 3:14),
+> He replied, "Suffer it to be so now, for so it becometh
+> us to fulfill all righteousness" (Mt. 3:15). Again, in the
+> presence of the disciples, when Peter decried the sufferings
+> which the Lord prophesied He must undergo in Jerusalem,
+> He said with great displeasure, "Get thee behind Me,
+> Satan, thou art a scandal unto Me; for thou savourest
+> not the things that be of God, but those that be of men"
+> (Mt. 16:23). On another occasion, when Peter, moved
 
 ---
 
@@ -3433,34 +3464,36 @@ not the things that be of God, but those that be of men"
 <details>
 <summary>OBJECTIONS - CLARIFICATIONS pg 176</summary>
 
-by reverence toward his Master, refused His ministration,
-the Lord again said, "If I wash thee not, thou hast no
-part with Me" (Jn. 13:8).
-And if the soul requires further assistance from examples
-taken from persons like ourselves, let us recall the words
-of the Apostle: "What mean ye to weep and to break
-mine heart? For I am ready not to be bound only, but
-also to die at Jerusalem for the Name of the Lord Jesus"
-(Acts 21:13). Who could be more admirable than John?
-Or more sincere than Peter? Or what motives could have
-been more reverential than those which they alleged? I
-know, furthermore, that neither Moses, that holy man,
-nor the Prophet Jonah remained blameless before God
-when they entertained thoughts that were contrary to
-obedience. By these examples we are taught neither to
-contradict, nor to impede, nor to tolerate those who
-impede others.
-And if the word of the Scripture teaches beyond a
-doubt that we dare not perform these particular actions
-or others like them, how much greater is our obligation
-to imitate the Saints with regard to the rest when they
-say, "We ought to obey God rather than men" (Acts 5:29)
-and, "Whether it be right in the sight of God to hearken
-unto you more than unto God, judge ye. For we cannot
-but speak the things which we have seen and heard"
-(Acts 4:19-20).179
+> by reverence toward his Master, refused His ministration,
+> the Lord again said, "If I wash thee not, thou hast no
+> part with Me" (Jn. 13:8).
+> And if the soul requires further assistance from examples
+> taken from persons like ourselves, let us recall the words
+> of the Apostle: "What mean ye to weep and to break
+> mine heart? For I am ready not to be bound only, but
+> also to die at Jerusalem for the Name of the Lord Jesus"
+> (Acts 21:13). Who could be more admirable than John?
+> Or more sincere than Peter? Or what motives could have
+> been more reverential than those which they alleged? I
+> know, furthermore, that neither Moses, that holy man,
+> nor the Prophet Jonah remained blameless before God
+> when they entertained thoughts that were contrary to
+> obedience. By these examples we are taught neither to
+> contradict, nor to impede, nor to tolerate those who
+> impede others.
+> And if the word of the Scripture teaches beyond a
+> doubt that we dare not perform these particular actions
+> or others like them, how much greater is our obligation
+> to imitate the Saints with regard to the rest when they
+> say, "We ought to obey God rather than men" (Acts 5:29)
+> and, "Whether it be right in the sight of God to hearken
+> unto you more than unto God, judge ye. For we cannot
+> but speak the things which we have seen and heard"
+> (Acts 4:19-20).179
+
 And again Basil says,
-No one must impede the person who is doing the will
+
+> No one must impede the person who is doing the will
 
 ---
 
@@ -3472,32 +3505,39 @@ Works, 425-426.
 <details>
 <summary>OBJECTIONS - CLARIFICATIONS pg 177</summary>
 
-of God, whether he does it because of a commandment
-of God, or for some other reason related to a commandment;
-nor ought the doer of the will of God to permit any to
-hinder him, even though they be genuine friends of God,
-but he should remain steadfast in his decision ..... The
-person who does a commandment of God without sincerity,
-and yet maintains in appearance the exactness of the
-Lord's teaching, should not be impeded, because no one
-is harmed insofar as the act itself is concerned, and
-sometimes certain people may be benefited by it; yet
-such a person should be exhorted to have a disposition
-worthy of his good action.180
-And: "We should not follow human traditions to the
-extent of violating the commandment of God .... No one
-may prefer his own will to the will of the Lord, but in
-everything we must seek and do the will of God."181
+> of God, whether he does it because of a commandment
+> of God, or for some other reason related to a commandment;
+> nor ought the doer of the will of God to permit any to
+> hinder him, even though they be genuine friends of God,
+> but he should remain steadfast in his decision ..... The
+> person who does a commandment of God without sincerity,
+> and yet maintains in appearance the exactness of the
+> Lord's teaching, should not be impeded, because no one
+> is harmed insofar as the act itself is concerned, and
+> sometimes certain people may be benefited by it; yet
+> such a person should be exhorted to have a disposition
+> worthy of his good action.180
+
+And:
+
+> "We should not follow human traditions to the
+> extent of violating the commandment of God .... No one
+> may prefer his own will to the will of the Lord, but in
+> everything we must seek and do the will of God."181
+
 The divine Chrysostom says:
-We must bravely stand against whatever prevents us
-from that good desire. Listen to what Christ says: "He
-that loveth father or mother more than Me is not worthy
-of Me" (Mt. 10:37). For whenever we do something that
-is according to the will of God, we must consider whatever
-prevents us as our enemy and opponent, whether father,
-or mother, or anyone else.182
-Ignatios the Godbearer says: "Every one that teaches
-anything besides what is commanded, even if he is credible,
+
+> We must bravely stand against whatever prevents us
+> from that good desire. Listen to what Christ says: "He
+> that loveth father or mother more than Me is not worthy
+> of Me" (Mt. 10:37). For whenever we do something that
+> is according to the will of God, we must consider whatever
+> prevents us as our enemy and opponent, whether father,
+> or mother, or anyone else.182
+
+Ignatios the Godbearer says: 
+
+>"Every one that teaches anything besides what is commanded, even if he is credible,
 
 ---
 
@@ -3512,16 +3552,18 @@ anything besides what is commanded, even if he is credible,
 <details>
 <summary>OBJECTIONS - CLARIFICATIONS pg 178</summary>
 
-even if he fasts, even if he lives celibately, even if he works
-miracles, even if he prophesies, let him be in your sight as
-a wolf in sheep's clothing, laboring for the destruction of
-the sheep."183
+> even if he fasts, even if he lives celibately, even if he works
+> miracles, even if he prophesies, let him be in your sight as
+> a wolf in sheep's clothing, laboring for the destruction of
+> the sheep."183
+
 And the divine Meletios the Confessor says:
-"Do not listen to monks or to presbyters,
-When they wrongly counsel you and lead you astray.
-What-only monks? And only presbyters?
-Do not even listen to bishops when they advise you
-To do and to say and to believe that which harms the soul."
+
+> *"Do not listen to monks or to presbyters,*
+> *When they wrongly counsel you and lead you astray.*
+> *What-only monks? And only presbyters?*
+> *Do not even listen to bishops when they advise you*
+> *To do and to say and to believe that which harms the soul."*
 
 OBJECTION 12
 
@@ -3882,32 +3924,90 @@ that makes the same actions good or bad.199
 <summary>Overview</summary>
 
 <details>
-<summary>Objection 6:</summary>
+<summary>Objection 6: I have what is sufficient for me</summary>
+
+Objection 6 says that less frequent Communion is sufficient, and that to commune more often would be spiritual overindulgence, like eating too much honey. The authors reject this. They argue that Christians do not get to define “sufficient” for themselves against Christ’s command and the Church’s tradition. The Fathers and canons encourage the faithful to receive whenever they are properly prepared and when the Divine Liturgy is offered, especially on Sundays, Saturdays, feast days, and, where possible, even more frequently.
+
+The warning against eating too much honey is not a warning against receiving too much Communion. Rather, the authors interpret “honey” as the sweetness of spiritual consolations, visions, or divine gifts. A person may become overly attached to spiritual sweetness, but he does not overindulge in Christ by receiving the Mysteries frequently with repentance, reverence, and preparation. Therefore, “sufficiency” should be measured by Christ’s command, the Church’s practice, and the soul’s need for grace — not by self-chosen minimalism.
+
+* “Sufficient” should not be self-defined apart from Christ, the canons, and the Church’s tradition.
+
+* The danger is not frequent worthy Communion, but careless, unrepentant, or self-willed Communion.
+
+* “Too much honey” refers to attachment to spiritual sweetness or consolations, not to receiving Christ too often.
+
+* One can misuse spiritual experiences; one does not “overconsume” the Eucharist when receiving worthily.
+
+* The ordinary pattern urged by the authors is frequent Communion whenever one is repentant, prepared, and not under penance.
 
 </details>
 
 <details>
-<summary>Objection 7:</summary>
+<summary>Objection 7: Frequent communion is heretical</summary>
+
+Objection 7 claims that just as those who baptize outside the tradition of the Church are heretics, those who commune frequently should also be considered heretics. The authors reject this as a false analogy. Baptism contrary to the Church’s tradition is condemned because it departs from the Church’s received practice; frequent Communion, however, is not a departure from tradition but is firmly rooted in Christ’s command, the apostolic and canonical witness, the Fathers, and the lives of the saints. Therefore, to call frequent Communion heresy is baseless and contrary to the very tradition being invoked.
+
+The ordinary pattern urged by the authors is frequent Communion with repentance, preparation, reverence, and obedience to the Church, unless one is under penance or otherwise pastorally restrained.
 
 </details>
 
 <details>
-<summary>Objection 8:</summary>
+<summary>Objection 8: We are by nature too impure to commune frequently</summary>
+
+Objection 8 misunderstands Holy Communion as though it were only for those already purified and perfected. The authors answer that Communion is for both the saint and the repentant sinner, because it is both restorative and preventive medicine for the soul. A “holy person” is not only someone who has already attained purity, but also someone who belongs to Christ and is striving toward purity through repentance.
+
+It is natural and proper to feel unworthy, since none of us is worthy of God’s grace by our own deeds. But this humility should lead us to repentance, preparation, and obedient reception — not to refusal of the gift Christ commands us to receive. The danger is not frequent Communion itself, but approaching carelessly, irreverently, or without repentance. of us by our own deeds our worthy of the grace that God has gifted us - but that grace is indeed offered and we are commanded to partake of it and explicitly condemned if we do not.
+
+* Communion is not only for the already perfected, but for the repentant and striving.
+
+* “Holy” includes those set apart in Christ and pursuing holiness, not only those who have reached perfection.
+
+* Communion heals past wounds and strengthens against future falls.
+
+* Feeling unworthy is proper when it produces humility, repentance, and preparation.
+
+* Feeling unworthy becomes spiritually harmful when it becomes disobedient avoidance of Christ’s command. (Jn 6: 53-56)
+
+* The true danger is not frequent worthy reception, but careless reception or negligent abstention.
 
 </details>
 
 <details>
-<summary>Objection 9:</summary>
+<summary>Objection 9: Avoid scandalizing people</summary>
+
+Objection 9 says that frequent Communion should be avoided because it offends or scandalizes the majority of Christians who commune rarely. The authors reject this as a misuse of the idea of scandal. True scandal is not caused by obeying God’s command, but by disobeying it or causing others to disobey it. If the minority are following the command of Christ and the tradition of the Church, they should not abandon frequent Communion merely because the majority are displeased. Love for neighbor does not require placing human opinion above obedience to God. Rather, the faithful should receive with humility, without pride, without condemning others, and without public display, but they should not cease obeying God in order to satisfy the negligent or misinformed.
 
 </details>
 
 <details>
-<summary>Objection 10:</summary>
+<summary>Objection 10: Canon law limits communion to 3 times a year</summary>
+
+Objection 10 claims that the Tome of Union, as reproduced in the Horologion, establishes that Christians should receive Communion only three times a year. The authors reject this as either a false addition, a mutilated citation, or a gross misapplication of a canon. In context, the canon concerned the controversy over Emperor Leo the Wise’s fourth marriage and the later regulation of third marriages. The “three times a year” rule was not for all Christians, but for a specific penitential case: someone around thirty years old, with children from a previous marriage, who entered a third marriage. After four years of exclusion from Communion, such a person could receive only at Pascha, Dormition, and Nativity, each preceded by fasting.
+
+Therefore, applying this penance to all Christians — virgins, once-married, twice-married, clergy, monastics, and ordinary faithful — is a serious distortion. The ordinary rule remains frequent Communion for those who are repentant, properly prepared, and not under penance.
+
+This is an out of context of Canon law regarding penance for those entering into third or fourth marriages at 30 or 40 years of age. It also admonishes hierarchs and other clergy who did not immediately correct this misunderstanding at its inception for whatever reason.
+
+* Again: The ordinary pattern urged by the authors is frequent Communion whenever one is repentant, prepared, and not under penance. 
+
+* It is more likely that opponents are misreading or misapplying a specific penitential canon than that the Church’s broader Eucharistic teaching, liturgical practice, canons, and saints all supported rare Communion while somehow misunderstanding themselves.
 
 </details>
 
 <details>
-<summary>Objection 11:</summary>
+<summary>Objection 11: Communion is not explictly dogmatized</summary>
+
+Objection 11 argues that frequent Communion is not a dogma of the faith and therefore does not have to be kept obligatorily. The authors reject this distinction as evasive. Even if frequent Communion is not called a dogma in the strict technical sense, it is grounded in the clear commandment of Christ, the purpose of the Divine Liturgy, the apostolic and canonical tradition, and the witness of the Fathers. Therefore, Christians should not treat it as optional merely because it is not framed as a dogmatic definition.
+
+They also warn that no outward appearance of holiness, rank, or spiritual authority gives someone the right to counsel disobedience to God. If anyone’s advice contradicts Christ’s command and the Church’s received tradition, the faithful must remember: “We ought to obey God rather than men” (Acts 5:29).
+
+* The outward appearance of holiness does not give authority to any person’s word when that word contradicts Christ, the Scriptures, the canons, and the Church’s tradition.
+
+* “We ought to obey God rather than men” (Acts 5:29).
+
+* The Divine Liturgy is ordered toward the faithful receiving Christ, not merely observing from a distance.
+
+* The ordinary pattern remains frequent Communion for those who are repentant, prepared, reverent, and not under penance.
 
 </details>
 
