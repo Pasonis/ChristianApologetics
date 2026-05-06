@@ -1,11 +1,23 @@
+**Quick links**
+
+* [Moving excerpts](#moving-excerpts)
+* [Objection overview 1-5](#summary-obj1)
+* [Objection overview 6-13](#summary-obj6)
+* [Resources](#resources)
+* [Works cited](#works-cited)
+
 <details>
 
-<summary><h1>Questions</h1></summary>
+<summary><h1 id="questions">Questions</h1></summary>
 
-* Philokalic movement
+# Questions
+
+* [Philokalic movement](#preface-pg-13) — source: [Preface pg 13](#preface-pg-13)
 
 <details>
-<summary>noetic prayer</summary>
+<summary id="q-noetic-prayer">noetic prayer</summary>
+
+*Source:* [Preface pg 13](#preface-pg-13).
 
 Noetic prayer is the prayer of the nous—the inner spiritual intellect of the heart—directed toward God in stillness, purity, and continual remembrance.  
 It is the core of Hesychast spirituality and one of the central themes of the Philokalia.
@@ -28,12 +40,18 @@ There is no neutral “self at the center” in Orthodox anthropology.
 
 </details>
 
-* Charismata
+<a id="q-charismata"></a>
 
-* gods by grace  - CHAPTER 3: Harm of Infrequent Communion pg 127
+* [Charismata](#ch2-pg-104) — sources: [Chapter 2 pg 104](#ch2-pg-104), [pg 110](#ch2-pg-110), [pg 112](#ch2-pg-112)
+
+<a id="q-gods-by-grace"></a>
+
+* [gods by grace](#ch3-pg-127) — source: [Chapter 3 pg 127](#ch3-pg-127)
 
 <details>
-<summary>demoniacs</summary>
+<summary id="q-demoniacs">demoniacs</summary>
+
+*Sources:* [Objections pg 162](#obj7-pg-162), [Chapter 3 pg 125](#ch3-pg-125), [Chapter 3 pg 126](#ch3-pg-126).
 
 * "If one of the faithful is possessed by a demon, but does not deny the Mystery or blaspheme it in any way, let him receive Communion. - OBJECTIONS - CLARIFICATIONS pg 162
 
@@ -44,16 +62,26 @@ The key is that those passages usually refer to ultimate spiritual ownership, co
 
 </details>
 
-* Tome of Union
+<a id="q-tome-of-union"></a>
 
-* Horologion
+* [Tome of Union](#obj10-pg-171) — sources: [Objection 10 pg 169](#obj10-pg-169), [pg 171](#obj10-pg-171)
 
-* I thought Canons were binding and on equal footing with all other authorties?
+<a id="q-horologion"></a>
 
-: is it just and right that this Canon should have more authority than the so great a number of trumpets of the Holy Spirit that have been cited thus far? The imperial laws write that any law written by an emperor that is found to be contrary to the sacred Canons and divine Fathers is rendered void. The divine Chrysostom says that a custom or habit contrary to the divine laws is to be terminated
+* [Horologion](#obj10-pg-169) — source: [Objection 10 pg 169](#obj10-pg-169)
+
+<a id="q-canons-authority"></a>
+
+* [Are canons binding and on equal footing with other authorities?](#obj10-pg-169) — related: [Objection 12 pg 179](#obj12-pg-179)
+
+> Is it just and right that this Canon should have more authority than the so great a number of trumpets of the Holy Spirit that have been cited thus far? The imperial laws write that any law written by an emperor that is found to be contrary to the sacred Canons and divine Fathers is rendered void. The divine Chrysostom says that a custom or habit contrary to the divine laws is to be terminated.
+
+*Source:* [Objection 10 pg 169](#obj10-pg-169).
 
 <details>
-<summary>Source of truth, obedience, and discernment</summary>
+<summary id="q-source-of-truth">Source of truth, obedience, and discernment</summary>
+
+*Sources:* [Objection 12 pg 181](#obj12-pg-181), [pg 182](#obj12-pg-182), [Objection 13 pg 187](#obj13-pg-187).
 
 > Next he says: "Those who have little knowledge of the Scriptures should be able to recognize those who are holy and Saints by the fruits of the Spirit they exhibit. And they should receive the people who display these as Saints, but reject those that do not."189 Elsewhere he writes: "One must not be easily carried away by those who feign the truth, without examining them, but one must investigate each man with the help of the test given by Scripture."192 And once more: "Every word or thing should be confirmed by the testimony of the divinely inspired Scripture, so those who are good may be assured, and so that those who are bad may be ashamed."195 The divine Chrysostom responds to the third part of the objection, saying: "Anarchy is an evil, and the occasion of many calamities,
 >
@@ -77,49 +105,71 @@ Put another way: if clergy, elders, saints, and Church Fathers can sometimes be 
 </details>
 
 <details>
-<summary>Moving</summary>
+<summary id="moving-excerpts"><h1>Moving</h1></summary>
+
+# Moving
+
+<a id="moving-peace-charisma"></a>
 
 > And peace is a charisma which attracts all of the other divine charismata; and the Lord dwells in peace, as the Prophet Elias says, for God was neither in the powerful and strong wind, nor in the earthquake, nor in the fire, but in the gentle and peaceful breeze.
 
-*CHAPTER 2: Benefits of Frequent Communion pg 112*
+*Source: [CHAPTER 2: Benefits of Frequent Communion pg 112](#ch2-pg-112)*
+
+<a id="moving-labors-will"></a>
 
 > However, when labors and virtues are done according to the will of God, then are they acceptable to Him and beneficial. The will of God is that we do whatever our Lord commands
 
-*CHAPTER 2: Benefits of Frequent Communion pg 113*
+*Source: [CHAPTER 2: Benefits of Frequent Communion pg 113](#ch2-pg-113)*
 
+
+<a id="moving-context-prooftexts"></a>
 
 > This is exactly how these blessed people argue. But one should not break and cut off the words of the divine Scripture, separating them from their context, and then use them in a twisted manner for his own purpose. For the divine Chrysostom also says, We must not just examine the saying in and of itself, but we must consider everything that follows it; for whom, by whom, and to whom it was said; and why, when, and how it was said.
 
-*OBJECTIONS - CLARIFICATIONS pg 137*
+*Source: [OBJECTIONS - CLARIFICATIONS pg 137](#obj2-pg-137)*
+
+<a id="moving-fear-where-no-fear"></a>
 
 > "There have they feared with fear where no fear is" (Ps. 52:6). For fear should attend transgression of the commandments, but not compliant submission and obedience. And neither is their piety true, but rather fake and hypocritical, because true piety reverences the words and commandments of the Lord and does not violate them.
 
-*OBJECTIONS - CLARIFICATIONS pg 144*
+*Source: [OBJECTIONS - CLARIFICATIONS pg 144](#obj3-pg-144)*
+
+<a id="moving-when-worthy"></a>
 
 > And I, having examined myself, see that I am not worthy." And so we reply to you: When then will you be worthy? When will you present yourself to Christ? For, if you are always going to be scared away by your mistakes, consider that, being human, you will never cease from making them
 
-*OBJECTIONS - CLARIFICATIONS pg 144 - 145*
+*Source: [OBJECTIONS - CLARIFICATIONS pg 144-145](#obj3-pg-144)*
 
+
+<a id="moving-intervals-of-time"></a>
 
 > This is what is terrible, that you determine the worthiness of your approach, not by the purity of your mind, but by intervals of time.
 
-*OBJECTIONS - CLARIFICATIONS pg 154*
+*Source: [OBJECTIONS - CLARIFICATIONS pg 154](#obj5-pg-154)*
+
+<a id="moving-true-repentance"></a>
 
 > However, true repentance is able to heal all things.
 
-*OBJECTIONS - CLARIFICATIONS pg 163*
+*Source: [OBJECTIONS - CLARIFICATIONS pg 163](#obj8-pg-163)*
+
+<a id="moving-gods-will"></a>
 
 > What is done in accordance with God's will, even if it seems bad, is the best of all things. What is done contrary to God's will, even if it seems very good, is the worst and most unlawful of all things .... For it is God's will, and not the nature of things, that makes the same actions good or bad.
 
-*OBJECTIONS - CLARIFICATIONS pg 187: St. John Chrysostom’s Against the Jews / Against Judaizing Christians, Homily 4*
+*Source: [OBJECTIONS - CLARIFICATIONS pg 187](#obj13-pg-187); St. John Chrysostom, *Against Judaizing Christians*, Homily 4*
 
 </details>
 
 <details>
-<summary><h1>Concerning Frequency of Holy Communion - Preface, History</h1></summary>
+<summary><h1>Concerning Frequent Communion - Preface, History</h1></summary>
+
+# Concerning Frequent Communion - Preface, History
 
 <details>
-<summary>PREFACE pg 13</summary>
+<summary id="preface-pg-13">PREFACE pg 13</summary>
+
+*Related:* [Question: noetic prayer](#q-noetic-prayer).
 
 When the present book was first published by St. Nikodemos
 the Hagiorite and St. Makarios Notaras, it had as its objective
@@ -146,7 +196,7 @@ as Saints. And this is what sets it apart from the activity of
 </details>
 
 <details>
-<summary>PREFACE pg 14</summary>
+<summary id="preface-pg-14">PREFACE pg 14</summary>
 
 contemporary "modernists," who resort to innovations not
 founded upon the tradition of the Saints. The Saints are
@@ -182,7 +232,7 @@ the Christians have prepared themselves and receive Com-
 </details>
 
 <details>
-<summary>Preface pg 15</summary>
+<summary id="preface-pg-15">Preface pg 15</summary>
 
 munion, will we say that we are pleased with our pastoral
 work.""
@@ -213,12 +263,12 @@ Sacred Metropolis of Hierissos
 ic XC
 NI Kd
 
-The Commemoration of St Nikodemos the Hagiorite
+The Commemoration of St. Nikodemos the Hagiorite
 
 </details>
 
 <details>
-<summary>A BRIEF HISTORY OF THE PRESENT BOOK1 pg 17</summary>
+<summary id="history-pg-17">A BRIEF HISTORY OF THE PRESENT BOOK pg 17</summary>
 
 The first edition of this work had the following title: "A
 handbook, by an anonymous author, demonstrating that
@@ -250,7 +300,7 @@ Korinthou (1731-1805) [St. Makarios Notaras, Metropolitan of Corinth
 </details>
 
 <details>
-<summary>A BRIEF HISTORY OF THE PRESENT BOOK pg 18</summary>
+<summary id="history-pg-18">A BRIEF HISTORY OF THE PRESENT BOOK pg 18</summary>
 
 patristic sayings, interpreted and explained in the vernacular
 without a single distortion or mistake, as everyone can see."2
@@ -443,7 +493,7 @@ synodical commands and as a rebel and lover of disturbance
 </details>
 
 <details>
-<summary>A BRIEF HISTORY OF THE PRESENT BOOK pg 23</summary>
+<summary id="history-pg-23">A BRIEF HISTORY OF THE PRESENT BOOK pg 23</summary>
 
 and causer of scandals, let him be anathematized, etc. (the
 usual curses). Let it be so by decree.
@@ -482,7 +532,7 @@ God-pleasing preparation, frequent communion is very
 </details>
 
 <details>
-<summary>A BRIEF HISTORY OF THE PRESENT BOOK pg 24</summary>
+<summary id="history-pg-24">A BRIEF HISTORY OF THE PRESENT BOOK pg 24</summary>
 
 lawful and beneficial to the soul and salvific. Therefore,
 your book was synodically declared beneficial and salvific,
@@ -648,7 +698,7 @@ Father Christodoulos the Wonderworker, 5h ed. (Athens: 1957), 5.
 
 ACW: Ancient Christian Writers.
 
-ANF: Anti-Nicene Fathers.
+ANF: Ante-Nicene Fathers.
 
 CSCO: Corpus Scriptorum Christianorum Orientalium.
 
@@ -675,8 +725,12 @@ SC: Sources Chrétiennes, Paris.
 <details>
 <summary><h1>Frequent Communion Ch 2</h1></summary>
 
+# Frequent Communion Ch 2
+
 <details>
-<summary>CHAPTER 2: Benefits of Frequent Communion pg 104</summary>
+<summary id="ch2-pg-104">CHAPTER 2: Benefits of Frequent Communion pg 104</summary>
+
+*Related:* [Question: Charismata](#q-charismata).
 
 Frequent Reception of the Holy Mysteries is Beneficial and Salvific
 
@@ -713,7 +767,7 @@ Communion with the appropriate preparation, namely, with confession,
 </details>
 
 <details>
-<summary>CHAPTER 2: Benefits of Frequent Communion pg 105</summary>
+<summary id="ch2-pg-105">CHAPTER 2: Benefits of Frequent Communion pg 105</summary>
 
 let us again bring forward one by one the sacred teachers
 of the Church to tell us about these gifts, with their eloquent
@@ -908,7 +962,7 @@ of our souls. By it the soul is washed, is made beautiful,
 </details>
 
 <details>
-<summary>CHAPTER 2: Benefits of Frequent Communion pg 110</summary>
+<summary id="ch2-pg-110">CHAPTER 2: Benefits of Frequent Communion pg 110</summary>
 
 and is inflamed; and it causes our intellect to be brighter
 than fire and makes the soul gleam more than gold ....
@@ -987,7 +1041,9 @@ to receive inside our heart the promise of the Spirit, just as
 </details>
 
 <details>
-<summary>CHAPTER 2: Benefits of Frequent Communion pg 112</summary>
+<summary id="ch2-pg-112">CHAPTER 2: Benefits of Frequent Communion pg 112</summary>
+
+*Related:* [Moving excerpt: peace as a charisma](#moving-peace-charisma).
 
 the Apostles remained and waited in Jerusalem, according
 to the command of the Lord, and received the perfection
@@ -1026,7 +1082,9 @@ Cf. 3 Kg. [1 Kg.] 19:11-12.
 </details>
 
 <details>
-<summary>CHAPTER 2: Benefits of Frequent Communion pg 113</summary>
+<summary id="ch2-pg-113">CHAPTER 2: Benefits of Frequent Communion pg 113</summary>
+
+*Related:* [Moving excerpt: labors and virtues according to God’s will](#moving-labors-will).
 
 ordinance of their God. They ask of Me the ordinances
 of justice; they take delight in approaching to God.
@@ -1411,6 +1469,8 @@ other, because he will receive again in just a short while.
 <details>
 <summary><h1>Frequent Communion Ch 3</h1></summary>
 
+# Frequent Communion Ch 3
+
 <details>
 <summary>CHAPTER 3: Harm of Infrequent Communion pg 123</summary>
 
@@ -1484,7 +1544,9 @@ cast them into various sins and many other temptations, as
 </details>
 
 <details>
-<summary>CHAPTER 3: Harm of Infrequent Communion pg 125</summary>
+<summary id="ch3-pg-125">CHAPTER 3: Harm of Infrequent Communion pg 125</summary>
+
+*Related:* [Question: demoniacs](#q-demoniacs).
 
 the divine Cyril of Alexandria says: "Those who distance
 themselves from the Church and Communion become
@@ -1525,7 +1587,9 @@ From Thy words which make me Godlike. (Ibid., 347-348)]
 </details>
 
 <details>
-<summary>CHAPTER 3: Harm of Infrequent Communion pg 126</summary>
+<summary id="ch3-pg-126">CHAPTER 3: Harm of Infrequent Communion pg 126</summary>
+
+*Related:* [Question: demoniacs](#q-demoniacs).
 
 Likewise, on the day of his ordination, the divine Chrysostom
 healed a demoniac and admonished him to go to Church
@@ -1564,7 +1628,9 @@ History (New York: Paulist Press, ACW, 1964), 56-57.
 </details>
 
 <details>
-<summary>CHAPTER 3: Harm of Infrequent Communion pg 127</summary>
+<summary id="ch3-pg-127">CHAPTER 3: Harm of Infrequent Communion pg 127</summary>
+
+*Related:* [Question: gods by grace](#q-gods-by-grace).
 
 likeness of irrational beasts, just like when of old king
 Nebuchadnezzar was changed into the likeness of an ox?125
@@ -1715,17 +1781,23 @@ and life-giving blood. (Heortodromion, vol. 2 [1995], 165)
 
 </details>
 
+<details>
+<summary><h1>Frequent Communion Objections 1-5</h1></summary>
+
 # Frequent Communion Objections 1-5
 
-<details>
-<summary>PART THREE</summary>
+* [Objection 1](#summary-obj1)
+* [Objection 2](#summary-obj2)
+* [Objection 3](#summary-obj3)
+* [Objection 4](#summary-obj4)
+* [Objection 5](#summary-obj5)
 
 > I am that bread of life. Your fathers did eat manna in the wilderness,
 and are dead. This is the bread which cometh down from heaven, that a man may eat thereof and not die.
 Jn. 6:48-50
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 133</summary>
+<summary id="obj1-pg-133">OBJECTIONS - CLARIFICATIONS pg 133</summary>
 
 OBJECTION 1
 
@@ -1830,7 +1902,7 @@ God, rather than revealing them.
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 136</summary>
+<summary id="obj2-pg-136">OBJECTIONS - CLARIFICATIONS pg 136</summary>
 
 I am in wonder and am amazed if there really are such
 priests as this, who turn away those who approach the
@@ -1865,7 +1937,9 @@ prayers, almsgiving, fasting, vigils, tears, confession, and
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 137</summary>
+<summary id="obj2-pg-137">OBJECTIONS - CLARIFICATIONS pg 137</summary>
+
+*Related:* [Summary: Objection 2](#summary-obj2); [Moving excerpt: context and prooftexts](#moving-context-prooftexts).
 
 all the other pious practices, so that we might approach
 the Mysteries with our consciences purified as much as
@@ -2134,7 +2208,9 @@ HI Cf. 2 Cor. 12:2-4.
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 144</summary>
+<summary id="obj3-pg-144">OBJECTIONS - CLARIFICATIONS pg 144</summary>
+
+*Related:* [Summary: Objection 3](#summary-obj3); [Moving excerpt: fear where no fear is](#moving-fear-where-no-fear); [Moving excerpt: When will you be worthy?](#moving-when-worthy).
 
 "unutterable utterances," which a man cannot repeat. So
 how are they able to repeat them? If they learned them
@@ -2171,7 +2247,7 @@ will you be worthy? When will you present yourself to
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 145</summary>
+<summary id="obj3-pg-145">OBJECTIONS - CLARIFICATIONS pg 145</summary>
 
 Christ? For, if you are always going to be scared away
 by your mistakes, consider that, being human, you will
@@ -2284,7 +2360,7 @@ account of divine love and fervent desire for God. For
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 148</summary>
+<summary id="obj4-pg-148">OBJECTIONS - CLARIFICATIONS pg 148</summary>
 
 they needed neither commands nor commandments and
 laws to urge them to love virtue and hate evil. But as
@@ -2360,7 +2436,7 @@ the Divine Liturgy, 97-98.
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 150</summary>
+<summary id="obj5-pg-150">OBJECTIONS - CLARIFICATIONS pg 150</summary>
 
 fearful, and that it requires a holy and pure life, no one
 doubts. For the mere word "holy" signifies a great deal.
@@ -2399,7 +2475,7 @@ Let no sinner approach. However, I do not mean "no"
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 151</summary>
+<summary id="obj5-pg-151">OBJECTIONS - CLARIFICATIONS pg 151</summary>
 
 sinner, because I would thus preclude my self above all
 from approaching the divine Table. What I mean is that
@@ -2520,7 +2596,9 @@ with this same Abba Apollo.
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 154</summary>
+<summary id="obj5-pg-154">OBJECTIONS - CLARIFICATIONS pg 154</summary>
+
+*Related:* [Summary: Objection 5](#summary-obj5); [Moving excerpt: intervals of time](#moving-intervals-of-time).
 
 But if, again, these objectors receive Communion as
 sinners, they should commune neither every forty days nor
@@ -2626,7 +2704,9 @@ living with the angels."157
 <summary>Overview</summary>
 
 <details>
-<summary>Objection 1: Frequent communion is for priests only</summary>
+<summary id="summary-obj1">Objection 1: Frequent Communion is for priests only</summary>
+
+*Primary source:* [Objections pg 133-136](#obj1-pg-133).
 
 > Some say priests must commune frequently because they serve the Mysteries, but laypeople are not under the same obligation.
 
@@ -2639,7 +2719,9 @@ living with the angels."157
 </details>
 
 <details>
-<summary>Objection 2: Only commune every 40 days per the church fathers</summary>
+<summary id="summary-obj2">Objection 2: Only commune every 40 days per the Church Fathers</summary>
+
+*Primary source:* [Objections pg 136-143](#obj2-pg-136). Related: [moving excerpt on context](#moving-context-prooftexts).
 
 Objection 2 claims that Christians should commune only every forty days, citing certain Fathers as proof. The authors reject this conclusion. When the citations are read in context, they do not establish a rule that Communion should occur only every forty days, nor that a forty-day fast is required before each Communion. Rather, the forty-day references are principally about the Church’s appointed Lenten fast and Paschal preparation, not the ordinary frequency of receiving the Mysteries.
 
@@ -2658,11 +2740,13 @@ No canon establishes a universal forty-day interval for Communion. Therefore, is
 </details>
 
 <details>
-<summary>Objection 3: Perception of personal unworthiness</summary>
+<summary id="summary-obj3">Objection 3: Perception of personal unworthiness</summary>
+
+*Primary source:* [Objections pg 143-147](#obj3-pg-144). Related: [moving excerpt on false fear](#moving-fear-where-no-fear), [moving excerpt on unworthiness](#moving-when-worthy).
 
 Objection 3 says that Christians should commune infrequently because they are unworthy, citing St. Paul’s warning against eating and drinking unworthily. The authors reject this as a misuse of St. Paul. They do not deny that no one is worthy by himself; rather, they argue that unworthiness should move a Christian to repentance, confession where needed, preparation, and obedience — not to prolonged avoidance of the Mysteries.
 
-Communion is given to the “holy people,” but “holy” does not mean only those who have already attained perfection. As St. Nicholas Cabasilas explains, the holy are also those who are striving toward holiness, even if they have not yet obtained it. Therefore, a baptized and chrismated Orthodox Christian who is repentant, striving, and not under a grave canonical or pastoral impediment should not refuse Communion merely because of a general feeling of personal unworthiness. To do so can turn humility into disobedience, because Christ gives the Mysteries precisely for healing, purification, strengthening, and life.
+Communion is given to the “holy people,” but “holy” does not mean only those who have already attained perfection. As St. Nicholas Cabasilas explains, the holy are also those who are striving toward holiness, even if they have not yet obtained it (St. Nicholas Cabasilas, *A Commentary on the Divine Liturgy*, ch. 36). Therefore, a baptized and chrismated Orthodox Christian who is repentant, striving, and not under a grave canonical or pastoral impediment should not refuse Communion merely because of a general feeling of personal unworthiness. To do so can turn humility into disobedience, because Christ gives the Mysteries precisely for healing, purification, strengthening, and life.
 
 * No one is worthy of Communion by personal merit.
 
@@ -2679,13 +2763,15 @@ Communion is given to the “holy people,” but “holy” does not mean only t
 </details>
 
 <details>
-<summary>Objection 4: Hermits as normative vs exceptions that prove the rule</summary>
+<summary id="summary-obj4">Objection 4: Hermits as normative vs. exceptions that prove the rule</summary>
+
+*Primary source:* [Objections pg 147-149](#obj4-pg-148).
 
 Objection 4 says that because some saints attained sanctification with little or no ordinary access to Communion, frequent Communion must not be required. 
 
 The authors answer that this treats exceptional circumstances as though they were the normal rule. Saints who lacked Communion because of deserts, persecution, imprisonment, or isolation were deprived unwillingly; they were not neglecting the Mysteries. In some cases, God supplied their need miraculously, even through angels. But such miracles prove the greatness and necessity of Communion rather than making it optional. Therefore, Christians who have access to the Church and are properly prepared should not imitate exceptional deprivation, but should obey Christ’s command and receive frequently and worthily.
 
-* Christ commands us to partake, and says, “Unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.”
+* Christ commands us to partake, and says, “Unless you eat the flesh of the Son of Man and drink His blood, you have no life in you” (John 6:53).
 
 * Extraordinary saints in extraordinary circumstances are not the standard rule for ordinary Christians.
 
@@ -2700,7 +2786,9 @@ The authors answer that this treats exceptional circumstances as though they wer
 </details>
 
 <details>
-<summary>Objection 5: Sacred communion requires a sacred/perfect life</summary>
+<summary id="summary-obj5">Objection 5: Holy Communion requires a holy/perfect life</summary>
+
+*Primary source:* [Objections pg 149-156](#obj5-pg-150). Related: [moving excerpt on intervals of time](#moving-intervals-of-time).
 
 Objection 5 says that Holy Communion is so fearful and exalted that only those living a holy, angelic, and nearly perfect life should commune frequently. 
 
@@ -2726,10 +2814,22 @@ The authors reject this as a misunderstanding of holiness and preparation. Commu
 
 </details>
 
+<details>
+<summary><h1>Frequent Communion Objections 6 - 13</h1></summary>
+
 # Frequent Communion Objections 6 - 13
 
+* [Objection 6](#summary-obj6)
+* [Objection 7](#summary-obj7)
+* [Objection 8](#summary-obj8)
+* [Objection 9](#summary-obj9)
+* [Objection 10](#summary-obj10)
+* [Objection 11](#summary-obj11)
+* [Objection 12](#summary-obj12)
+* [Objection 13](#summary-obj13)
+
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 156 pt2</summary>
+<summary id="obj6-pg-156">OBJECTIONS - CLARIFICATIONS pg 156 pt2</summary>
 OBJECTION 6
 
 Some apply to divine Communion this saying from
@@ -2746,7 +2846,7 @@ Gabala (De Mundi Creatione 4.2, PG 56, 459). See footnote 133 above.
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 157</summary>
+<summary id="obj6-pg-157">OBJECTIONS - CLARIFICATIONS pg 157</summary>
 
 To these sophistries we are ashamed even to reply. For
 when we speak about honey as food, it is not with reference
@@ -2870,7 +2970,7 @@ Canon 5 of Timothy of Alexandria (Pedalion, 668; The Rudder, 892).]
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 160</summary>
+<summary id="obj7-pg-160">OBJECTIONS - CLARIFICATIONS pg 160</summary>
 
 you should correct yourself in all ways. On this day you
 should go to the temple of God and attend the services
@@ -2944,7 +3044,7 @@ receive Communion every Sunday, if they do not blaspheme
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 162</summary>
+<summary id="obj7-pg-162">OBJECTIONS - CLARIFICATIONS pg 162</summary>
 
 the divine Gifts: "If one of the faithful is possessed by a
 demon, but does not deny the Mystery or blaspheme it in
@@ -2981,7 +3081,9 @@ fall as victims of deceit into vainglory, or sorrow, or anger,
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 163</summary>
+<summary id="obj8-pg-163">OBJECTIONS - CLARIFICATIONS pg 163</summary>
+
+*Related:* [Summary: Objection 8](#summary-obj8); [Moving excerpt: true repentance heals all things](#moving-true-repentance).
 
 or some other like sin, let us condemn ourselves and
 confess to God. Thus let us partake of the Holy Mysteries,
@@ -3062,7 +3164,7 @@ not mortal (cf. 1 Jn. 5:16-17). That is why Christians, if they have
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 165</summary>
+<summary id="obj9-pg-165">OBJECTIONS - CLARIFICATIONS pg 165</summary>
 
 OBJECTION 9
 
@@ -3214,7 +3316,9 @@ Regopoulos, 1992], 112-114).
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 169</summary>
+<summary id="obj10-pg-169">OBJECTIONS - CLARIFICATIONS pg 169</summary>
+
+*Related:* [Summary: Objection 10](#summary-obj10); [Question: canons and authorities](#q-canons-authority).
 
 OBJECTION 10
 
@@ -3291,7 +3395,9 @@ and then wishes to take a third wife, is not allowed to
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 171</summary>
+<summary id="obj10-pg-171">OBJECTIONS - CLARIFICATIONS pg 171</summary>
+
+*Related:* [Question: Tome of Union](#q-tome-of-union); [Question: Horologion](#q-horologion).
 
 partake of Holy Communion for four years. After the
 four years pass and he is permitted to partake of the
@@ -3367,7 +3473,7 @@ as the divine Meletios the Confessor says:
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 173</summary>
+<summary id="obj11-pg-173">OBJECTIONS - CLARIFICATIONS pg 173</summary>
 
 > And did not even betray the smallest part of the Law.
 > War is many times known to be praiseworthy,
@@ -3442,7 +3548,7 @@ they were becoming ill on this account, and many were
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 175</summary>
+<summary id="obj11-pg-175">OBJECTIONS - CLARIFICATIONS pg 175</summary>
 
 dying.178
 Those blessed people who raise this objection prohibit
@@ -3615,7 +3721,7 @@ upset and disturbed. To say nothing to these things, however,
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 179</summary>
+<summary id="obj12-pg-179">OBJECTIONS - CLARIFICATIONS pg 179</summary>
 
 we think would be harmful to the soul. Wherefore, let us
 see what the Saints say, so that no one can complain.
@@ -3693,7 +3799,9 @@ and 513C; Pseudo-Dionysius: The Complete Works, 239-240, 242 ..
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 181</summary>
+<summary id="obj12-pg-181">OBJECTIONS - CLARIFICATIONS pg 181</summary>
+
+*Related:* [Summary: Objection 12](#summary-obj12); [Question: source of truth and discernment](#q-source-of-truth).
 
 whether he is a teacher or a hierarch) must do and say
 everything with great deliberation and judgment, aiming
@@ -3732,7 +3840,9 @@ Ibid. 72.2, PG 31, 848B; Saint Basil: Ascetical Works, 186.
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 182</summary>
+<summary id="obj12-pg-182">OBJECTIONS - CLARIFICATIONS pg 182</summary>
+
+*Related:* [Summary: Objection 12](#summary-obj12); [Question: source of truth and discernment](#q-source-of-truth).
 
 and the source of disorder and confusion .... But no less
 an evil also is the disobedience to rulers .... But perhaps
@@ -3919,7 +4029,9 @@ Philokalia, vol. 2, 227-228).
 </details>
 
 <details>
-<summary>OBJECTIONS - CLARIFICATIONS pg 187</summary>
+<summary id="obj13-pg-187">OBJECTIONS - CLARIFICATIONS pg 187</summary>
+
+*Related:* [Summary: Objection 13](#summary-obj13); [Moving excerpt: God’s will and the goodness of actions](#moving-gods-will).
 
 spiritual life, only need to eat its life-giving food three times
 a year, or even just once a year? Is not this a great absurdity?
@@ -3950,7 +4062,9 @@ that makes the same actions good or bad.199
 <summary>Overview</summary>
 
 <details>
-<summary>Objection 6: I have what is sufficient for me</summary>
+<summary id="summary-obj6">Objection 6: I have what is sufficient for me</summary>
+
+*Primary source:* [Objections pg 156-160](#obj6-pg-156).
 
 Objection 6 says that less frequent Communion is sufficient, and that to commune more often would be spiritual overindulgence, like eating too much honey. The authors reject this. They argue that Christians do not get to define “sufficient” for themselves against Christ’s command and the Church’s tradition. The Fathers and canons encourage the faithful to receive whenever they are properly prepared and when the Divine Liturgy is offered, especially on Sundays, Saturdays, feast days, and, where possible, even more frequently.
 
@@ -3969,7 +4083,9 @@ The warning against eating too much honey is not a warning against receiving too
 </details>
 
 <details>
-<summary>Objection 7: Frequent communion is heretical</summary>
+<summary id="summary-obj7">Objection 7: Frequent Communion is heretical</summary>
+
+*Primary source:* [Objections pg 160-162](#obj7-pg-160).
 
 Objection 7 claims that just as those who baptize outside the tradition of the Church are heretics, those who commune frequently should also be considered heretics. The authors reject this as a false analogy. Baptism contrary to the Church’s tradition is condemned because it departs from the Church’s received practice; frequent Communion, however, is not a departure from tradition but is firmly rooted in Christ’s command, the apostolic and canonical witness, the Fathers, and the lives of the saints. Therefore, to call frequent Communion heresy is baseless and contrary to the very tradition being invoked.
 
@@ -3978,15 +4094,17 @@ The ordinary pattern urged by the authors is frequent Communion with repentance,
 </details>
 
 <details>
-<summary>Objection 8: We are by nature too impure to commune frequently</summary>
+<summary id="summary-obj8">Objection 8: We are by nature too impure to commune frequently</summary>
+
+*Primary source:* [Objections pg 162-164](#obj7-pg-162). Related: [moving excerpt on true repentance](#moving-true-repentance).
 
 Objection 8 misunderstands Holy Communion as though it were only for those already purified and perfected. The authors answer that Communion is for both the saint and the repentant sinner, because it is both restorative and preventive medicine for the soul. A “holy person” is not only someone who has already attained purity, but also someone who belongs to Christ and is striving toward purity through repentance.
 
-It is natural and proper to feel unworthy, since none of us is worthy of God’s grace by our own deeds. But this humility should lead us to repentance, preparation, and obedient reception — not to refusal of the gift Christ commands us to receive. The danger is not frequent Communion itself, but approaching carelessly, irreverently, or without repentance. of us by our own deeds our worthy of the grace that God has gifted us - but that grace is indeed offered and we are commanded to partake of it and explicitly condemned if we do not.
+It is natural and proper to feel unworthy, since none of us is worthy of God’s grace by our own deeds. But this humility should lead us to repentance, preparation, and obedient reception — not to refusal of the gift Christ commands us to receive. The danger is not frequent Communion itself, but approaching carelessly, irreverently, or without repentance.
 
 * Communion is not only for the already perfected, but for the repentant and striving.
 
-* “Holy” includes those set apart in Christ and pursuing holiness, not only those who have reached perfection.
+* “Holy” includes those set apart in Christ and pursuing holiness, not only those who have reached perfection (St. Nicholas Cabasilas, *A Commentary on the Divine Liturgy*, ch. 36).
 
 * Communion heals past wounds and strengthens against future falls.
 
@@ -3999,20 +4117,24 @@ It is natural and proper to feel unworthy, since none of us is worthy of God’s
 </details>
 
 <details>
-<summary>Objection 9: Avoid scandalizing people</summary>
+<summary id="summary-obj9">Objection 9: Avoid scandalizing people</summary>
+
+*Primary source:* [Objections pg 165-168](#obj9-pg-165).
 
 Objection 9 says that frequent Communion should be avoided because it offends or scandalizes the majority of Christians who commune rarely. The authors reject this as a misuse of the idea of scandal. True scandal is not caused by obeying God’s command, but by disobeying it or causing others to disobey it. If the minority are following the command of Christ and the tradition of the Church, they should not abandon frequent Communion merely because the majority are displeased. Love for neighbor does not require placing human opinion above obedience to God. Rather, the faithful should receive with humility, without pride, without condemning others, and without public display, but they should not cease obeying God in order to satisfy the negligent or misinformed.
 
 </details>
 
 <details>
-<summary>Objection 10: Canon law limits communion to 3 times a year</summary>
+<summary id="summary-obj10">Objection 10: Canon law limits Communion to three times a year</summary>
+
+*Primary source:* [Objections pg 169-173](#obj10-pg-169).
 
 Objection 10 claims that the Tome of Union, as reproduced in the Horologion, establishes that Christians should receive Communion only three times a year. The authors reject this as either a false addition, a mutilated citation, or a gross misapplication of a canon. In context, the canon concerned the controversy over Emperor Leo the Wise’s fourth marriage and the later regulation of third marriages. The “three times a year” rule was not for all Christians, but for a specific penitential case: someone around thirty years old, with children from a previous marriage, who entered a third marriage. After four years of exclusion from Communion, such a person could receive only at Pascha, Dormition, and Nativity, each preceded by fasting.
 
 Therefore, applying this penance to all Christians — virgins, once-married, twice-married, clergy, monastics, and ordinary faithful — is a serious distortion. The ordinary rule remains frequent Communion for those who are repentant, properly prepared, and not under penance.
 
-This is an out of context of Canon law regarding penance for those entering into third or fourth marriages at 30 or 40 years of age. It also admonishes hierarchs and other clergy who did not immediately correct this misunderstanding at its inception for whatever reason.
+This is an out-of-context use of canon law regarding penance for those entering into third or fourth marriages at 30 or 40 years of age. It also admonishes hierarchs and other clergy who did not immediately correct this misunderstanding at its inception for whatever reason.
 
 * Again: The ordinary pattern urged by the authors is frequent Communion whenever one is repentant, prepared, and not under penance. 
 
@@ -4021,7 +4143,9 @@ This is an out of context of Canon law regarding penance for those entering into
 </details>
 
 <details>
-<summary>Objection 11: Communion is not explictly dogmatized</summary>
+<summary id="summary-obj11">Objection 11: Communion is not explicitly dogmatized</summary>
+
+*Primary source:* [Objections pg 173-178](#obj11-pg-173).
 
 Objection 11 argues that frequent Communion is not a dogma of the faith and therefore does not have to be kept obligatorily. The authors reject this distinction as evasive. Even if frequent Communion is not called a dogma in the strict technical sense, it is grounded in the clear commandment of Christ, the purpose of the Divine Liturgy, the apostolic and canonical tradition, and the witness of the Fathers. Therefore, Christians should not treat it as optional merely because it is not framed as a dogmatic definition.
 
@@ -4038,7 +4162,9 @@ They also warn that no outward appearance of holiness, rank, or spiritual author
 </details>
 
 <details>
-<summary>Objection 12: Obey those in authority</summary>
+<summary id="summary-obj12">Objection 12: Obey those in authority</summary>
+
+*Primary source:* [Objections pg 178-184](#obj12-pg-179). Related: [source of truth question](#q-source-of-truth).
 
 Objection 12 argues three things: first, that the canons and commandments are under the authority of the hierarchs; second, that Christians should not examine what hierarchs, teachers, or spiritual fathers say, but should simply obey whatever they are told; and third, that this is supported by Hebrews 13:17: “Obey them that have the rule over you, and submit yourselves.”
 
@@ -4053,7 +4179,9 @@ Finally, Hebrews 13:17 assumes rightful spiritual rule ordered toward God. It do
 </details>
 
 <details>
-<summary>Objection 13: Two or three times a year is sufficient</summary>
+<summary id="summary-obj13">Objection 13: Two or three times a year is sufficient</summary>
+
+*Primary source:* [Objections pg 185-187](#obj13-pg-187). Related: [moving excerpt on God’s will](#moving-gods-will).
 
 Some say: “We keep the commandment of the Lord by receiving Communion two or three times a year, and this is sufficient as our defense.”
 
@@ -4067,9 +4195,9 @@ The ordinary pattern urged by the authors remains: frequent Communion for those 
 
 * “I commune a few times a year” is not, by itself, a sufficient apology if one could receive more often with repentance and preparation.
 
-* The food analogy shows continual dependence: we have been nourished, are being nourished, and must continue to be nourished.
+* The food analogy shows continual dependence: we have been nourished, are being nourished, and must continue to be nourished (cf. John 6:53-56).
 
-* Likewise, salvation is not treated as a past event only: we have been saved, are being saved, and hope to be saved by God’s mercy as we continue in repentance, obedience, and participation in His grace.
+* Likewise, salvation is not treated as a past event only: we have been saved (Eph. 2:8; Titus 3:5), are being saved (1 Cor. 1:18; 15:2), and hope to be saved (Matt. 24:13; Rom. 5:9) by God’s mercy as we continue in repentance, obedience, and participation in His grace.
 
 * Rare Communion may occur through necessity, pastoral restriction, illness, distance, or other serious circumstances; but voluntary minimalism should not be made the rule.
 
@@ -4077,8 +4205,12 @@ The ordinary pattern urged by the authors remains: frequent Communion for those 
 
 </details>
 
+</details>
+
 <details>
-<summary><h1>Resources</h1></summary>
+<summary><h1 id="resources">Resources</h1></summary>
+
+# Resources
 
 * [Frequent Communion Ch 2](https://files.constantcontact.com/aaffd725901/186f40a8-dbfd-41a7-bb8c-fb70950cec7f.pdf?rdr=true)
 * [Frequent Communion Ch 3](https://files.constantcontact.com/aaffd725901/d05a196b-8e3a-4c32-835b-cb80dbfc5944.pdf?rdr=true)
@@ -4088,10 +4220,71 @@ The ordinary pattern urged by the authors remains: frequent Communion for those 
 
 </details>
 
-# Citations
+<details>
+<summary><h1 id="works-cited">Works Cited</h1></summary>
 
-Concerning Frequent Communion
+# Works Cited {#works-cited}
+
+## Primary class readings
+
+* St. Nikodemos the Hagiorite and St. Makarios Notaras, *Concerning Frequent Communion of the Immaculate Mysteries of Christ*, trans. Hieromonk Patapios and Archbishop Chrysostomos. References in these notes are by the page numbers in the attached class excerpts.
+* Archimandrite Chrysostom Maidones, Preface to *Concerning Frequent Communion*.
+* Anthony N. Charokopos, *Ho Hagios Makarios ho Notaras, Metropolites Korinthou (1731-1805)*, cited in the history section of the class excerpt.
+
+## Scripture frequently cited
+
+* John 6:51-56; John 8:36; John 13:8; John 14:2; John 14:27.
+* Matthew 3:14-15; Matthew 7:1; Matthew 10:37; Matthew 12:45; Matthew 13:8; Matthew 15:14; Matthew 22:40; Matthew 24:13.
+* Luke 7:37-38; Luke 8:43-48; Luke 22:19.
+* Acts 4:19-20; Acts 5:29; Acts 21:13.
+* Romans 2:24; Romans 5:9; Romans 13:11.
+* 1 Corinthians 1:18; 1 Corinthians 5:7; 1 Corinthians 7:5; 1 Corinthians 9:25; 1 Corinthians 11:26-30; 1 Corinthians 15:2.
+* 2 Corinthians 8:21; 2 Corinthians 12:2-4.
+* Galatians 4:10-11; Ephesians 2:8; Ephesians 4:4; Philippians 3:20-21; Colossians 2:3; Colossians 3:15; Hebrews 10:5-10; Hebrews 13:17; 1 Timothy 1:9; Titus 3:5; 1 John 5:16-17; 2 Peter 1:4.
+* Psalms 18:12; 39:9-11; 50:17; 52:6; 72:25; 116:2; 139:4-5.
+* Proverbs 9:1-5; Proverbs 24:13-14; Proverbs 25:16; Wisdom 6:17-20; Ecclesiastes 3:17; Isaiah 58:2-5; Isaiah 59:2; Isaiah 66:2; Jeremiah 2:13; Habakkuk 3:11; Malachi 4:2; Daniel 4:33; Joel 2:9; Hosea 6:9; Deuteronomy 10:12-13.
+
+## Patristic, canonical, and liturgical sources cited in the excerpts
+
+* St. John Chrysostom, *Adversus Judaeos* / *Against Judaizing Christians*, Homilies 3-4, PG 48.
+* St. John Chrysostom, *Homilies on Hebrews*, especially Homily 17 and Homily 34, PG 63.
+* St. John Chrysostom, *Homilies on Acts*, Homily 46, PG 60.
+* St. John Chrysostom, *Homilies on 1 Timothy*, Homily 5, PG 62.
+* St. John Chrysostom, *Homilies on Matthew*, Homily 32, PG 57.
+* St. John Chrysostom, *Homilies on 2 Corinthians*, Homily 18, PG 61.
+* St. John Chrysostom, *Homilies on John*, Homily 46 and Homily 75, PG 59.
+* St. John Chrysostom, *De Beato Philogonio*, PG 48.
+* St. John Chrysostom, *De Sacerdotio* / *On the Priesthood*, SC 272; NPNF V1-09.
+* St. John Chrysostom, *Ad Illuminandos Catecheses* / *Baptismal Instructions*, PG 49; ACW.
+* St. Basil the Great, *Moralia*, PG 31; *Saint Basil: Ascetical Works*.
+* St. Basil the Great, *De Baptismo*, PG 31; *Saint Basil: Ascetical Works*.
+* St. Basil the Great, *De Fide*, PG 31; *Saint Basil: Ascetical Works*.
+* St. Basil the Great, *Regulae Fusius*, PG 31; *Saint Basil: Ascetical Works*.
+* St. Basil the Great, *Epistola* 93, PG 32; NPNF V2-08.
+* St. Cyril of Alexandria, *In Joannis Evangelium*, PG 73.
+* St. Cyril of Alexandria, *Glaphyra in Exodum*, PG 69.
+* St. Cyril of Alexandria, *De Adoratione et Cultu in Spiritu et Veritate*, PG 68.
+* St. Gregory the Theologian, *Oratio* 45, PG 36; NPNF V2-07.
+* St. Gregory Palamas, *A New Testament Decalogue*, in the Greek Philokalia and *The Philokalia*, vol. 4.
+* St. Theodore the Studite, *Small Catechesis*, Catechesis 107.
+* St. Nicholas Cabasilas, *Sacrae Liturgiae Interpretatio* / *A Commentary on the Divine Liturgy*, PG 150.
+* St. Anastasios of Antioch, *Quaestiones*, PG 89.
+* St. Symeon of Thessaloniki, *De Ordine Sepulturae* and *Responsa ad Gabrielem Pentapolitanum*, PG 155.
+* Pseudo-Dionysius the Areopagite, *De Divinis Nominibus* and *De Ecclesiastica Hierarchia*, PG 3; *Pseudo-Dionysius: The Complete Works*.
+* St. Maximos the Confessor, *Centuries on Love* and *Various Texts on Theology*, in the Greek Philokalia and *The Philokalia*, vol. 2.
+* Palladios, *Historia Lausiaca* / *The Lausiac History*, PG 34; ACW.
+* Theodoret of Cyr, *Quaestiones in Exodum*, PG 80.
+* St. Ignatios the Godbearer, *To Heron the Deacon of Antioch* and *To Polycarp*, PG 5; ANF.
+* St. Meletios the Confessor, *Alphabetalphabetos*, Hypothesis 10.
+* *Apostolic Constitutions*, Book 8, SC 336; ANF.
+* Canons cited through the *Pedalion* / *The Rudder*, including Apostolic Canon 69, Canon 2 of Antioch, and related canons of Dionysios and Timothy of Alexandria.
+* Divine Liturgy of St. Basil the Great, Prayer after the Lord’s Prayer.
+* Divine Liturgy of St. John Chrysostom, Prayer after the sanctification of the Gifts.
+* Third Prayer before Holy Communion, attributed in the excerpt to St. John Chrysostom, in *A Prayer Book for Orthodox Christians*.
+* Seventh Prayer before Holy Communion, St. Symeon the New Theologian, in *A Prayer Book for Orthodox Christians*.
+
+</details>
 
 ---
 
-[index](../orthodoy301.md)
+[index](../orthodoxy301.md)
