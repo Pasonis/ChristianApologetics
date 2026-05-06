@@ -52,6 +52,28 @@ The key is that those passages usually refer to ultimate spiritual ownership, co
 
 : is it just and right that this Canon should have more authority than the so great a number of trumpets of the Holy Spirit that have been cited thus far? The imperial laws write that any law written by an emperor that is found to be contrary to the sacred Canons and divine Fathers is rendered void. The divine Chrysostom says that a custom or habit contrary to the divine laws is to be terminated
 
+<details>
+<summary>Source of truth, obedience, and discernment</summary>
+
+> Next he says: "Those who have little knowledge of the Scriptures should be able to recognize those who are holy and Saints by the fruits of the Spirit they exhibit. And they should receive the people who display these as Saints, but reject those that do not."189 Elsewhere he writes: "One must not be easily carried away by those who feign the truth, without examining them, but one must investigate each man with the help of the test given by Scripture."192 And once more: "Every word or thing should be confirmed by the testimony of the divinely inspired Scripture, so those who are good may be assured, and so that those who are bad may be ashamed."195 The divine Chrysostom responds to the third part of the objection, saying: "Anarchy is an evil, and the occasion of many calamities,
+>
+> and the source of disorder and confusion .... But no less an evil also is the disobedience to rulers .... But perhaps someone will say that there is also a third evil, when the ruler is bad. I myself also know this, and no small evil it is, but a far worse evil even than anarchy. For it is better to be led by no one than to be led by one who is evil. For the former indeed are oftentimes saved and oftentimes in peril, but the latter will be altogether in peril, being led into the pit of destruction."
+
+*OBJECTIONS - CLARIFICATIONS pg 181-182*
+
+> What is done in accordance with God's will, even if it seems bad, is the best of all things. What is done contrary to God's will, even if it seems very good, is the worst and most unlawful of all things .... For it is God's will, and not the nature of things, that makes the same actions good or bad.
+
+*OBJECTIONS - CLARIFICATIONS pg 187*
+
+**Question:**  
+The text seems to place several duties side by side: obey rightful spiritual authority, avoid anarchy and private judgment, test teachers by Scripture, recognize holiness by the fruits of the Spirit, and reject false or harmful counsel even if it comes from someone outwardly respected.
+
+How does an Orthodox Christian practically discern the truth in a concrete situation without falling into either extreme: blind obedience to a bad guide on one side, or prideful self-will/prelest on the other?
+
+Put another way: if clergy, elders, saints, and Church Fathers can sometimes be mistaken or misapplied, how does one know whose counsel reflects the mind of the Church rather than merely finding someone who agrees with what one already wants to do?
+
+</details>
+
 </details>
 
 <details>
@@ -86,6 +108,10 @@ The key is that those passages usually refer to ultimate spiritual ownership, co
 > However, true repentance is able to heal all things.
 
 *OBJECTIONS - CLARIFICATIONS pg 163*
+
+> What is done in accordance with God's will, even if it seems bad, is the best of all things. What is done contrary to God's will, even if it seems very good, is the worst and most unlawful of all things .... For it is God's will, and not the nature of things, that makes the same actions good or bad.
+
+*OBJECTIONS - CLARIFICATIONS pg 187: St. John Chrysostom’s Against the Jews / Against Judaizing Christians, Homily 4*
 
 </details>
 
@@ -4012,22 +4038,49 @@ They also warn that no outward appearance of holiness, rank, or spiritual author
 </details>
 
 <details>
-<summary>Objection 12:</summary>
+<summary>Objection 12: Obey those in authority</summary>
+
+Objection 12 argues three things: first, that the canons and commandments are under the authority of the hierarchs; second, that Christians should not examine what hierarchs, teachers, or spiritual fathers say, but should simply obey whatever they are told; and third, that this is supported by Hebrews 13:17: “Obey them that have the rule over you, and submit yourselves.”
+
+The authors reject all three claims when understood absolutely. The canons and commandments are not beneath the hierarchs as though bishops may abolish or contradict them. Rather, hierarchs are servants and guardians of the canons. They may apply them pastorally through economia, but economia is a condescension for healing in particular circumstances, not permission to overturn Christ’s commandments or the Church’s received order.
+
+Likewise, obedience does not mean mindless submission to every instruction from a spiritual authority. Christians are responsible to examine counsel in the light of Scripture, the canons, the Fathers, the fruits of the Spirit, and the wider mind of the Church. Ignorant obedience may lessen blame in some cases, but willful ignorance and refusal to seek the truth do not justify following harmful or false teaching indefinitely.
+
+Finally, Hebrews 13:17 assumes rightful spiritual rule ordered toward God. It does not require obedience to commands that contradict Christ, the Scriptures, the canons, or the faith of the Church. When human authority conflicts with God, the apostolic rule remains: “We ought to obey God rather than men” (Acts 5:29).
+
+* Obedience is required, but obedience itself is ordered to God. A bishop, priest, elder, or teacher has authority insofar as he leads according to Christ and the Church; he does not have authority to command disobedience to God.
 
 </details>
 
 <details>
-<summary>Objection 13:</summary>
+<summary>Objection 13: Two or three times a year is sufficient</summary>
+
+Some say: “We keep the commandment of the Lord by receiving Communion two or three times a year, and this is sufficient as our defense.”
+
+The authors reject this as unsupported by Scripture, the canons, and the purpose of the Divine Liturgy. Christ does not command merely occasional contact with His Body and Blood, but gives Himself as the true food and drink by which we have life. Just as bodily life requires not only having eaten in the past, but continuing to eat in the present and needing food in the future, the soul also needs continual nourishment by God’s grace through the Mysteries.
+
+Therefore, receiving two or three times a year should not be treated as the normal standard for those who are able to prepare and approach more frequently. If a person’s ordinary way of life leaves him able or willing to commune only rarely, that life should be examined, because the things preventing Communion may themselves be pulling him away from communion with God.
+
+The ordinary pattern urged by the authors remains: frequent Communion for those who are baptized Orthodox Christians, repentant, properly prepared, reverent, and not under penance.
+
+* Holy Communion is not a rare reward for the already perfected, but the true food and medicine of those living in Christ.
+
+* “I commune a few times a year” is not, by itself, a sufficient apology if one could receive more often with repentance and preparation.
+
+* The food analogy shows continual dependence: we have been nourished, are being nourished, and must continue to be nourished.
+
+* Likewise, salvation is not treated as a past event only: we have been saved, are being saved, and hope to be saved by God’s mercy as we continue in repentance, obedience, and participation in His grace.
+
+* Rare Communion may occur through necessity, pastoral restriction, illness, distance, or other serious circumstances; but voluntary minimalism should not be made the rule.
 
 </details>
-
 
 </details>
 
 <details>
 <summary><h1>Resources</h1></summary>
 
-* [Concerning Frequency of Holy Communion - Preface, History](https://drive.google.com/file/d/1NIkcp9Un1bSHQfsD2lYKqlGhGKcur35P/view)
+* [Frequent Communion Ch 2](https://files.constantcontact.com/aaffd725901/186f40a8-dbfd-41a7-bb8c-fb70950cec7f.pdf?rdr=true)
 * [Frequent Communion Ch 3](https://files.constantcontact.com/aaffd725901/d05a196b-8e3a-4c32-835b-cb80dbfc5944.pdf?rdr=true)
 * [Frequent Communion Objections 1-5](https://files.constantcontact.com/aaffd725901/6e8ffb08-7337-49df-8888-b83762007b0a.pdf?rdr=true)
 * [Frequent Communion Objections 6 - 13](https://files.constantcontact.com/aaffd725901/c7565a1d-48ea-4e4a-b690-7c7b3220562b.pdf?rdr=true)
