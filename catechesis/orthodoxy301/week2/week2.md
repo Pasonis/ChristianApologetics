@@ -159,6 +159,11 @@ Put another way: if clergy, elders, saints, and Church Fathers can sometimes be 
 
 *Source: [OBJECTIONS - CLARIFICATIONS pg 187](#obj13-pg-187); St. John Chrysostom, *Against Judaizing Christians*, Homily 4*
 
+> Therefore, even though the divine Fathers ascribe frequent Communion only to the perfect, it is clear that they do not seek perfection from communicants, but amendment of life through repentance. 
+
+*OBJECTIONS - CLARIFICATIONS pg 151*
+
+
 </details>
 
 <details>
@@ -4282,6 +4287,17 @@ The ordinary pattern urged by the authors remains: frequent Communion for those 
 * Divine Liturgy of St. John Chrysostom, Prayer after the sanctification of the Gifts.
 * Third Prayer before Holy Communion, attributed in the excerpt to St. John Chrysostom, in *A Prayer Book for Orthodox Christians*.
 * Seventh Prayer before Holy Communion, St. Symeon the New Theologian, in *A Prayer Book for Orthodox Christians*.
+
+</details>
+
+
+<details>
+<summary>follow up</summary>
+
+# Follow up
+
+What the Church Fathers Say About... Vol 1 & 2
+
 
 </details>
 
