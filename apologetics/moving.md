@@ -13,6 +13,10 @@ the land of the meek-hearted
 [The Life of Antony by Saint Athanasius of Alexandria](https://dn720003.ca.archive.org/0/items/the-life-of-antony-by-saint-athanasius-of-alexandria/the-life-of-antony-by-saint-athanasius-of-alexandria.pdf)
 
 
+> The saints of the Church are unanimous in their claim that Christian life is the participation in the life of the Blessed Trinity in the most genuine and realistic way. It is the life of men becoming divine. In the smallest aspects of everyday life Christians are called to live the life of God the Father, which is communicated to them by Christ, the Son of God, and made possible for them by the Holy Spirit who lives and acts within them.
+
+[The Orthodox Faith, Volume I: Doctrine and Scripture](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-holy-trinity-in-christian-life)
+
 ---
 
 [index](index.md#accepted-concepts)
