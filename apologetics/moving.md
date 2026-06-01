@@ -17,6 +17,18 @@ the land of the meek-hearted
 
 [The Orthodox Faith, Volume I: Doctrine and Scripture](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-holy-trinity-in-christian-life)
 
+> ...out of zeal for the uprightness of the truth, and for the rule of the confession of the pure Gospel, and for the salvation of souls,...
+
+[Constantinople III: The Letter of Pope Agatho](https://www.newadvent.org/fathers/3813.htm)
+
+> ...far be it from the Christian heart to rejoice at another's fall, when the Lord of all teaches, "I desire not the death of a sinner, but that he be converted and live;"
+
+[Constantinople III: The Letter of Pope Agatho](https://www.newadvent.org/fathers/3813.htm)
+
+> "For everything that does make manifest is light," for the truth ever remains constant and the same, but falsehood is ever varying, and in its wanderings adopting things mutually contradictory
+
+[Constantinople III: The Letter of Pope Agatho](https://www.newadvent.org/fathers/3813.htm)
+
 ---
 
 [index](index.md#accepted-concepts)
