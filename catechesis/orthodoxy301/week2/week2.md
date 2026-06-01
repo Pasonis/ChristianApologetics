@@ -140,6 +140,11 @@ Put another way: if clergy, elders, saints, and Church Fathers can sometimes be 
 
 *Source: [OBJECTIONS - CLARIFICATIONS pg 144-145](#obj3-pg-144)*
 
+<a id="moving-amend-life"></a>
+
+> Therefore, even though the divine Fathers ascribe frequent Communion only to the perfect, it is clear that they do not seek perfection from communicants, but amendment of life through repentance. 
+
+*Source: [OBJECTIONS - CLARIFICATIONS pg 151](#obj5-pg-151)*
 
 <a id="moving-intervals-of-time"></a>
 
@@ -147,22 +152,52 @@ Put another way: if clergy, elders, saints, and Church Fathers can sometimes be 
 
 *Source: [OBJECTIONS - CLARIFICATIONS pg 154](#obj5-pg-154)*
 
+<a id="moving-renew-prepare"></a>
+
+> You should make a beginning of a more perfect life and renew and prepare yourself for the reception of the eternal blessings to come 
+
+*Source: [OBJECTIONS - CLARIFICATIONS pg 160](#obj7-pg-160)*
+
 <a id="moving-true-repentance"></a>
 
 > However, true repentance is able to heal all things.
 
 *Source: [OBJECTIONS - CLARIFICATIONS pg 163](#obj8-pg-163)*
 
+<a id="moving-compunction"></a>
+
+> The person who approaches to partake of the Mysteries with fear, trembling, confession, and compunction receives forgiveness,
+
+Compunction in the Orthodox spiritual vocabulary does not mean decorum, politeness, or general respect. It means something much deeper and more interior: a pierced, softened, awakened heart—a sorrow that is full of hope, not despair.
+
+What “compunction” actually means in the Fathers
+The Greek word is κατάνυξις (katanýxis), literally “a piercing.” It refers to:
+
+being inwardly struck by the awareness of God’s mercy
+
+feeling sorrow for one’s sins in a way that opens the heart
+
+a tender, softened disposition before God
+
+tears, or at least the movement of the heart toward repentance
+
+a longing for healing, not self‑loathing
+
+It is the **heart’s wound of love**—the realization that God is good, I am broken, and I want to return to Him.
+
+*Source: [OBJECTIONS - CLARIFICATIONS pg 163-164](#obj8-pg-163)*
+
+<a id="moving-habit"></a>
+
+>The divine Chrysostom says that a custom or habit contrary to the divine laws is to be terminated. Again he says: "Habit is a difficult thing, and it is hard to break and hard to avoid .... Therefore, the more you understand the power of a habit, the more should you endeavor to be rid of a bad habit and change yourself over to a good one."
+
+*Source: [OBJECTIONS - CLARIFICATIONS pg 169](#obj10-pg-169)*
+
 <a id="moving-gods-will"></a>
 
 > What is done in accordance with God's will, even if it seems bad, is the best of all things. What is done contrary to God's will, even if it seems very good, is the worst and most unlawful of all things .... For it is God's will, and not the nature of things, that makes the same actions good or bad.
 
 *Source: [OBJECTIONS - CLARIFICATIONS pg 187](#obj13-pg-187); St. John Chrysostom, *Against Judaizing Christians*, Homily 4*
-
-> Therefore, even though the divine Fathers ascribe frequent Communion only to the perfect, it is clear that they do not seek perfection from communicants, but amendment of life through repentance. 
-
-*OBJECTIONS - CLARIFICATIONS pg 151*
-
 
 </details>
 
@@ -2482,6 +2517,8 @@ Let no sinner approach. However, I do not mean "no"
 <details>
 <summary id="obj5-pg-151">OBJECTIONS - CLARIFICATIONS pg 151</summary>
 
+*Related:* [Moving excerpt: amendment of life through repentance](#moving-amend-life).
+
 sinner, because I would thus preclude my self above all
 from approaching the divine Table. What I mean is that
 no one who is persistently a sinner (that is, unconfessed
@@ -2977,6 +3014,8 @@ Canon 5 of Timothy of Alexandria (Pedalion, 668; The Rudder, 892).]
 <details>
 <summary id="obj7-pg-160">OBJECTIONS - CLARIFICATIONS pg 160</summary>
 
+*Related:* [Moving excerpt: prepare and renew yourself](#moving-renew-prepare).
+
 you should correct yourself in all ways. On this day you
 should go to the temple of God and attend the services
 held there, and with sincere faith and a clean conscience
@@ -3088,7 +3127,7 @@ fall as victims of deceit into vainglory, or sorrow, or anger,
 <details>
 <summary id="obj8-pg-163">OBJECTIONS - CLARIFICATIONS pg 163</summary>
 
-*Related:* [Summary: Objection 8](#summary-obj8); [Moving excerpt: true repentance heals all things](#moving-true-repentance).
+*Related:* [Summary: Objection 8](#summary-obj8); [Moving excerpt: true repentance heals all things](#moving-true-repentance); [Moving excerpt: compunction meaning](#moving-compunction)
 
 or some other like sin, let us condemn ourselves and
 confess to God. Thus let us partake of the Holy Mysteries,
@@ -3323,7 +3362,7 @@ Regopoulos, 1992], 112-114).
 <details>
 <summary id="obj10-pg-169">OBJECTIONS - CLARIFICATIONS pg 169</summary>
 
-*Related:* [Summary: Objection 10](#summary-obj10); [Question: canons and authorities](#q-canons-authority).
+*Related:* [Summary: Objection 10](#summary-obj10); [Question: canons and authorities](#q-canons-authority); [Moving: overcoming habits](#moving-habit)
 
 OBJECTION 10
 
@@ -4297,6 +4336,8 @@ The ordinary pattern urged by the authors remains: frequent Communion for those 
 # Follow up
 
 What the Church Fathers Say About... Vol 1 & 2
+
+Eastern vs Western depictions of Christ on the cross. Western iconograpy depicts a beaten, bruised and sagging christ. Eastern portrays upright, dead but serene they talk of conquering or trampling death through death and restoring not suffering in our place or paying the price for our personal sins.
 
 
 </details>

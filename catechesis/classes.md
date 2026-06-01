@@ -12,6 +12,8 @@ frdcostarakis@stgeorgenh.org
 
 6036229113
 
+beth@stgeorgenh.org
+
 # catechesis 101 - prayer
 2/25/2026
 
